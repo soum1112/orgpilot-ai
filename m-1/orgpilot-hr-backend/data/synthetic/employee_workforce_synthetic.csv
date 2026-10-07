@@ -1,0 +1,127 @@
+employee_id,employee_name,department_code,department,job_role,manager_id,employment_type,tenure_months,work_location,weekly_capacity_hours,employment_status,data_origin,data_source
+EMP0001,Pooja Patil,ENG,Engineering,DevOps Engineer,,Full-time,39,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0002,Avni Iyer,QA,Quality Assurance,QA Lead,,Full-time,3,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0003,Saanvi Desai,OPS,Operations,Operations Analyst,,Contract,60,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0004,Rudra Rao,SUP,Customer Support,Technical Support Engineer,,Full-time,52,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0005,Dhruv Iyer,PMO,Product & Project Management,Product Manager,,Full-time,79,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0006,Anika Patil,HR,People Operations,HR Business Partner,,Full-time,61,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0007,Sana Desai,ENG,Engineering,Engineering Manager,EMP0001,Full-time,57,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0008,Diya Bose,QA,Quality Assurance,QA Engineer,EMP0002,Contract,55,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0009,Ira Menon,OPS,Operations,IT Support Engineer,EMP0003,Full-time,81,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0010,Saanvi Roy,SUP,Customer Support,Support Specialist,EMP0004,Full-time,47,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0011,Dev Nair,PMO,Product & Project Management,Business Analyst,EMP0005,Contract,62,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0012,Aditi Pawar,HR,People Operations,Talent Acquisition Specialist,EMP0006,Full-time,62,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0013,Rudra Khan,ENG,Engineering,Software Engineer,EMP0001,Full-time,18,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0014,Ritvik Gupta,QA,Quality Assurance,QA Engineer,EMP0002,Full-time,14,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0015,Avni Gupta,OPS,Operations,IT Support Engineer,EMP0003,Full-time,47,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0016,Anika Shah,SUP,Customer Support,Support Specialist,EMP0004,Contract,19,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0017,Vanya Bose,PMO,Product & Project Management,Product Manager,EMP0005,Full-time,46,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0018,Neil Pillai,HR,People Operations,Talent Acquisition Specialist,EMP0006,Contract,63,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0019,Rudra Malhotra,ENG,Engineering,Senior Software Engineer,EMP0001,Full-time,57,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0020,Rudra Patil,QA,Quality Assurance,Automation Engineer,EMP0002,Full-time,8,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0021,Abeer Khan,OPS,Operations,IT Support Engineer,EMP0003,Full-time,75,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0022,Sana Nair,SUP,Customer Support,Technical Support Engineer,EMP0004,Full-time,40,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0023,Ayaan Malhotra,PMO,Product & Project Management,Business Analyst,EMP0005,Contract,74,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0024,Aanya Pawar,HR,People Operations,HR Business Partner,EMP0006,Full-time,44,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0025,Advik Shah,ENG,Engineering,Senior Software Engineer,EMP0001,Full-time,45,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0026,Tara Kulkarni,QA,Quality Assurance,QA Lead,EMP0002,Full-time,46,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0027,Ayaan Joshi,OPS,Operations,Operations Analyst,EMP0003,Full-time,62,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0028,Prisha Kulkarni,SUP,Customer Support,Support Lead,EMP0004,Full-time,16,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0029,Avni Menon,PMO,Product & Project Management,Business Analyst,EMP0005,Full-time,64,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0030,Ishita Patil,HR,People Operations,Talent Acquisition Specialist,EMP0006,Full-time,50,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0031,Ira Pawar,ENG,Engineering,DevOps Engineer,EMP0001,Contract,64,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0032,Zoya Bhat,QA,Quality Assurance,Automation Engineer,EMP0002,Full-time,23,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0033,Ved Menon,OPS,Operations,IT Support Engineer,EMP0003,Contract,26,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0034,Advik Das,SUP,Customer Support,Technical Support Engineer,EMP0004,Full-time,36,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0035,Rohan Shah,PMO,Product & Project Management,Project Coordinator,EMP0005,Full-time,22,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0036,Pooja Bhat,HR,People Operations,Talent Acquisition Specialist,EMP0006,Contract,1,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0037,Kabir Khan,ENG,Engineering,Senior Software Engineer,EMP0001,Full-time,15,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0038,Pooja Fernandes,QA,Quality Assurance,Automation Engineer,EMP0002,Full-time,76,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0039,Saanvi Mehta,OPS,Operations,Operations Manager,EMP0003,Full-time,23,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0040,Mira Khan,SUP,Customer Support,Technical Support Engineer,EMP0004,Full-time,35,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0041,Vanya Jain,PMO,Product & Project Management,Project Coordinator,EMP0005,Full-time,4,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0042,Tara Jain,HR,People Operations,HR Operations Specialist,EMP0006,Full-time,15,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0043,Ved Verma,ENG,Engineering,Senior Software Engineer,EMP0001,Full-time,31,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0044,Anika Malhotra,QA,Quality Assurance,QA Engineer,EMP0002,Full-time,69,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0045,Krish Shah,OPS,Operations,Operations Analyst,EMP0003,Full-time,14,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0046,Ishaan Nair,SUP,Customer Support,Support Specialist,EMP0004,Full-time,33,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0047,Abeer Verma,PMO,Product & Project Management,Product Manager,EMP0005,Contract,73,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0048,Harsh Kulkarni,HR,People Operations,HR Business Partner,EMP0006,Full-time,70,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0049,Kabir Roy,ENG,Engineering,Senior Software Engineer,EMP0001,Contract,58,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0050,Myra Iyer,QA,Quality Assurance,Automation Engineer,EMP0002,Contract,69,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0051,Nisha Nair,OPS,Operations,Operations Analyst,EMP0003,Full-time,24,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0052,Riya Menon,SUP,Customer Support,Support Specialist,EMP0004,Full-time,48,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0053,Kunal Gupta,PMO,Product & Project Management,Product Manager,EMP0005,Full-time,31,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0054,Nisha Shah,HR,People Operations,HR Business Partner,EMP0006,Full-time,70,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0055,Aanya Desai,ENG,Engineering,Software Engineer,EMP0001,Full-time,67,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0056,Tara Das,QA,Quality Assurance,QA Engineer,EMP0002,Full-time,4,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0057,Tara Roy,OPS,Operations,Operations Analyst,EMP0003,Full-time,63,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0058,Abeer Nair,SUP,Customer Support,Support Lead,EMP0004,Contract,27,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0059,Parth Pillai,PMO,Product & Project Management,Business Analyst,EMP0005,Full-time,75,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0060,Advik Verma,HR,People Operations,Talent Acquisition Specialist,EMP0006,Full-time,67,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0061,Dhruv Gupta,ENG,Engineering,Engineering Manager,EMP0001,Full-time,37,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0062,Dhruv Sethi,QA,Quality Assurance,QA Engineer,EMP0002,Full-time,28,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0063,Jiya Das,OPS,Operations,IT Support Engineer,EMP0003,Full-time,69,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0064,Nisha Bose,SUP,Customer Support,Support Lead,EMP0004,Full-time,52,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0065,Om Nair,PMO,Product & Project Management,Business Analyst,EMP0005,Full-time,9,Remote,40,On Leave,synthetic_demo,synthetic demo data
+EMP0066,Siya Verma,HR,People Operations,Talent Acquisition Specialist,EMP0006,Contract,47,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0067,Kabir Gupta,ENG,Engineering,Software Engineer,EMP0001,Full-time,51,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0068,Vivaan Kulkarni,QA,Quality Assurance,QA Engineer,EMP0002,Full-time,38,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0069,Rohan Khan,OPS,Operations,IT Support Engineer,EMP0003,Full-time,25,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0070,Ananya Verma,SUP,Customer Support,Support Lead,EMP0004,Full-time,8,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0071,Krish Pawar,PMO,Product & Project Management,Product Manager,EMP0005,Full-time,62,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0072,Rohan Verma,HR,People Operations,HR Operations Specialist,EMP0006,Full-time,61,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0073,Diya Menon,ENG,Engineering,Senior Software Engineer,EMP0001,Full-time,73,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0074,Meera Kapoor,QA,Quality Assurance,QA Lead,EMP0002,Full-time,37,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0075,Rudra Roy,OPS,Operations,Operations Analyst,EMP0003,Full-time,28,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0076,Siya Rao,SUP,Customer Support,Support Specialist,EMP0004,Contract,67,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0077,Harsh Fernandes,PMO,Product & Project Management,Business Analyst,EMP0005,Full-time,53,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0078,Ishita Malhotra,HR,People Operations,Talent Acquisition Specialist,EMP0006,Contract,51,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0079,Ishaan Gupta,ENG,Engineering,DevOps Engineer,EMP0001,Full-time,78,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0080,Manav Mehta,QA,Quality Assurance,Automation Engineer,EMP0002,Full-time,23,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0081,Aarav Iyer,OPS,Operations,Operations Manager,EMP0003,Full-time,38,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0082,Ira Pillai,SUP,Customer Support,Support Specialist,EMP0004,Full-time,64,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0083,Ayaan Sethi,PMO,Product & Project Management,Project Coordinator,EMP0005,Full-time,66,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0084,Saanvi Menon,HR,People Operations,HR Operations Specialist,EMP0006,Full-time,27,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0085,Laksh Menon,ENG,Engineering,Senior Software Engineer,EMP0001,Contract,28,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0086,Vivaan Pillai,QA,Quality Assurance,QA Lead,EMP0002,Full-time,36,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0087,Vivaan Joshi,OPS,Operations,Operations Manager,EMP0003,Contract,73,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0088,Dev Nair,SUP,Customer Support,Support Specialist,EMP0004,Full-time,81,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0089,Vanya Malhotra,PMO,Product & Project Management,Product Manager,EMP0005,Full-time,60,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0090,Ishita Pawar,HR,People Operations,Talent Acquisition Specialist,EMP0006,Full-time,16,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0091,Tara Bose,ENG,Engineering,Engineering Manager,EMP0001,Full-time,14,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0092,Tanishka Pillai,QA,Quality Assurance,Automation Engineer,EMP0002,Contract,53,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0093,Vanya Menon,OPS,Operations,IT Support Engineer,EMP0003,Full-time,9,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0094,Diya Desai,SUP,Customer Support,Technical Support Engineer,EMP0004,Contract,59,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0095,Om Mehta,PMO,Product & Project Management,Business Analyst,EMP0005,Contract,55,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0096,Abeer Desai,HR,People Operations,HR Business Partner,EMP0006,Full-time,68,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0097,Laksh Roy,ENG,Engineering,Software Engineer,EMP0001,Full-time,27,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0098,Aditi Malhotra,QA,Quality Assurance,QA Lead,EMP0002,Full-time,65,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0099,Zoya Desai,OPS,Operations,Operations Manager,EMP0003,Full-time,83,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0100,Advik Menon,SUP,Customer Support,Support Lead,EMP0004,Full-time,77,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0101,Tara Joshi,SEC,Security,Security Lead,,Full-time,54,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0102,Tanmay Gupta,SAL,Sales,Sales Lead,,Full-time,69,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0103,Riya Kaur,FIN,Finance,Finance Manager,,Full-time,15,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0104,Meera Verma,MKT,Marketing,Marketing Manager,,Full-time,14,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0105,Karan Gupta,SEC,Security,Security Analyst,EMP0101,Full-time,63,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0106,Manav Gupta,SEC,Security,Security Analyst,EMP0101,Full-time,55,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0107,Varun Shah,SEC,Security,Security Analyst,EMP0101,Full-time,24,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0108,Reyansh Agarwal,SEC,Security,Security Engineer,EMP0101,Full-time,8,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0109,Karan Singh,SEC,Security,Security Engineer,EMP0101,Full-time,2,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0110,Varun Bhatt,SAL,Sales,Account Executive,EMP0102,Full-time,14,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0111,Pranav Bhat,SAL,Sales,Account Executive,EMP0102,Full-time,37,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0112,Karan Bhatt,SAL,Sales,Account Executive,EMP0102,Contract,73,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0113,Priya Chopra,SAL,Sales,Account Executive,EMP0102,Full-time,18,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0114,Varun Kaur,SAL,Sales,Sales Development Representative,EMP0102,Full-time,47,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0115,Yash Reddy,SAL,Sales,Sales Development Representative,EMP0102,Full-time,1,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0116,Yash Singh,SAL,Sales,Sales Development Representative,EMP0102,Full-time,27,Bengaluru,40,Active,synthetic_demo,synthetic demo data
+EMP0117,Rohan Kulkarni,FIN,Finance,Financial Analyst,EMP0103,Full-time,36,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0118,Harsh Nambiar,FIN,Finance,Financial Analyst,EMP0103,Full-time,49,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0119,Kabir Joshi,FIN,Finance,Financial Analyst,EMP0103,Full-time,81,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0120,Varun Gupta,FIN,Finance,Accounts Executive,EMP0103,Full-time,31,Remote,40,Active,synthetic_demo,synthetic demo data
+EMP0121,Yash Pillai,FIN,Finance,Accounts Executive,EMP0103,Full-time,72,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0122,Vivaan Singh,MKT,Marketing,Digital Marketing Specialist,EMP0104,Full-time,48,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0123,Yash Banerjee,MKT,Marketing,Digital Marketing Specialist,EMP0104,Full-time,4,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0124,Nidhi Chopra,MKT,Marketing,Digital Marketing Specialist,EMP0104,Contract,28,Pune,40,Active,synthetic_demo,synthetic demo data
+EMP0125,Pranav Shah,MKT,Marketing,Content Strategist,EMP0104,Full-time,15,Hybrid,40,Active,synthetic_demo,synthetic demo data
+EMP0126,Siddharth Verma,MKT,Marketing,Content Strategist,EMP0104,Full-time,30,Pune,40,Active,synthetic_demo,synthetic demo data

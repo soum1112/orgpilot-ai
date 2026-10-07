@@ -1,0 +1,11 @@
+department_id,department_name,data_source
+ENG,Engineering,synthetic demo data
+FIN,Finance,synthetic demo data
+HR,People Operations,synthetic demo data
+MKT,Marketing,synthetic demo data
+OPS,Operations,synthetic demo data
+PMO,Product & Project Management,synthetic demo data
+QA,Quality Assurance,synthetic demo data
+SAL,Sales,synthetic demo data
+SEC,Security,synthetic demo data
+SUP,Customer Support,synthetic demo data

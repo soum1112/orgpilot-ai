@@ -1,0 +1,505 @@
+employee_id,skill_name,proficiency_level,required_for_role,last_assessed_date,assessment_method,data_origin,data_source
+EMP0001,Python,Intermediate,No,2026-01-17,Manager review,synthetic_demo,synthetic demo data
+EMP0001,Docker,Advanced,No,2026-07-22,Practical assessment,synthetic_demo,synthetic demo data
+EMP0001,Incident Response,Beginner,Yes,2026-06-22,Self-assessment,synthetic_demo,synthetic demo data
+EMP0001,Project Management,Advanced,Yes,2026-04-14,Practical assessment,synthetic_demo,synthetic demo data
+EMP0002,Data Analysis,Intermediate,Yes,2026-08-02,Practical assessment,synthetic_demo,synthetic demo data
+EMP0002,Manual Testing,Beginner,Yes,2026-01-04,Manager review,synthetic_demo,synthetic demo data
+EMP0002,API Design,Beginner,No,2026-08-29,Manager review,synthetic_demo,synthetic demo data
+EMP0002,Python,Beginner,Yes,2026-05-25,Practical assessment,synthetic_demo,synthetic demo data
+EMP0003,CI/CD,Advanced,No,2026-09-20,Practical assessment,synthetic_demo,synthetic demo data
+EMP0003,Docker,Advanced,Yes,2026-03-08,Manager review,synthetic_demo,synthetic demo data
+EMP0003,React,Advanced,No,2026-06-29,Self-assessment,synthetic_demo,synthetic demo data
+EMP0003,Project Management,Intermediate,Yes,2025-10-19,Self-assessment,synthetic_demo,synthetic demo data
+EMP0004,Docker,Beginner,No,2025-12-04,Manager review,synthetic_demo,synthetic demo data
+EMP0004,API Design,Intermediate,Yes,2025-12-21,Manager review,synthetic_demo,synthetic demo data
+EMP0004,SQL,Advanced,No,2026-08-22,Manager review,synthetic_demo,synthetic demo data
+EMP0004,Automated Testing,Beginner,Yes,2026-01-26,Manager review,synthetic_demo,synthetic demo data
+EMP0005,Manual Testing,Advanced,Yes,2026-01-06,Self-assessment,synthetic_demo,synthetic demo data
+EMP0005,Data Analysis,Beginner,Yes,2026-02-12,Manager review,synthetic_demo,synthetic demo data
+EMP0005,API Design,Intermediate,Yes,2025-12-30,Practical assessment,synthetic_demo,synthetic demo data
+EMP0005,React,Intermediate,No,2026-09-24,Manager review,synthetic_demo,synthetic demo data
+EMP0006,Python,Advanced,Yes,2026-03-10,Self-assessment,synthetic_demo,synthetic demo data
+EMP0006,Data Analysis,Intermediate,Yes,2025-12-28,Self-assessment,synthetic_demo,synthetic demo data
+EMP0006,Cybersecurity,Beginner,No,2026-05-16,Manager review,synthetic_demo,synthetic demo data
+EMP0006,Docker,Intermediate,No,2026-03-07,Self-assessment,synthetic_demo,synthetic demo data
+EMP0007,CI/CD,Intermediate,Yes,2026-06-13,Practical assessment,synthetic_demo,synthetic demo data
+EMP0007,System Design,Advanced,Yes,2026-05-03,Self-assessment,synthetic_demo,synthetic demo data
+EMP0007,PostgreSQL,Intermediate,No,2026-01-03,Manager review,synthetic_demo,synthetic demo data
+EMP0007,Requirements Analysis,Advanced,Yes,2025-10-26,Practical assessment,synthetic_demo,synthetic demo data
+EMP0008,AWS,Beginner,No,2026-09-27,Practical assessment,synthetic_demo,synthetic demo data
+EMP0008,Requirements Analysis,Beginner,No,2026-01-21,Self-assessment,synthetic_demo,synthetic demo data
+EMP0008,CI/CD,Intermediate,Yes,2026-01-10,Manager review,synthetic_demo,synthetic demo data
+EMP0008,Linux,Beginner,Yes,2026-08-25,Manager review,synthetic_demo,synthetic demo data
+EMP0009,PostgreSQL,Intermediate,No,2026-05-15,Self-assessment,synthetic_demo,synthetic demo data
+EMP0009,Cybersecurity,Intermediate,No,2025-11-03,Self-assessment,synthetic_demo,synthetic demo data
+EMP0009,Agile Delivery,Intermediate,Yes,2026-09-12,Practical assessment,synthetic_demo,synthetic demo data
+EMP0009,Project Management,Advanced,Yes,2026-04-03,Practical assessment,synthetic_demo,synthetic demo data
+EMP0010,Agile Delivery,Beginner,No,2026-01-17,Self-assessment,synthetic_demo,synthetic demo data
+EMP0010,React,Advanced,No,2026-02-16,Practical assessment,synthetic_demo,synthetic demo data
+EMP0010,Data Analysis,Beginner,Yes,2026-06-02,Manager review,synthetic_demo,synthetic demo data
+EMP0010,System Design,Intermediate,Yes,2025-10-15,Manager review,synthetic_demo,synthetic demo data
+EMP0011,JavaScript,Beginner,Yes,2026-07-29,Manager review,synthetic_demo,synthetic demo data
+EMP0011,AWS,Intermediate,Yes,2026-08-17,Manager review,synthetic_demo,synthetic demo data
+EMP0011,PostgreSQL,Advanced,No,2026-01-01,Manager review,synthetic_demo,synthetic demo data
+EMP0011,CI/CD,Advanced,No,2026-01-09,Manager review,synthetic_demo,synthetic demo data
+EMP0012,Data Analysis,Intermediate,Yes,2026-09-26,Practical assessment,synthetic_demo,synthetic demo data
+EMP0012,Customer Communication,Beginner,No,2026-01-08,Self-assessment,synthetic_demo,synthetic demo data
+EMP0012,Automated Testing,Intermediate,Yes,2025-11-22,Practical assessment,synthetic_demo,synthetic demo data
+EMP0012,Requirements Analysis,Beginner,Yes,2025-09-30,Manager review,synthetic_demo,synthetic demo data
+EMP0013,Automated Testing,Beginner,No,2026-09-29,Practical assessment,synthetic_demo,synthetic demo data
+EMP0013,Cybersecurity,Intermediate,Yes,2026-04-16,Practical assessment,synthetic_demo,synthetic demo data
+EMP0013,Python,Intermediate,No,2026-09-01,Manager review,synthetic_demo,synthetic demo data
+EMP0013,Customer Communication,Beginner,No,2026-05-01,Practical assessment,synthetic_demo,synthetic demo data
+EMP0014,Incident Response,Beginner,No,2025-11-26,Self-assessment,synthetic_demo,synthetic demo data
+EMP0014,System Design,Advanced,Yes,2026-04-14,Self-assessment,synthetic_demo,synthetic demo data
+EMP0014,Docker,Advanced,No,2026-02-01,Manager review,synthetic_demo,synthetic demo data
+EMP0014,API Design,Beginner,Yes,2026-06-18,Practical assessment,synthetic_demo,synthetic demo data
+EMP0015,Linux,Intermediate,Yes,2026-03-31,Practical assessment,synthetic_demo,synthetic demo data
+EMP0015,Automated Testing,Advanced,No,2025-11-28,Self-assessment,synthetic_demo,synthetic demo data
+EMP0015,Communication,Intermediate,No,2026-02-14,Self-assessment,synthetic_demo,synthetic demo data
+EMP0015,API Design,Beginner,Yes,2026-07-22,Manager review,synthetic_demo,synthetic demo data
+EMP0016,AWS,Intermediate,No,2026-02-02,Self-assessment,synthetic_demo,synthetic demo data
+EMP0016,Customer Communication,Beginner,Yes,2026-05-27,Manager review,synthetic_demo,synthetic demo data
+EMP0016,Communication,Beginner,No,2026-08-09,Manager review,synthetic_demo,synthetic demo data
+EMP0016,Agile Delivery,Advanced,No,2026-04-18,Manager review,synthetic_demo,synthetic demo data
+EMP0017,SQL,Intermediate,Yes,2025-10-01,Practical assessment,synthetic_demo,synthetic demo data
+EMP0017,API Design,Intermediate,No,2026-03-02,Manager review,synthetic_demo,synthetic demo data
+EMP0017,Git,Advanced,No,2025-12-07,Self-assessment,synthetic_demo,synthetic demo data
+EMP0017,Python,Beginner,Yes,2026-08-29,Practical assessment,synthetic_demo,synthetic demo data
+EMP0018,Git,Beginner,No,2026-04-25,Manager review,synthetic_demo,synthetic demo data
+EMP0018,Communication,Advanced,No,2025-11-11,Self-assessment,synthetic_demo,synthetic demo data
+EMP0018,Incident Response,Advanced,No,2026-07-24,Manager review,synthetic_demo,synthetic demo data
+EMP0018,PostgreSQL,Beginner,Yes,2026-04-28,Self-assessment,synthetic_demo,synthetic demo data
+EMP0019,AWS,Advanced,Yes,2026-03-03,Practical assessment,synthetic_demo,synthetic demo data
+EMP0019,Cybersecurity,Beginner,No,2026-05-13,Practical assessment,synthetic_demo,synthetic demo data
+EMP0019,PostgreSQL,Intermediate,Yes,2026-04-08,Manager review,synthetic_demo,synthetic demo data
+EMP0019,Linux,Beginner,No,2026-05-18,Manager review,synthetic_demo,synthetic demo data
+EMP0020,Requirements Analysis,Advanced,Yes,2026-09-14,Self-assessment,synthetic_demo,synthetic demo data
+EMP0020,Manual Testing,Beginner,No,2026-08-25,Manager review,synthetic_demo,synthetic demo data
+EMP0020,Communication,Beginner,No,2025-11-02,Practical assessment,synthetic_demo,synthetic demo data
+EMP0020,CI/CD,Intermediate,Yes,2025-11-25,Practical assessment,synthetic_demo,synthetic demo data
+EMP0021,Automated Testing,Beginner,Yes,2026-04-30,Practical assessment,synthetic_demo,synthetic demo data
+EMP0021,React,Intermediate,Yes,2026-01-11,Self-assessment,synthetic_demo,synthetic demo data
+EMP0021,Git,Intermediate,No,2026-08-13,Manager review,synthetic_demo,synthetic demo data
+EMP0021,Agile Delivery,Advanced,No,2025-11-09,Practical assessment,synthetic_demo,synthetic demo data
+EMP0022,AWS,Intermediate,Yes,2026-08-27,Manager review,synthetic_demo,synthetic demo data
+EMP0022,Agile Delivery,Advanced,No,2025-12-06,Practical assessment,synthetic_demo,synthetic demo data
+EMP0022,Linux,Advanced,Yes,2026-08-10,Practical assessment,synthetic_demo,synthetic demo data
+EMP0022,Automated Testing,Intermediate,No,2026-03-13,Practical assessment,synthetic_demo,synthetic demo data
+EMP0023,Kubernetes,Intermediate,Yes,2026-01-11,Manager review,synthetic_demo,synthetic demo data
+EMP0023,PostgreSQL,Beginner,Yes,2025-11-13,Manager review,synthetic_demo,synthetic demo data
+EMP0023,Docker,Intermediate,No,2026-02-27,Manager review,synthetic_demo,synthetic demo data
+EMP0023,JavaScript,Advanced,Yes,2026-01-11,Practical assessment,synthetic_demo,synthetic demo data
+EMP0024,Agile Delivery,Advanced,Yes,2026-06-11,Self-assessment,synthetic_demo,synthetic demo data
+EMP0024,Linux,Advanced,No,2025-12-12,Practical assessment,synthetic_demo,synthetic demo data
+EMP0024,Incident Response,Intermediate,No,2026-06-01,Self-assessment,synthetic_demo,synthetic demo data
+EMP0024,Docker,Intermediate,No,2026-09-05,Self-assessment,synthetic_demo,synthetic demo data
+EMP0025,Incident Response,Beginner,No,2026-04-18,Self-assessment,synthetic_demo,synthetic demo data
+EMP0025,API Design,Intermediate,No,2026-03-24,Self-assessment,synthetic_demo,synthetic demo data
+EMP0025,Communication,Beginner,No,2026-07-18,Practical assessment,synthetic_demo,synthetic demo data
+EMP0025,Kubernetes,Intermediate,No,2026-09-13,Self-assessment,synthetic_demo,synthetic demo data
+EMP0026,Git,Intermediate,Yes,2026-07-24,Practical assessment,synthetic_demo,synthetic demo data
+EMP0026,SQL,Beginner,Yes,2025-11-11,Practical assessment,synthetic_demo,synthetic demo data
+EMP0026,Python,Beginner,No,2026-02-01,Practical assessment,synthetic_demo,synthetic demo data
+EMP0026,System Design,Beginner,Yes,2026-04-15,Self-assessment,synthetic_demo,synthetic demo data
+EMP0027,Incident Response,Advanced,No,2026-06-06,Manager review,synthetic_demo,synthetic demo data
+EMP0027,React,Beginner,No,2025-12-12,Manager review,synthetic_demo,synthetic demo data
+EMP0027,Linux,Advanced,Yes,2025-12-23,Practical assessment,synthetic_demo,synthetic demo data
+EMP0027,Django,Beginner,Yes,2026-02-12,Self-assessment,synthetic_demo,synthetic demo data
+EMP0028,Python,Beginner,No,2026-04-03,Self-assessment,synthetic_demo,synthetic demo data
+EMP0028,Customer Communication,Intermediate,No,2025-11-14,Practical assessment,synthetic_demo,synthetic demo data
+EMP0028,PostgreSQL,Intermediate,Yes,2025-11-08,Manager review,synthetic_demo,synthetic demo data
+EMP0028,SQL,Advanced,No,2026-04-29,Practical assessment,synthetic_demo,synthetic demo data
+EMP0029,Data Analysis,Beginner,Yes,2026-05-06,Practical assessment,synthetic_demo,synthetic demo data
+EMP0029,Django,Advanced,No,2026-07-02,Practical assessment,synthetic_demo,synthetic demo data
+EMP0029,Requirements Analysis,Intermediate,Yes,2026-08-04,Practical assessment,synthetic_demo,synthetic demo data
+EMP0029,Docker,Intermediate,Yes,2026-08-14,Practical assessment,synthetic_demo,synthetic demo data
+EMP0030,Requirements Analysis,Intermediate,Yes,2026-07-17,Manager review,synthetic_demo,synthetic demo data
+EMP0030,AWS,Beginner,Yes,2026-04-10,Self-assessment,synthetic_demo,synthetic demo data
+EMP0030,Agile Delivery,Advanced,Yes,2026-04-09,Practical assessment,synthetic_demo,synthetic demo data
+EMP0030,Linux,Intermediate,No,2025-11-28,Practical assessment,synthetic_demo,synthetic demo data
+EMP0031,Django,Advanced,Yes,2026-08-16,Manager review,synthetic_demo,synthetic demo data
+EMP0031,Automated Testing,Intermediate,No,2026-05-14,Practical assessment,synthetic_demo,synthetic demo data
+EMP0031,Docker,Beginner,No,2026-03-11,Self-assessment,synthetic_demo,synthetic demo data
+EMP0031,AWS,Intermediate,Yes,2025-12-28,Self-assessment,synthetic_demo,synthetic demo data
+EMP0032,Customer Communication,Advanced,No,2026-02-12,Manager review,synthetic_demo,synthetic demo data
+EMP0032,System Design,Beginner,Yes,2026-01-15,Manager review,synthetic_demo,synthetic demo data
+EMP0032,Django,Intermediate,No,2026-06-21,Self-assessment,synthetic_demo,synthetic demo data
+EMP0032,SQL,Intermediate,No,2026-04-28,Self-assessment,synthetic_demo,synthetic demo data
+EMP0033,TypeScript,Advanced,Yes,2026-02-06,Self-assessment,synthetic_demo,synthetic demo data
+EMP0033,Manual Testing,Beginner,No,2026-03-27,Manager review,synthetic_demo,synthetic demo data
+EMP0033,JavaScript,Advanced,No,2026-01-18,Manager review,synthetic_demo,synthetic demo data
+EMP0033,Python,Beginner,Yes,2026-07-10,Self-assessment,synthetic_demo,synthetic demo data
+EMP0034,Incident Response,Beginner,No,2026-01-06,Practical assessment,synthetic_demo,synthetic demo data
+EMP0034,Docker,Beginner,Yes,2026-02-04,Manager review,synthetic_demo,synthetic demo data
+EMP0034,Automated Testing,Advanced,Yes,2026-03-03,Manager review,synthetic_demo,synthetic demo data
+EMP0034,TypeScript,Beginner,Yes,2026-01-08,Self-assessment,synthetic_demo,synthetic demo data
+EMP0035,API Design,Advanced,Yes,2026-03-12,Manager review,synthetic_demo,synthetic demo data
+EMP0035,Communication,Intermediate,Yes,2026-02-25,Self-assessment,synthetic_demo,synthetic demo data
+EMP0035,Docker,Beginner,No,2025-12-31,Self-assessment,synthetic_demo,synthetic demo data
+EMP0035,Customer Communication,Beginner,No,2025-11-27,Practical assessment,synthetic_demo,synthetic demo data
+EMP0036,Git,Intermediate,No,2025-12-06,Practical assessment,synthetic_demo,synthetic demo data
+EMP0036,CI/CD,Advanced,Yes,2026-01-30,Practical assessment,synthetic_demo,synthetic demo data
+EMP0036,Python,Intermediate,No,2026-08-29,Manager review,synthetic_demo,synthetic demo data
+EMP0036,Incident Response,Beginner,Yes,2026-09-29,Manager review,synthetic_demo,synthetic demo data
+EMP0037,Data Analysis,Intermediate,No,2026-07-09,Manager review,synthetic_demo,synthetic demo data
+EMP0037,Incident Response,Intermediate,Yes,2026-08-17,Practical assessment,synthetic_demo,synthetic demo data
+EMP0037,Python,Advanced,Yes,2026-08-26,Self-assessment,synthetic_demo,synthetic demo data
+EMP0037,Agile Delivery,Beginner,Yes,2026-02-14,Self-assessment,synthetic_demo,synthetic demo data
+EMP0038,PostgreSQL,Beginner,No,2026-01-04,Practical assessment,synthetic_demo,synthetic demo data
+EMP0038,Communication,Advanced,Yes,2026-03-11,Self-assessment,synthetic_demo,synthetic demo data
+EMP0038,Requirements Analysis,Intermediate,Yes,2026-07-21,Manager review,synthetic_demo,synthetic demo data
+EMP0038,Incident Response,Beginner,Yes,2025-11-06,Practical assessment,synthetic_demo,synthetic demo data
+EMP0039,TypeScript,Advanced,Yes,2026-05-13,Practical assessment,synthetic_demo,synthetic demo data
+EMP0039,PostgreSQL,Intermediate,Yes,2025-11-17,Self-assessment,synthetic_demo,synthetic demo data
+EMP0039,SQL,Intermediate,Yes,2026-02-05,Self-assessment,synthetic_demo,synthetic demo data
+EMP0039,Data Analysis,Intermediate,No,2026-02-02,Manager review,synthetic_demo,synthetic demo data
+EMP0040,Linux,Intermediate,Yes,2026-05-29,Self-assessment,synthetic_demo,synthetic demo data
+EMP0040,Requirements Analysis,Intermediate,No,2026-02-21,Manager review,synthetic_demo,synthetic demo data
+EMP0040,Customer Communication,Beginner,No,2026-04-07,Manager review,synthetic_demo,synthetic demo data
+EMP0040,API Design,Beginner,No,2026-08-22,Practical assessment,synthetic_demo,synthetic demo data
+EMP0041,SQL,Advanced,Yes,2026-01-23,Self-assessment,synthetic_demo,synthetic demo data
+EMP0041,JavaScript,Intermediate,No,2025-10-22,Practical assessment,synthetic_demo,synthetic demo data
+EMP0041,Git,Intermediate,No,2026-04-27,Practical assessment,synthetic_demo,synthetic demo data
+EMP0041,Linux,Advanced,No,2025-10-05,Self-assessment,synthetic_demo,synthetic demo data
+EMP0042,Project Management,Intermediate,No,2026-01-08,Self-assessment,synthetic_demo,synthetic demo data
+EMP0042,Requirements Analysis,Intermediate,No,2026-05-02,Practical assessment,synthetic_demo,synthetic demo data
+EMP0042,Communication,Beginner,No,2026-05-19,Self-assessment,synthetic_demo,synthetic demo data
+EMP0042,React,Intermediate,Yes,2025-10-25,Self-assessment,synthetic_demo,synthetic demo data
+EMP0043,Git,Intermediate,Yes,2025-11-17,Manager review,synthetic_demo,synthetic demo data
+EMP0043,Requirements Analysis,Advanced,No,2026-03-20,Practical assessment,synthetic_demo,synthetic demo data
+EMP0043,Manual Testing,Advanced,No,2025-10-08,Practical assessment,synthetic_demo,synthetic demo data
+EMP0043,Django,Intermediate,No,2026-05-27,Self-assessment,synthetic_demo,synthetic demo data
+EMP0044,Project Management,Beginner,Yes,2026-01-24,Practical assessment,synthetic_demo,synthetic demo data
+EMP0044,JavaScript,Beginner,Yes,2025-11-25,Manager review,synthetic_demo,synthetic demo data
+EMP0044,Python,Advanced,No,2025-12-26,Manager review,synthetic_demo,synthetic demo data
+EMP0044,Automated Testing,Intermediate,Yes,2026-08-26,Practical assessment,synthetic_demo,synthetic demo data
+EMP0045,Data Analysis,Beginner,No,2026-08-23,Practical assessment,synthetic_demo,synthetic demo data
+EMP0045,Git,Advanced,Yes,2025-12-22,Practical assessment,synthetic_demo,synthetic demo data
+EMP0045,Linux,Intermediate,No,2026-06-22,Practical assessment,synthetic_demo,synthetic demo data
+EMP0045,Incident Response,Advanced,Yes,2026-06-28,Manager review,synthetic_demo,synthetic demo data
+EMP0046,Cybersecurity,Intermediate,Yes,2026-05-07,Practical assessment,synthetic_demo,synthetic demo data
+EMP0046,Communication,Advanced,Yes,2026-03-28,Manager review,synthetic_demo,synthetic demo data
+EMP0046,TypeScript,Advanced,No,2025-11-07,Manager review,synthetic_demo,synthetic demo data
+EMP0046,JavaScript,Intermediate,Yes,2026-01-04,Manager review,synthetic_demo,synthetic demo data
+EMP0047,System Design,Intermediate,Yes,2026-07-09,Practical assessment,synthetic_demo,synthetic demo data
+EMP0047,AWS,Intermediate,Yes,2026-08-19,Practical assessment,synthetic_demo,synthetic demo data
+EMP0047,Communication,Intermediate,Yes,2026-02-23,Self-assessment,synthetic_demo,synthetic demo data
+EMP0047,SQL,Advanced,No,2025-12-25,Practical assessment,synthetic_demo,synthetic demo data
+EMP0048,API Design,Beginner,Yes,2026-04-22,Self-assessment,synthetic_demo,synthetic demo data
+EMP0048,Project Management,Beginner,Yes,2025-10-05,Self-assessment,synthetic_demo,synthetic demo data
+EMP0048,AWS,Intermediate,Yes,2026-06-10,Manager review,synthetic_demo,synthetic demo data
+EMP0048,React,Beginner,Yes,2026-06-23,Practical assessment,synthetic_demo,synthetic demo data
+EMP0049,Linux,Beginner,No,2025-10-12,Practical assessment,synthetic_demo,synthetic demo data
+EMP0049,Project Management,Beginner,No,2026-04-17,Practical assessment,synthetic_demo,synthetic demo data
+EMP0049,Agile Delivery,Advanced,No,2026-01-26,Practical assessment,synthetic_demo,synthetic demo data
+EMP0049,CI/CD,Intermediate,Yes,2025-11-05,Manager review,synthetic_demo,synthetic demo data
+EMP0050,Git,Advanced,Yes,2026-01-11,Self-assessment,synthetic_demo,synthetic demo data
+EMP0050,Incident Response,Beginner,No,2026-09-06,Self-assessment,synthetic_demo,synthetic demo data
+EMP0050,Linux,Advanced,No,2026-03-13,Practical assessment,synthetic_demo,synthetic demo data
+EMP0050,Agile Delivery,Intermediate,Yes,2025-10-23,Manager review,synthetic_demo,synthetic demo data
+EMP0051,Data Analysis,Beginner,Yes,2026-05-28,Manager review,synthetic_demo,synthetic demo data
+EMP0051,Project Management,Intermediate,Yes,2026-08-07,Self-assessment,synthetic_demo,synthetic demo data
+EMP0051,CI/CD,Advanced,No,2026-05-08,Manager review,synthetic_demo,synthetic demo data
+EMP0051,Automated Testing,Intermediate,No,2026-08-14,Practical assessment,synthetic_demo,synthetic demo data
+EMP0052,Django,Beginner,No,2025-12-11,Self-assessment,synthetic_demo,synthetic demo data
+EMP0052,PostgreSQL,Beginner,No,2026-09-08,Practical assessment,synthetic_demo,synthetic demo data
+EMP0052,Project Management,Beginner,Yes,2026-08-11,Practical assessment,synthetic_demo,synthetic demo data
+EMP0052,Communication,Beginner,Yes,2025-10-13,Practical assessment,synthetic_demo,synthetic demo data
+EMP0053,Communication,Intermediate,Yes,2026-03-15,Self-assessment,synthetic_demo,synthetic demo data
+EMP0053,AWS,Beginner,Yes,2025-11-04,Practical assessment,synthetic_demo,synthetic demo data
+EMP0053,Django,Advanced,Yes,2026-05-28,Self-assessment,synthetic_demo,synthetic demo data
+EMP0053,CI/CD,Advanced,No,2026-01-20,Practical assessment,synthetic_demo,synthetic demo data
+EMP0054,System Design,Intermediate,Yes,2026-09-10,Manager review,synthetic_demo,synthetic demo data
+EMP0054,SQL,Beginner,Yes,2026-09-03,Self-assessment,synthetic_demo,synthetic demo data
+EMP0054,AWS,Beginner,No,2026-05-08,Self-assessment,synthetic_demo,synthetic demo data
+EMP0054,JavaScript,Beginner,No,2025-11-07,Self-assessment,synthetic_demo,synthetic demo data
+EMP0055,CI/CD,Advanced,No,2025-11-24,Self-assessment,synthetic_demo,synthetic demo data
+EMP0055,Linux,Beginner,Yes,2026-03-19,Practical assessment,synthetic_demo,synthetic demo data
+EMP0055,Agile Delivery,Advanced,Yes,2026-05-15,Manager review,synthetic_demo,synthetic demo data
+EMP0055,Communication,Advanced,Yes,2025-10-24,Self-assessment,synthetic_demo,synthetic demo data
+EMP0056,Django,Intermediate,Yes,2026-05-17,Practical assessment,synthetic_demo,synthetic demo data
+EMP0056,SQL,Advanced,Yes,2026-03-11,Self-assessment,synthetic_demo,synthetic demo data
+EMP0056,JavaScript,Beginner,Yes,2025-12-30,Practical assessment,synthetic_demo,synthetic demo data
+EMP0056,System Design,Beginner,No,2026-08-04,Manager review,synthetic_demo,synthetic demo data
+EMP0057,API Design,Beginner,Yes,2026-07-29,Practical assessment,synthetic_demo,synthetic demo data
+EMP0057,Kubernetes,Advanced,No,2026-03-17,Practical assessment,synthetic_demo,synthetic demo data
+EMP0057,Git,Advanced,No,2026-01-19,Manager review,synthetic_demo,synthetic demo data
+EMP0057,Customer Communication,Beginner,No,2026-01-04,Manager review,synthetic_demo,synthetic demo data
+EMP0058,Agile Delivery,Advanced,No,2026-06-19,Manager review,synthetic_demo,synthetic demo data
+EMP0058,JavaScript,Advanced,No,2026-09-29,Practical assessment,synthetic_demo,synthetic demo data
+EMP0058,API Design,Advanced,No,2026-09-27,Manager review,synthetic_demo,synthetic demo data
+EMP0058,CI/CD,Beginner,No,2025-11-08,Manager review,synthetic_demo,synthetic demo data
+EMP0059,Docker,Intermediate,Yes,2026-07-13,Self-assessment,synthetic_demo,synthetic demo data
+EMP0059,API Design,Advanced,No,2026-03-12,Manager review,synthetic_demo,synthetic demo data
+EMP0059,Communication,Beginner,No,2025-12-16,Self-assessment,synthetic_demo,synthetic demo data
+EMP0059,System Design,Beginner,No,2025-11-16,Practical assessment,synthetic_demo,synthetic demo data
+EMP0060,Linux,Intermediate,No,2025-11-12,Self-assessment,synthetic_demo,synthetic demo data
+EMP0060,Customer Communication,Advanced,Yes,2025-10-18,Self-assessment,synthetic_demo,synthetic demo data
+EMP0060,TypeScript,Intermediate,Yes,2025-10-16,Self-assessment,synthetic_demo,synthetic demo data
+EMP0060,Python,Advanced,Yes,2026-09-19,Practical assessment,synthetic_demo,synthetic demo data
+EMP0061,Agile Delivery,Intermediate,Yes,2026-06-17,Manager review,synthetic_demo,synthetic demo data
+EMP0061,TypeScript,Intermediate,No,2025-12-30,Manager review,synthetic_demo,synthetic demo data
+EMP0061,Communication,Intermediate,No,2026-03-02,Practical assessment,synthetic_demo,synthetic demo data
+EMP0061,Cybersecurity,Advanced,Yes,2026-05-16,Practical assessment,synthetic_demo,synthetic demo data
+EMP0062,TypeScript,Advanced,Yes,2026-06-30,Self-assessment,synthetic_demo,synthetic demo data
+EMP0062,Manual Testing,Beginner,No,2025-10-30,Self-assessment,synthetic_demo,synthetic demo data
+EMP0062,Project Management,Intermediate,Yes,2026-06-24,Self-assessment,synthetic_demo,synthetic demo data
+EMP0062,React,Beginner,Yes,2026-01-20,Manager review,synthetic_demo,synthetic demo data
+EMP0063,Cybersecurity,Advanced,No,2026-04-12,Self-assessment,synthetic_demo,synthetic demo data
+EMP0063,PostgreSQL,Intermediate,No,2026-02-09,Self-assessment,synthetic_demo,synthetic demo data
+EMP0063,Kubernetes,Beginner,No,2026-08-09,Self-assessment,synthetic_demo,synthetic demo data
+EMP0063,Django,Advanced,Yes,2025-11-24,Manager review,synthetic_demo,synthetic demo data
+EMP0064,Python,Advanced,No,2026-09-17,Practical assessment,synthetic_demo,synthetic demo data
+EMP0064,TypeScript,Advanced,No,2026-09-07,Self-assessment,synthetic_demo,synthetic demo data
+EMP0064,Django,Beginner,No,2026-05-26,Self-assessment,synthetic_demo,synthetic demo data
+EMP0064,Customer Communication,Advanced,No,2026-01-22,Practical assessment,synthetic_demo,synthetic demo data
+EMP0065,Django,Intermediate,No,2026-05-25,Manager review,synthetic_demo,synthetic demo data
+EMP0065,Requirements Analysis,Beginner,No,2026-03-04,Manager review,synthetic_demo,synthetic demo data
+EMP0065,Data Analysis,Intermediate,Yes,2026-03-27,Practical assessment,synthetic_demo,synthetic demo data
+EMP0065,TypeScript,Beginner,No,2026-04-29,Self-assessment,synthetic_demo,synthetic demo data
+EMP0066,React,Advanced,Yes,2026-03-08,Self-assessment,synthetic_demo,synthetic demo data
+EMP0066,Linux,Intermediate,No,2026-01-10,Self-assessment,synthetic_demo,synthetic demo data
+EMP0066,Data Analysis,Beginner,No,2025-10-17,Self-assessment,synthetic_demo,synthetic demo data
+EMP0066,PostgreSQL,Beginner,No,2026-06-14,Manager review,synthetic_demo,synthetic demo data
+EMP0067,Agile Delivery,Advanced,No,2026-02-26,Practical assessment,synthetic_demo,synthetic demo data
+EMP0067,SQL,Intermediate,No,2025-10-25,Manager review,synthetic_demo,synthetic demo data
+EMP0067,React,Advanced,No,2026-01-13,Manager review,synthetic_demo,synthetic demo data
+EMP0067,Automated Testing,Intermediate,No,2026-06-04,Manager review,synthetic_demo,synthetic demo data
+EMP0068,Kubernetes,Intermediate,Yes,2026-02-17,Manager review,synthetic_demo,synthetic demo data
+EMP0068,PostgreSQL,Beginner,Yes,2026-01-04,Self-assessment,synthetic_demo,synthetic demo data
+EMP0068,Project Management,Advanced,Yes,2025-10-15,Practical assessment,synthetic_demo,synthetic demo data
+EMP0068,Python,Advanced,Yes,2026-04-10,Practical assessment,synthetic_demo,synthetic demo data
+EMP0069,Communication,Advanced,Yes,2026-07-07,Practical assessment,synthetic_demo,synthetic demo data
+EMP0069,AWS,Intermediate,Yes,2025-11-18,Self-assessment,synthetic_demo,synthetic demo data
+EMP0069,Project Management,Advanced,No,2025-11-30,Manager review,synthetic_demo,synthetic demo data
+EMP0069,PostgreSQL,Intermediate,Yes,2026-02-08,Self-assessment,synthetic_demo,synthetic demo data
+EMP0070,Django,Intermediate,No,2026-01-03,Manager review,synthetic_demo,synthetic demo data
+EMP0070,JavaScript,Intermediate,No,2026-01-11,Manager review,synthetic_demo,synthetic demo data
+EMP0070,Incident Response,Intermediate,No,2026-04-09,Practical assessment,synthetic_demo,synthetic demo data
+EMP0070,Docker,Beginner,Yes,2026-05-22,Practical assessment,synthetic_demo,synthetic demo data
+EMP0071,SQL,Intermediate,No,2026-02-17,Practical assessment,synthetic_demo,synthetic demo data
+EMP0071,Customer Communication,Advanced,No,2025-12-24,Manager review,synthetic_demo,synthetic demo data
+EMP0071,PostgreSQL,Advanced,Yes,2026-04-29,Manager review,synthetic_demo,synthetic demo data
+EMP0071,Manual Testing,Intermediate,No,2026-09-13,Self-assessment,synthetic_demo,synthetic demo data
+EMP0072,Requirements Analysis,Intermediate,Yes,2026-08-04,Self-assessment,synthetic_demo,synthetic demo data
+EMP0072,CI/CD,Advanced,No,2025-12-21,Manager review,synthetic_demo,synthetic demo data
+EMP0072,Customer Communication,Advanced,No,2025-11-26,Self-assessment,synthetic_demo,synthetic demo data
+EMP0072,Data Analysis,Advanced,Yes,2026-06-09,Self-assessment,synthetic_demo,synthetic demo data
+EMP0073,Cybersecurity,Beginner,Yes,2026-06-10,Practical assessment,synthetic_demo,synthetic demo data
+EMP0073,Customer Communication,Advanced,Yes,2025-12-19,Self-assessment,synthetic_demo,synthetic demo data
+EMP0073,Git,Intermediate,No,2026-09-20,Self-assessment,synthetic_demo,synthetic demo data
+EMP0073,JavaScript,Intermediate,Yes,2025-12-18,Manager review,synthetic_demo,synthetic demo data
+EMP0074,React,Advanced,No,2026-07-17,Manager review,synthetic_demo,synthetic demo data
+EMP0074,Project Management,Intermediate,Yes,2026-08-14,Self-assessment,synthetic_demo,synthetic demo data
+EMP0074,API Design,Beginner,Yes,2026-04-23,Practical assessment,synthetic_demo,synthetic demo data
+EMP0074,Python,Beginner,No,2026-02-09,Practical assessment,synthetic_demo,synthetic demo data
+EMP0075,PostgreSQL,Advanced,Yes,2026-04-14,Manager review,synthetic_demo,synthetic demo data
+EMP0075,Python,Advanced,Yes,2026-08-11,Practical assessment,synthetic_demo,synthetic demo data
+EMP0075,Incident Response,Intermediate,No,2026-05-01,Self-assessment,synthetic_demo,synthetic demo data
+EMP0075,AWS,Intermediate,Yes,2026-02-24,Practical assessment,synthetic_demo,synthetic demo data
+EMP0076,Incident Response,Intermediate,Yes,2025-12-10,Manager review,synthetic_demo,synthetic demo data
+EMP0076,Manual Testing,Advanced,Yes,2026-08-12,Practical assessment,synthetic_demo,synthetic demo data
+EMP0076,SQL,Beginner,No,2026-07-12,Manager review,synthetic_demo,synthetic demo data
+EMP0076,CI/CD,Intermediate,Yes,2026-09-02,Manager review,synthetic_demo,synthetic demo data
+EMP0077,Kubernetes,Advanced,Yes,2026-09-29,Self-assessment,synthetic_demo,synthetic demo data
+EMP0077,API Design,Advanced,Yes,2026-03-03,Practical assessment,synthetic_demo,synthetic demo data
+EMP0077,Python,Advanced,Yes,2025-12-12,Self-assessment,synthetic_demo,synthetic demo data
+EMP0077,CI/CD,Intermediate,No,2025-11-27,Manager review,synthetic_demo,synthetic demo data
+EMP0078,CI/CD,Intermediate,Yes,2026-06-13,Practical assessment,synthetic_demo,synthetic demo data
+EMP0078,Python,Beginner,No,2025-11-15,Self-assessment,synthetic_demo,synthetic demo data
+EMP0078,React,Advanced,Yes,2025-11-15,Practical assessment,synthetic_demo,synthetic demo data
+EMP0078,Data Analysis,Advanced,No,2025-12-21,Practical assessment,synthetic_demo,synthetic demo data
+EMP0079,AWS,Intermediate,Yes,2026-02-14,Manager review,synthetic_demo,synthetic demo data
+EMP0079,Agile Delivery,Advanced,No,2026-01-31,Self-assessment,synthetic_demo,synthetic demo data
+EMP0079,Project Management,Beginner,Yes,2026-05-03,Self-assessment,synthetic_demo,synthetic demo data
+EMP0079,SQL,Intermediate,No,2026-05-31,Self-assessment,synthetic_demo,synthetic demo data
+EMP0080,Linux,Advanced,No,2026-05-13,Self-assessment,synthetic_demo,synthetic demo data
+EMP0080,Docker,Advanced,Yes,2026-07-06,Self-assessment,synthetic_demo,synthetic demo data
+EMP0080,Communication,Beginner,Yes,2025-11-29,Self-assessment,synthetic_demo,synthetic demo data
+EMP0080,Data Analysis,Beginner,Yes,2026-06-19,Practical assessment,synthetic_demo,synthetic demo data
+EMP0081,Linux,Beginner,Yes,2026-04-24,Manager review,synthetic_demo,synthetic demo data
+EMP0081,TypeScript,Beginner,Yes,2026-08-12,Self-assessment,synthetic_demo,synthetic demo data
+EMP0081,Docker,Intermediate,No,2025-10-16,Manager review,synthetic_demo,synthetic demo data
+EMP0081,AWS,Advanced,Yes,2026-08-22,Manager review,synthetic_demo,synthetic demo data
+EMP0082,Linux,Advanced,Yes,2026-04-14,Practical assessment,synthetic_demo,synthetic demo data
+EMP0082,System Design,Advanced,Yes,2026-01-09,Practical assessment,synthetic_demo,synthetic demo data
+EMP0082,Git,Intermediate,Yes,2026-04-28,Manager review,synthetic_demo,synthetic demo data
+EMP0082,Django,Advanced,Yes,2026-01-26,Practical assessment,synthetic_demo,synthetic demo data
+EMP0083,Kubernetes,Intermediate,Yes,2026-09-11,Self-assessment,synthetic_demo,synthetic demo data
+EMP0083,System Design,Intermediate,No,2026-08-21,Self-assessment,synthetic_demo,synthetic demo data
+EMP0083,Agile Delivery,Intermediate,No,2026-06-30,Manager review,synthetic_demo,synthetic demo data
+EMP0083,Automated Testing,Advanced,Yes,2025-12-17,Self-assessment,synthetic_demo,synthetic demo data
+EMP0084,JavaScript,Intermediate,Yes,2025-11-04,Manager review,synthetic_demo,synthetic demo data
+EMP0084,Git,Advanced,No,2025-12-26,Manager review,synthetic_demo,synthetic demo data
+EMP0084,Data Analysis,Beginner,No,2026-03-23,Practical assessment,synthetic_demo,synthetic demo data
+EMP0084,CI/CD,Intermediate,No,2026-07-05,Manager review,synthetic_demo,synthetic demo data
+EMP0085,Customer Communication,Advanced,No,2025-10-01,Practical assessment,synthetic_demo,synthetic demo data
+EMP0085,TypeScript,Beginner,Yes,2026-01-01,Practical assessment,synthetic_demo,synthetic demo data
+EMP0085,SQL,Intermediate,Yes,2026-07-01,Practical assessment,synthetic_demo,synthetic demo data
+EMP0085,AWS,Intermediate,Yes,2025-10-03,Manager review,synthetic_demo,synthetic demo data
+EMP0086,Cybersecurity,Beginner,Yes,2026-04-12,Manager review,synthetic_demo,synthetic demo data
+EMP0086,TypeScript,Advanced,Yes,2026-01-15,Manager review,synthetic_demo,synthetic demo data
+EMP0086,Git,Beginner,Yes,2026-05-19,Self-assessment,synthetic_demo,synthetic demo data
+EMP0086,Manual Testing,Advanced,No,2025-12-31,Manager review,synthetic_demo,synthetic demo data
+EMP0087,Project Management,Beginner,Yes,2025-10-09,Practical assessment,synthetic_demo,synthetic demo data
+EMP0087,Requirements Analysis,Beginner,No,2026-03-28,Self-assessment,synthetic_demo,synthetic demo data
+EMP0087,Python,Intermediate,Yes,2026-06-12,Self-assessment,synthetic_demo,synthetic demo data
+EMP0087,Communication,Beginner,No,2026-01-05,Practical assessment,synthetic_demo,synthetic demo data
+EMP0088,Git,Intermediate,Yes,2026-02-22,Manager review,synthetic_demo,synthetic demo data
+EMP0088,Django,Intermediate,No,2026-04-07,Manager review,synthetic_demo,synthetic demo data
+EMP0088,Project Management,Advanced,No,2026-08-20,Practical assessment,synthetic_demo,synthetic demo data
+EMP0088,Customer Communication,Intermediate,Yes,2026-08-19,Manager review,synthetic_demo,synthetic demo data
+EMP0089,PostgreSQL,Intermediate,No,2026-08-08,Manager review,synthetic_demo,synthetic demo data
+EMP0089,Kubernetes,Intermediate,No,2026-07-16,Manager review,synthetic_demo,synthetic demo data
+EMP0089,Manual Testing,Advanced,Yes,2025-12-14,Manager review,synthetic_demo,synthetic demo data
+EMP0089,Communication,Advanced,Yes,2026-06-10,Practical assessment,synthetic_demo,synthetic demo data
+EMP0090,API Design,Beginner,No,2026-09-13,Self-assessment,synthetic_demo,synthetic demo data
+EMP0090,Customer Communication,Advanced,Yes,2026-06-06,Manager review,synthetic_demo,synthetic demo data
+EMP0090,Agile Delivery,Advanced,Yes,2025-12-30,Practical assessment,synthetic_demo,synthetic demo data
+EMP0090,Incident Response,Beginner,No,2026-08-19,Practical assessment,synthetic_demo,synthetic demo data
+EMP0091,Manual Testing,Intermediate,Yes,2026-04-05,Self-assessment,synthetic_demo,synthetic demo data
+EMP0091,Linux,Beginner,No,2026-08-05,Manager review,synthetic_demo,synthetic demo data
+EMP0091,System Design,Intermediate,No,2026-01-03,Practical assessment,synthetic_demo,synthetic demo data
+EMP0091,Cybersecurity,Intermediate,No,2025-12-07,Manager review,synthetic_demo,synthetic demo data
+EMP0092,Requirements Analysis,Beginner,Yes,2026-03-27,Manager review,synthetic_demo,synthetic demo data
+EMP0092,Project Management,Intermediate,No,2026-01-05,Practical assessment,synthetic_demo,synthetic demo data
+EMP0092,Data Analysis,Beginner,Yes,2026-03-09,Self-assessment,synthetic_demo,synthetic demo data
+EMP0092,Docker,Beginner,Yes,2026-03-31,Manager review,synthetic_demo,synthetic demo data
+EMP0093,Customer Communication,Intermediate,Yes,2025-10-26,Practical assessment,synthetic_demo,synthetic demo data
+EMP0093,Agile Delivery,Beginner,Yes,2026-03-07,Practical assessment,synthetic_demo,synthetic demo data
+EMP0093,Linux,Intermediate,Yes,2026-04-11,Self-assessment,synthetic_demo,synthetic demo data
+EMP0093,AWS,Beginner,No,2026-04-30,Practical assessment,synthetic_demo,synthetic demo data
+EMP0094,Project Management,Intermediate,No,2025-12-31,Self-assessment,synthetic_demo,synthetic demo data
+EMP0094,Kubernetes,Intermediate,No,2026-01-24,Practical assessment,synthetic_demo,synthetic demo data
+EMP0094,AWS,Intermediate,Yes,2026-03-09,Self-assessment,synthetic_demo,synthetic demo data
+EMP0094,Communication,Advanced,No,2025-09-30,Self-assessment,synthetic_demo,synthetic demo data
+EMP0095,Data Analysis,Beginner,Yes,2025-11-30,Practical assessment,synthetic_demo,synthetic demo data
+EMP0095,Communication,Intermediate,No,2026-08-04,Manager review,synthetic_demo,synthetic demo data
+EMP0095,Automated Testing,Intermediate,No,2026-01-23,Manager review,synthetic_demo,synthetic demo data
+EMP0095,SQL,Beginner,Yes,2026-07-18,Practical assessment,synthetic_demo,synthetic demo data
+EMP0096,React,Advanced,No,2025-12-08,Manager review,synthetic_demo,synthetic demo data
+EMP0096,Linux,Advanced,No,2026-08-18,Practical assessment,synthetic_demo,synthetic demo data
+EMP0096,Django,Beginner,No,2025-10-10,Practical assessment,synthetic_demo,synthetic demo data
+EMP0096,TypeScript,Beginner,No,2026-07-24,Self-assessment,synthetic_demo,synthetic demo data
+EMP0097,API Design,Beginner,Yes,2025-10-15,Practical assessment,synthetic_demo,synthetic demo data
+EMP0097,PostgreSQL,Advanced,No,2025-10-15,Practical assessment,synthetic_demo,synthetic demo data
+EMP0097,AWS,Intermediate,No,2026-08-08,Manager review,synthetic_demo,synthetic demo data
+EMP0097,Docker,Beginner,No,2026-06-05,Practical assessment,synthetic_demo,synthetic demo data
+EMP0098,Data Analysis,Intermediate,Yes,2025-10-30,Practical assessment,synthetic_demo,synthetic demo data
+EMP0098,CI/CD,Beginner,No,2026-02-07,Manager review,synthetic_demo,synthetic demo data
+EMP0098,PostgreSQL,Advanced,No,2026-09-15,Self-assessment,synthetic_demo,synthetic demo data
+EMP0098,Agile Delivery,Beginner,Yes,2025-10-10,Practical assessment,synthetic_demo,synthetic demo data
+EMP0099,Linux,Intermediate,No,2025-10-07,Manager review,synthetic_demo,synthetic demo data
+EMP0099,Customer Communication,Beginner,Yes,2025-12-13,Practical assessment,synthetic_demo,synthetic demo data
+EMP0099,Git,Beginner,Yes,2026-09-07,Practical assessment,synthetic_demo,synthetic demo data
+EMP0099,Django,Beginner,No,2026-02-20,Manager review,synthetic_demo,synthetic demo data
+EMP0100,Linux,Beginner,Yes,2026-09-03,Practical assessment,synthetic_demo,synthetic demo data
+EMP0100,CI/CD,Intermediate,No,2026-02-21,Manager review,synthetic_demo,synthetic demo data
+EMP0100,TypeScript,Advanced,No,2026-09-14,Manager review,synthetic_demo,synthetic demo data
+EMP0100,Docker,Intermediate,No,2026-07-20,Manager review,synthetic_demo,synthetic demo data
+EMP0101,Network Security,Advanced,No,2025-11-15,Manager review,synthetic_demo,synthetic demo data
+EMP0101,Incident Response,Advanced,No,2025-11-28,Practical assessment,synthetic_demo,synthetic demo data
+EMP0101,Vulnerability Management,Advanced,Yes,2026-01-23,Manager review,synthetic_demo,synthetic demo data
+EMP0101,Access Management,Intermediate,Yes,2026-07-29,Manager review,synthetic_demo,synthetic demo data
+EMP0102,Presentation Skills,Intermediate,Yes,2025-12-30,Manager review,synthetic_demo,synthetic demo data
+EMP0102,Sales Forecasting,Intermediate,No,2026-03-17,Practical assessment,synthetic_demo,synthetic demo data
+EMP0102,Negotiation,Beginner,Yes,2026-02-01,Practical assessment,synthetic_demo,synthetic demo data
+EMP0102,CRM Management,Intermediate,No,2026-05-31,Manager review,synthetic_demo,synthetic demo data
+EMP0103,Financial Reporting,Intermediate,No,2026-09-19,Self-assessment,synthetic_demo,synthetic demo data
+EMP0103,Budgeting,Advanced,No,2026-04-14,Practical assessment,synthetic_demo,synthetic demo data
+EMP0103,Accounts Payable,Intermediate,Yes,2025-12-12,Practical assessment,synthetic_demo,synthetic demo data
+EMP0103,Excel Modelling,Intermediate,No,2026-07-09,Manager review,synthetic_demo,synthetic demo data
+EMP0104,Content Strategy,Intermediate,Yes,2026-04-22,Practical assessment,synthetic_demo,synthetic demo data
+EMP0104,Marketing Analytics,Beginner,Yes,2025-12-21,Self-assessment,synthetic_demo,synthetic demo data
+EMP0104,SEO,Advanced,Yes,2025-09-30,Practical assessment,synthetic_demo,synthetic demo data
+EMP0104,Campaign Management,Beginner,No,2026-06-14,Manager review,synthetic_demo,synthetic demo data
+EMP0105,Network Security,Advanced,No,2025-10-25,Practical assessment,synthetic_demo,synthetic demo data
+EMP0105,Security Auditing,Beginner,No,2026-05-18,Self-assessment,synthetic_demo,synthetic demo data
+EMP0105,Access Management,Intermediate,No,2026-05-22,Practical assessment,synthetic_demo,synthetic demo data
+EMP0105,Vulnerability Management,Advanced,Yes,2025-11-07,Self-assessment,synthetic_demo,synthetic demo data
+EMP0106,Incident Response,Intermediate,No,2026-05-28,Self-assessment,synthetic_demo,synthetic demo data
+EMP0106,Security Auditing,Advanced,Yes,2026-07-29,Practical assessment,synthetic_demo,synthetic demo data
+EMP0106,Vulnerability Management,Advanced,Yes,2026-02-12,Self-assessment,synthetic_demo,synthetic demo data
+EMP0106,Network Security,Beginner,Yes,2026-02-14,Practical assessment,synthetic_demo,synthetic demo data
+EMP0107,Security Auditing,Advanced,No,2026-09-05,Self-assessment,synthetic_demo,synthetic demo data
+EMP0107,Incident Response,Beginner,No,2025-12-23,Practical assessment,synthetic_demo,synthetic demo data
+EMP0107,Threat Analysis,Beginner,No,2026-05-13,Self-assessment,synthetic_demo,synthetic demo data
+EMP0107,Vulnerability Management,Advanced,Yes,2026-08-09,Self-assessment,synthetic_demo,synthetic demo data
+EMP0108,Security Auditing,Intermediate,Yes,2026-09-29,Practical assessment,synthetic_demo,synthetic demo data
+EMP0108,Vulnerability Management,Intermediate,Yes,2026-02-23,Manager review,synthetic_demo,synthetic demo data
+EMP0108,Incident Response,Advanced,No,2026-02-08,Self-assessment,synthetic_demo,synthetic demo data
+EMP0108,Access Management,Beginner,Yes,2026-03-09,Self-assessment,synthetic_demo,synthetic demo data
+EMP0109,Access Management,Intermediate,No,2026-06-09,Manager review,synthetic_demo,synthetic demo data
+EMP0109,Incident Response,Beginner,No,2026-06-10,Manager review,synthetic_demo,synthetic demo data
+EMP0109,Threat Analysis,Intermediate,No,2025-11-24,Self-assessment,synthetic_demo,synthetic demo data
+EMP0109,Network Security,Beginner,No,2026-04-27,Self-assessment,synthetic_demo,synthetic demo data
+EMP0110,Lead Qualification,Advanced,No,2026-06-29,Manager review,synthetic_demo,synthetic demo data
+EMP0110,Presentation Skills,Advanced,Yes,2026-01-03,Manager review,synthetic_demo,synthetic demo data
+EMP0110,Negotiation,Intermediate,Yes,2025-10-03,Self-assessment,synthetic_demo,synthetic demo data
+EMP0110,CRM Management,Beginner,Yes,2026-03-08,Manager review,synthetic_demo,synthetic demo data
+EMP0111,Lead Qualification,Advanced,No,2026-08-27,Self-assessment,synthetic_demo,synthetic demo data
+EMP0111,Account Planning,Intermediate,Yes,2026-04-03,Practical assessment,synthetic_demo,synthetic demo data
+EMP0111,CRM Management,Intermediate,Yes,2025-12-12,Practical assessment,synthetic_demo,synthetic demo data
+EMP0111,Sales Forecasting,Advanced,Yes,2026-07-09,Self-assessment,synthetic_demo,synthetic demo data
+EMP0112,Lead Qualification,Intermediate,Yes,2025-09-30,Self-assessment,synthetic_demo,synthetic demo data
+EMP0112,Account Planning,Beginner,Yes,2026-09-10,Self-assessment,synthetic_demo,synthetic demo data
+EMP0112,CRM Management,Advanced,No,2026-01-01,Self-assessment,synthetic_demo,synthetic demo data
+EMP0112,Sales Forecasting,Beginner,No,2026-03-11,Manager review,synthetic_demo,synthetic demo data
+EMP0113,Negotiation,Intermediate,Yes,2025-11-05,Self-assessment,synthetic_demo,synthetic demo data
+EMP0113,CRM Management,Advanced,No,2025-11-26,Self-assessment,synthetic_demo,synthetic demo data
+EMP0113,Lead Qualification,Beginner,No,2025-12-26,Practical assessment,synthetic_demo,synthetic demo data
+EMP0113,Presentation Skills,Intermediate,No,2026-04-29,Practical assessment,synthetic_demo,synthetic demo data
+EMP0114,Presentation Skills,Intermediate,Yes,2026-06-11,Practical assessment,synthetic_demo,synthetic demo data
+EMP0114,Sales Forecasting,Beginner,Yes,2026-09-03,Manager review,synthetic_demo,synthetic demo data
+EMP0114,Negotiation,Intermediate,No,2025-11-13,Self-assessment,synthetic_demo,synthetic demo data
+EMP0114,CRM Management,Intermediate,Yes,2026-02-09,Self-assessment,synthetic_demo,synthetic demo data
+EMP0115,Sales Forecasting,Advanced,Yes,2026-05-08,Manager review,synthetic_demo,synthetic demo data
+EMP0115,CRM Management,Beginner,No,2026-08-22,Practical assessment,synthetic_demo,synthetic demo data
+EMP0115,Account Planning,Advanced,Yes,2026-09-08,Manager review,synthetic_demo,synthetic demo data
+EMP0115,Presentation Skills,Advanced,No,2026-02-16,Practical assessment,synthetic_demo,synthetic demo data
+EMP0116,Lead Qualification,Beginner,No,2026-06-18,Practical assessment,synthetic_demo,synthetic demo data
+EMP0116,Negotiation,Beginner,Yes,2026-01-09,Self-assessment,synthetic_demo,synthetic demo data
+EMP0116,Account Planning,Intermediate,No,2026-08-19,Manager review,synthetic_demo,synthetic demo data
+EMP0116,Sales Forecasting,Advanced,No,2025-11-22,Practical assessment,synthetic_demo,synthetic demo data
+EMP0117,Compliance Reporting,Beginner,No,2026-03-15,Manager review,synthetic_demo,synthetic demo data
+EMP0117,Financial Forecasting,Beginner,Yes,2026-01-18,Manager review,synthetic_demo,synthetic demo data
+EMP0117,Accounts Payable,Beginner,No,2026-01-24,Manager review,synthetic_demo,synthetic demo data
+EMP0117,Excel Modelling,Advanced,Yes,2025-11-11,Manager review,synthetic_demo,synthetic demo data
+EMP0118,Accounts Payable,Advanced,Yes,2026-07-17,Self-assessment,synthetic_demo,synthetic demo data
+EMP0118,Financial Reporting,Advanced,Yes,2026-05-18,Self-assessment,synthetic_demo,synthetic demo data
+EMP0118,Excel Modelling,Advanced,Yes,2026-04-05,Manager review,synthetic_demo,synthetic demo data
+EMP0118,Compliance Reporting,Beginner,Yes,2026-03-10,Practical assessment,synthetic_demo,synthetic demo data
+EMP0119,Accounts Payable,Beginner,Yes,2026-08-25,Self-assessment,synthetic_demo,synthetic demo data
+EMP0119,Excel Modelling,Advanced,Yes,2026-09-01,Practical assessment,synthetic_demo,synthetic demo data
+EMP0119,Financial Forecasting,Advanced,No,2025-10-01,Practical assessment,synthetic_demo,synthetic demo data
+EMP0119,Compliance Reporting,Intermediate,No,2026-02-08,Practical assessment,synthetic_demo,synthetic demo data
+EMP0120,Compliance Reporting,Advanced,No,2026-04-27,Self-assessment,synthetic_demo,synthetic demo data
+EMP0120,Financial Reporting,Beginner,Yes,2026-08-08,Self-assessment,synthetic_demo,synthetic demo data
+EMP0120,Accounts Payable,Advanced,No,2025-12-17,Self-assessment,synthetic_demo,synthetic demo data
+EMP0120,Budgeting,Intermediate,Yes,2026-06-30,Practical assessment,synthetic_demo,synthetic demo data
+EMP0121,Accounts Payable,Advanced,No,2026-02-14,Practical assessment,synthetic_demo,synthetic demo data
+EMP0121,Excel Modelling,Advanced,No,2025-12-21,Practical assessment,synthetic_demo,synthetic demo data
+EMP0121,Financial Forecasting,Beginner,Yes,2026-04-30,Self-assessment,synthetic_demo,synthetic demo data
+EMP0121,Compliance Reporting,Advanced,Yes,2026-05-31,Manager review,synthetic_demo,synthetic demo data
+EMP0122,Content Strategy,Advanced,Yes,2026-03-12,Practical assessment,synthetic_demo,synthetic demo data
+EMP0122,Social Media,Advanced,No,2026-08-04,Self-assessment,synthetic_demo,synthetic demo data
+EMP0122,Campaign Management,Beginner,Yes,2026-01-15,Practical assessment,synthetic_demo,synthetic demo data
+EMP0122,Marketing Analytics,Beginner,No,2026-01-31,Manager review,synthetic_demo,synthetic demo data
+EMP0123,Social Media,Intermediate,Yes,2026-08-27,Self-assessment,synthetic_demo,synthetic demo data
+EMP0123,Content Strategy,Advanced,No,2026-02-02,Practical assessment,synthetic_demo,synthetic demo data
+EMP0123,Copywriting,Beginner,Yes,2025-10-15,Self-assessment,synthetic_demo,synthetic demo data
+EMP0123,SEO,Beginner,Yes,2026-08-22,Self-assessment,synthetic_demo,synthetic demo data
+EMP0124,Copywriting,Beginner,Yes,2026-05-18,Manager review,synthetic_demo,synthetic demo data
+EMP0124,Campaign Management,Beginner,Yes,2026-05-14,Practical assessment,synthetic_demo,synthetic demo data
+EMP0124,Marketing Analytics,Intermediate,No,2026-06-19,Manager review,synthetic_demo,synthetic demo data
+EMP0124,Content Strategy,Intermediate,Yes,2026-07-12,Practical assessment,synthetic_demo,synthetic demo data
+EMP0125,Campaign Management,Intermediate,No,2026-07-02,Practical assessment,synthetic_demo,synthetic demo data
+EMP0125,Marketing Analytics,Beginner,No,2026-07-16,Practical assessment,synthetic_demo,synthetic demo data
+EMP0125,SEO,Advanced,Yes,2025-11-11,Manager review,synthetic_demo,synthetic demo data
+EMP0125,Social Media,Intermediate,Yes,2026-08-17,Manager review,synthetic_demo,synthetic demo data
+EMP0126,SEO,Advanced,Yes,2026-02-21,Practical assessment,synthetic_demo,synthetic demo data
+EMP0126,Social Media,Intermediate,No,2026-01-03,Practical assessment,synthetic_demo,synthetic demo data
+EMP0126,Campaign Management,Intermediate,Yes,2026-03-27,Self-assessment,synthetic_demo,synthetic demo data
+EMP0126,Marketing Analytics,Beginner,Yes,2026-03-17,Manager review,synthetic_demo,synthetic demo data
