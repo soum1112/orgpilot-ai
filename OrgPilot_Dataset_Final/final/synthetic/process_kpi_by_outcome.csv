@@ -1,0 +1,4 @@
+outcome,cases,avg_cycle_days,share,data_source
+Cancelled,47,1.65,0.078,synthetic demo data
+Completed,499,2.92,0.832,synthetic demo data
+Rejected,54,1.5,0.09,synthetic demo data

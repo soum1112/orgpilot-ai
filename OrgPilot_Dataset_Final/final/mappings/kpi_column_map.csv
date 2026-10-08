@@ -1,0 +1,21 @@
+kpi_id,kpi_name,domain,formula,unit,source_file,source_columns,data_source
+W01,Attrition rate,workforce,"count(Attrition = Yes) / count(employees) * 100",%,ibm_hr_analytics_attrition.csv,Attrition,public benchmark data
+W02,Average job satisfaction,workforce,"mean(job_satisfaction_1_to_5)",score 1-5,employee_engagement_synthetic.csv,job_satisfaction_1_to_5,synthetic demo data
+W03,Overtime rate,workforce,"count(employees with overtime_hours > 0) / count(employees) * 100",%,employee_workload_synthetic.csv,overtime_hours,synthetic demo data
+W04,Workload utilization,workforce,"sum(actual_hours) / sum(weekly_capacity_hours) * 100",%,employee_workload_synthetic.csv + employee_workforce_synthetic.csv,actual_hours; weekly_capacity_hours (join on employee_id),synthetic demo data
+W05,Skill gap rate,workforce,"count(required_for_role = Yes AND proficiency_level = Beginner) / count(required_for_role = Yes) * 100",%,employee_skills_synthetic.csv,required_for_role; proficiency_level,synthetic demo data
+W06,Work item completion rate,workforce,"sum(completed_work_items) / (sum(completed_work_items) + sum(open_work_items)) * 100",%,employee_workload_synthetic.csv,completed_work_items; open_work_items,synthetic demo data
+P01,Average cycle time,process,"mean(end - start) per case",days,process_kpi_case_summary.csv (from process_event_log_synthetic.csv),cycle_days,synthetic demo data
+P02,Step wait time,process,"mean(timestamp of next activity - timestamp of activity) per activity pair",hours,process_kpi_step_wait_times.csv (from process_event_log_synthetic.csv),activity; next_activity; mean_wait_h; p90_wait_h,synthetic demo data
+P03,Handoff rate,process,"handoffs / (events - 1) per case",ratio 0-1,process_kpi_case_summary.csv,handoffs; events; handoff_rate,synthetic demo data
+P04,Case completion rate,process,"count(outcome = Completed) / count(cases) * 100",%,process_kpi_case_summary.csv,outcome,synthetic demo data
+E01,Average performance score,performance,"mean(performance_score) by department",points,employee_kpi_records.csv,performance_score; department,public benchmark data
+E02,Average attendance rate,performance,"mean(attendance_rate) by department",%,employee_kpi_records.csv,attendance_rate; department,public benchmark data
+E03,Tasks per 100 hours,performance,"tasks_completed / monthly_hours_worked * 100",tasks per 100h,employee_kpi_records.csv,tasks_completed; monthly_hours_worked,public benchmark data
+M01,Return on ad spend (ROAS),marketing,"revenue / mark_spent",ratio,marketing_kpi_by_campaign.csv,revenue; mark_spent,public benchmark data
+M02,Click-through rate (CTR),marketing,"clicks / impressions * 100",%,marketing_kpi_by_campaign.csv,clicks; impressions,public benchmark data
+M03,Cost per order (CPO),marketing,"mark_spent / orders",currency per order,marketing_kpi_by_campaign.csv,mark_spent; orders,public benchmark data
+R01,Procurement savings,procurement,"(PO_Value_List - PO_Value_Negotiated) / PO_Value_List * 100",%,procurement_kpi_po_level.csv,PO_Value_List; PO_Value_Negotiated,public benchmark data
+R02,Average lead time,procurement,"mean(Delivery_Date - Order_Date)",days,procurement_kpi_po_level.csv,Order_Date; Delivery_Date; Lead_Time_Days,public benchmark data
+R03,Defect rate,procurement,"sum(Defective_Units) / sum(Quantity) * 100 (confirm exact formula with Member 3)",%,procurement_kpi_po_level.csv,Defective_Units; Quantity; Defect_Rate_Pct,public benchmark data
+R04,Compliance rate,procurement,"sum(Compliant_Flag) / count(POs) * 100",%,procurement_kpi_po_level.csv,Compliant_Flag,public benchmark data

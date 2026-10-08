@@ -1,0 +1,9 @@
+source_file,source_value,department_id,data_source
+ibm_hr_analytics_attrition.csv,Human Resources,HR,synthetic demo data
+ibm_hr_analytics_attrition.csv,Research & Development,ENG,synthetic demo data
+ibm_hr_analytics_attrition.csv,Sales,SAL,synthetic demo data
+employee_kpi_records.csv / employee_kpi_by_department.csv,Finance,FIN,synthetic demo data
+employee_kpi_records.csv / employee_kpi_by_department.csv,HR,HR,synthetic demo data
+employee_kpi_records.csv / employee_kpi_by_department.csv,IT,ENG,synthetic demo data
+employee_kpi_records.csv / employee_kpi_by_department.csv,Marketing,MKT,synthetic demo data
+employee_kpi_records.csv / employee_kpi_by_department.csv,Sales,SAL,synthetic demo data

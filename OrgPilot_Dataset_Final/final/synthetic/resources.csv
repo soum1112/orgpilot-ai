@@ -1,0 +1,7 @@
+resource_id,resource_name,department_id,data_source
+RES01,Dev Team,ENG,synthetic demo data
+RES02,Engineering Manager,ENG,synthetic demo data
+RES03,QA Team,QA,synthetic demo data
+RES04,Requester,,synthetic demo data
+RES05,Security Team,SEC,synthetic demo data
+RES06,Service Desk,SUP,synthetic demo data

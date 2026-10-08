@@ -1,0 +1,620 @@
+{
+  "source_root": "/home/claude/work/final",
+  "datasets": {
+    "marketing_daily": {
+      "file": "public_benchmark/marketing_kpi_daily.csv",
+      "data_source": "public benchmark data",
+      "rows": 308,
+      "columns": {
+        "id": {
+          "dtype": "int64",
+          "nulls": 0,
+          "n_unique": 308,
+          "min": 1.0,
+          "max": 308.0
+        },
+        "c_date": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 28
+        },
+        "campaign_name": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 11
+        },
+        "category": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 4
+        },
+        "campaign_id": {
+          "dtype": "int64",
+          "nulls": 0,
+          "n_unique": 11,
+          "min": 10934.0,
+          "max": 89459845.0
+        },
+        "impressions": {
+          "dtype": "int64",
+          "nulls": 0,
+          "n_unique": 301,
+          "min": 667.0,
+          "max": 419970000.0
+        },
+        "mark_spent": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 308,
+          "min": 169.75,
+          "max": 880357.0
+        },
+        "clicks": {
+          "dtype": "int64",
+          "nulls": 0,
+          "n_unique": 274,
+          "min": 20.0,
+          "max": 61195.0
+        },
+        "leads": {
+          "dtype": "int64",
+          "nulls": 0,
+          "n_unique": 176,
+          "min": 0.0,
+          "max": 1678.0
+        },
+        "orders": {
+          "dtype": "int64",
+          "nulls": 0,
+          "n_unique": 88,
+          "min": 0.0,
+          "max": 369.0
+        },
+        "revenue": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 265,
+          "min": 0.0,
+          "max": 2812520.0
+        },
+        "campaign_name_clean": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 11
+        },
+        "CTR_pct": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 211,
+          "min": 0.0079424768592833,
+          "max": 3.355591717636496
+        },
+        "CPC": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 308,
+          "min": 0.0430532938564026,
+          "max": 54.77295492487479
+        },
+        "CPL": {
+          "dtype": "float64",
+          "nulls": 4,
+          "n_unique": 304,
+          "min": 17.76313725490196,
+          "max": 1694.8591549295777
+        },
+        "CPO": {
+          "dtype": "float64",
+          "nulls": 19,
+          "n_unique": 289,
+          "min": 885.75,
+          "max": 10104.9
+        },
+        "lead_to_order_pct": {
+          "dtype": "float64",
+          "nulls": 4,
+          "n_unique": 185,
+          "min": 0.0,
+          "max": 33.33333333333333
+        },
+        "AOV": {
+          "dtype": "float64",
+          "nulls": 19,
+          "n_unique": 194,
+          "min": 452.0,
+          "max": 8980.0
+        },
+        "ROAS": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 290,
+          "min": 0.0,
+          "max": 6.593987313049003
+        },
+        "ROI_pct": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 290,
+          "min": -100.0,
+          "max": 559.3987313049003
+        },
+        "data_source": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 1
+        }
+      },
+      "exact_duplicate_rows": 0,
+      "date_column": "c_date",
+      "date_min": "2021-02-01",
+      "date_max": "2021-02-28",
+      "distinct_periods": 1,
+      "duplicate_date_campaign": 0
+    },
+    "procurement_po": {
+      "file": "public_benchmark/procurement_kpi_po_level.csv",
+      "data_source": "public benchmark data",
+      "rows": 777,
+      "columns": {
+        "PO_ID": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 777
+        },
+        "Supplier": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 5
+        },
+        "Order_Date": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 476
+        },
+        "Delivery_Date": {
+          "dtype": "str",
+          "nulls": 87,
+          "n_unique": 449
+        },
+        "Item_Category": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 5
+        },
+        "Order_Status": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 4
+        },
+        "Quantity": {
+          "dtype": "int64",
+          "nulls": 0,
+          "n_unique": 623,
+          "min": 51.0,
+          "max": 5000.0
+        },
+        "Unit_Price": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 747,
+          "min": 10.84,
+          "max": 109.17
+        },
+        "Negotiated_Price": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 752,
+          "min": 9.27,
+          "max": 107.39
+        },
+        "Defective_Units": {
+          "dtype": "float64",
+          "nulls": 136,
+          "n_unique": 202,
+          "min": 0.0,
+          "max": 321.0
+        },
+        "Compliance": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 2
+        },
+        "Lead_Time_Days": {
+          "dtype": "float64",
+          "nulls": 87,
+          "n_unique": 21,
+          "min": -5.0,
+          "max": 20.0
+        },
+        "Lead_Time_Valid": {
+          "dtype": "float64",
+          "nulls": 88,
+          "n_unique": 20,
+          "min": 1.0,
+          "max": 20.0
+        },
+        "PO_Value_List": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 777,
+          "min": 865.9,
+          "max": 444800.0
+        },
+        "PO_Value_Negotiated": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 777,
+          "min": 772.8,
+          "max": 432900.0
+        },
+        "Savings": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 777,
+          "min": 43.01999999999998,
+          "max": 59400.0
+        },
+        "Savings_Pct": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 777,
+          "min": 1.0054137664346412,
+          "max": 14.992548435171392
+        },
+        "Defect_Rate_Pct": {
+          "dtype": "float64",
+          "nulls": 136,
+          "n_unique": 625,
+          "min": 0.0,
+          "max": 35.714285714285715
+        },
+        "Compliant_Flag": {
+          "dtype": "int64",
+          "nulls": 0,
+          "n_unique": 2,
+          "min": 0.0,
+          "max": 1.0
+        },
+        "Order_Quarter": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 9
+        },
+        "data_source": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 1
+        }
+      },
+      "exact_duplicate_rows": 0,
+      "date_column": "Order_Date",
+      "date_min": "2022-01-01",
+      "date_max": "2024-01-01",
+      "distinct_periods": 25,
+      "duplicate_PO_ID": 0
+    },
+    "employee_kpi_public": {
+      "file": "public_benchmark/employee_kpi_records.csv",
+      "data_source": "public benchmark data",
+      "rows": 1200,
+      "columns": {
+        "employee_id": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 100
+        },
+        "department": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 5
+        },
+        "job_role": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 5
+        },
+        "education_level": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 3
+        },
+        "years_at_company": {
+          "dtype": "int64",
+          "nulls": 0,
+          "n_unique": 10,
+          "min": 1.0,
+          "max": 10.0
+        },
+        "monthly_hours_worked": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 391,
+          "min": 127.5,
+          "max": 191.0
+        },
+        "attendance_rate": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 173,
+          "min": 78.1,
+          "max": 100.0
+        },
+        "training_hours": {
+          "dtype": "float64",
+          "nulls": 60,
+          "n_unique": 104,
+          "min": 0.0,
+          "max": 11.3
+        },
+        "tasks_completed": {
+          "dtype": "int64",
+          "nulls": 0,
+          "n_unique": 16,
+          "min": 0.0,
+          "max": 15.0
+        },
+        "peer_review_score": {
+          "dtype": "float64",
+          "nulls": 60,
+          "n_unique": 465,
+          "min": 2.79,
+          "max": 10.0
+        },
+        "manager_rating": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 552,
+          "min": 1.0,
+          "max": 10.0
+        },
+        "promotions_last_3years": {
+          "dtype": "int64",
+          "nulls": 0,
+          "n_unique": 3,
+          "min": 0.0,
+          "max": 2.0
+        },
+        "salary_band": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 3
+        },
+        "work_location": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 3
+        },
+        "performance_score": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 871,
+          "min": 0.0,
+          "max": 30.89
+        },
+        "month": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 10
+        },
+        "Task_per_100h": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 991,
+          "min": 0.0,
+          "max": 10.97293343087052
+        },
+        "Training_flag_missing": {
+          "dtype": "int64",
+          "nulls": 0,
+          "n_unique": 2,
+          "min": 0.0,
+          "max": 1.0
+        },
+        "Dup_emp_month": {
+          "dtype": "int64",
+          "nulls": 0,
+          "n_unique": 2,
+          "min": 0.0,
+          "max": 1.0
+        },
+        "Composite_review": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 758,
+          "min": 3.1300000000000003,
+          "max": 10.0
+        },
+        "data_source": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 1
+        }
+      },
+      "exact_duplicate_rows": 0,
+      "date_column": "month",
+      "date_min": "2024-01-01",
+      "date_max": "2024-11-01",
+      "distinct_periods": 10,
+      "duplicate_employee_month": 200,
+      "employee_month_keys_on_multiple_rows": 200
+    },
+    "employee_kpi_synthetic": {
+      "file": "synthetic/employee_kpi_monthly.csv",
+      "data_source": "synthetic demo data",
+      "rows": 1134,
+      "columns": {
+        "kpi_record_id": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 1134
+        },
+        "employee_id": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 126
+        },
+        "department_id": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 10
+        },
+        "job_role": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 31
+        },
+        "month": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 9
+        },
+        "monthly_hours_worked": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 984,
+          "min": 129.53,
+          "max": 191.0
+        },
+        "attendance_rate": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 729,
+          "min": 80.16,
+          "max": 100.0
+        },
+        "training_hours": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 575,
+          "min": 0.0,
+          "max": 11.3
+        },
+        "peer_review_score": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 454,
+          "min": 2.79,
+          "max": 10.0
+        },
+        "manager_rating": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 514,
+          "min": 1.0,
+          "max": 10.0
+        },
+        "performance_score": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 857,
+          "min": 0.0,
+          "max": 29.5
+        },
+        "tasks_completed": {
+          "dtype": "int64",
+          "nulls": 0,
+          "n_unique": 16,
+          "min": 0.0,
+          "max": 15.0
+        },
+        "Task_per_100h": {
+          "dtype": "float64",
+          "nulls": 0,
+          "n_unique": 479,
+          "min": 0.0,
+          "max": 10.12
+        },
+        "data_source": {
+          "dtype": "str",
+          "nulls": 0,
+          "n_unique": 1
+        }
+      },
+      "exact_duplicate_rows": 0,
+      "date_column": "month",
+      "date_min": "2026-01-01",
+      "date_max": "2026-09-01",
+      "distinct_periods": 9,
+      "duplicate_employee_month": 0,
+      "employee_month_keys_on_multiple_rows": 0
+    }
+  },
+  "published_summary_files": {
+    "public_benchmark/marketing_kpi_by_campaign.csv": {
+      "rows": 11,
+      "columns": [
+        "category",
+        "campaign_name_clean",
+        "impressions",
+        "clicks",
+        "leads",
+        "orders",
+        "mark_spent",
+        "revenue",
+        "CTR_pct",
+        "CPC",
+        "CPL",
+        "CPO",
+        "lead_to_order_pct",
+        "AOV",
+        "ROAS",
+        "ROI_pct",
+        "data_source"
+      ]
+    },
+    "public_benchmark/procurement_kpi_by_supplier.csv": {
+      "rows": 5,
+      "columns": [
+        "Supplier",
+        "PO_count",
+        "Spend_negotiated",
+        "Savings",
+        "Savings_pct",
+        "Compliance_rate_pct",
+        "Avg_lead_time_days",
+        "Defect_rate_pct",
+        "Cancel_rate_pct",
+        "data_source"
+      ]
+    },
+    "public_benchmark/procurement_kpi_by_quarter.csv": {
+      "rows": 9,
+      "columns": [
+        "Order_Quarter",
+        "PO_count",
+        "Spend_negotiated",
+        "Savings",
+        "Savings_pct",
+        "Compliance_rate_pct",
+        "Avg_lead_time_days",
+        "Defect_rate_pct",
+        "Cancel_rate_pct",
+        "data_source"
+      ]
+    },
+    "public_benchmark/employee_kpi_by_department.csv": {
+      "rows": 5,
+      "columns": [
+        "department",
+        "records",
+        "avg_perf",
+        "avg_attendance",
+        "avg_tasks",
+        "avg_training",
+        "avg_peer",
+        "avg_mgr",
+        "data_source"
+      ]
+    },
+    "public_benchmark/employee_kpi_by_month.csv": {
+      "rows": 10,
+      "columns": [
+        "month",
+        "records",
+        "avg_perf",
+        "avg_attendance",
+        "data_source"
+      ]
+    }
+  }
+}

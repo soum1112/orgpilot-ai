@@ -1,0 +1,7 @@
+month,avg_cycle_days,median_cycle_days,completed_cases,data_source
+2026-01,2.85,2.93,89,synthetic demo data
+2026-02,2.84,2.78,80,synthetic demo data
+2026-03,3.04,3.14,104,synthetic demo data
+2026-04,3.0,3.03,83,synthetic demo data
+2026-05,2.82,2.8,71,synthetic demo data
+2026-06,2.92,2.84,72,synthetic demo data
