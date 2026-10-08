@@ -2,34 +2,78 @@
 .venv/
 venv/
 env/
+ENV/
+env.bak/
+venv.bak/
 
 # Python caches and compiled files
 __pycache__/
-*.py[cod]
+*.py[codz]
 *$py.class
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.hypothesis/
+.ipynb_checkpoints/
 
 # Test and coverage artifacts
-.pytest_cache/
 .coverage
 .coverage.*
 htmlcov/
 coverage.xml
 *.cover
+*.py.cover
+*.lcov
+nosetests.xml
+cover/
+.tox/
+.nox/
 
 # Build and packaging artifacts
+.Python
 build/
 dist/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+wheels/
+share/python-wheels/
 *.egg-info/
 *.egg
+MANIFEST
 
-# Local environment and secrets
+# Local environment, secrets, and databases
 .env
 .env.*
 !.env.example
+.envrc
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
 
 # Editor and operating-system metadata
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
+tempCodeRunnerFile.py
 
+# Documentation/build tool output
+docs/_build/
+/site
+
+# Tool-specific local state
+.pdm-python
+.pdm-build/
+.pixi/
+.pyre/
+.pytype/
+cython_debug/
+.streamlit/secrets.toml
+.pypirc

@@ -1,0 +1,1135 @@
+kpi_record_id,employee_id,department_id,job_role,month,monthly_hours_worked,attendance_rate,training_hours,peer_review_score,manager_rating,performance_score,tasks_completed,Task_per_100h,data_source
+KPI-00001,EMP0001,ENG,DevOps Engineer,2026-01,153.85,93.64,7.47,8.59,7.38,19.07,7,4.55,synthetic demo data
+KPI-00002,EMP0001,ENG,DevOps Engineer,2026-02,147.18,97.88,4.55,8.71,7.2,13.81,5,3.4,synthetic demo data
+KPI-00003,EMP0001,ENG,DevOps Engineer,2026-03,163.66,96.06,5.39,7.29,8.09,16.02,7,4.28,synthetic demo data
+KPI-00004,EMP0001,ENG,DevOps Engineer,2026-04,157.39,100.0,5.43,7.11,6.04,17.02,9,5.72,synthetic demo data
+KPI-00005,EMP0001,ENG,DevOps Engineer,2026-05,153.08,93.69,4.76,8.45,8.41,16.73,5,3.27,synthetic demo data
+KPI-00006,EMP0001,ENG,DevOps Engineer,2026-06,155.82,97.0,6.42,8.7,7.62,17.28,7,4.49,synthetic demo data
+KPI-00007,EMP0001,ENG,DevOps Engineer,2026-07,156.27,98.79,3.76,7.33,6.56,11.99,6,3.84,synthetic demo data
+KPI-00008,EMP0001,ENG,DevOps Engineer,2026-08,165.81,93.6,7.61,5.77,6.77,15.21,8,4.82,synthetic demo data
+KPI-00009,EMP0001,ENG,DevOps Engineer,2026-09,159.61,99.35,5.52,7.17,8.58,13.79,4,2.51,synthetic demo data
+KPI-00010,EMP0002,QA,QA Lead,2026-01,152.25,97.52,4.07,6.04,5.05,5.44,5,3.28,synthetic demo data
+KPI-00011,EMP0002,QA,QA Lead,2026-02,150.98,95.98,5.89,6.97,6.65,9.84,4,2.65,synthetic demo data
+KPI-00012,EMP0002,QA,QA Lead,2026-03,154.07,90.09,2.82,4.94,4.11,11.83,3,1.95,synthetic demo data
+KPI-00013,EMP0002,QA,QA Lead,2026-04,151.7,100.0,4.56,7.31,4.21,9.41,2,1.32,synthetic demo data
+KPI-00014,EMP0002,QA,QA Lead,2026-05,152.01,98.85,2.38,6.96,5.99,7.85,1,0.66,synthetic demo data
+KPI-00015,EMP0002,QA,QA Lead,2026-06,155.27,94.1,5.49,6.49,8.07,9.27,2,1.29,synthetic demo data
+KPI-00016,EMP0002,QA,QA Lead,2026-07,156.12,96.7,7.28,7.42,6.18,16.1,2,1.28,synthetic demo data
+KPI-00017,EMP0002,QA,QA Lead,2026-08,149.63,92.73,4.5,4.88,6.6,9.34,1,0.67,synthetic demo data
+KPI-00018,EMP0002,QA,QA Lead,2026-09,146.66,97.03,6.45,8.75,10.0,11.89,2,1.36,synthetic demo data
+KPI-00019,EMP0003,OPS,Operations Analyst,2026-01,160.49,88.94,1.8,5.04,4.41,14.32,3,1.87,synthetic demo data
+KPI-00020,EMP0003,OPS,Operations Analyst,2026-02,169.52,90.8,2.57,4.49,3.38,15.76,1,0.59,synthetic demo data
+KPI-00021,EMP0003,OPS,Operations Analyst,2026-03,168.38,89.4,5.94,6.04,4.25,7.06,2,1.19,synthetic demo data
+KPI-00022,EMP0003,OPS,Operations Analyst,2026-04,165.27,90.95,2.51,4.13,4.75,13.56,3,1.82,synthetic demo data
+KPI-00023,EMP0003,OPS,Operations Analyst,2026-05,160.8,93.52,6.53,5.85,3.86,11.66,4,2.49,synthetic demo data
+KPI-00024,EMP0003,OPS,Operations Analyst,2026-06,173.9,93.17,2.51,4.03,7.01,14.14,2,1.15,synthetic demo data
+KPI-00025,EMP0003,OPS,Operations Analyst,2026-07,158.71,97.6,2.7,4.57,5.47,5.65,3,1.89,synthetic demo data
+KPI-00026,EMP0003,OPS,Operations Analyst,2026-08,160.45,93.7,6.69,5.7,5.47,0.0,3,1.87,synthetic demo data
+KPI-00027,EMP0003,OPS,Operations Analyst,2026-09,155.07,88.31,3.06,5.22,5.89,1.91,3,1.93,synthetic demo data
+KPI-00028,EMP0004,SUP,Technical Support Engineer,2026-01,160.13,95.7,3.87,7.12,5.77,19.77,9,5.62,synthetic demo data
+KPI-00029,EMP0004,SUP,Technical Support Engineer,2026-02,151.46,94.09,3.27,6.34,5.9,14.51,4,2.64,synthetic demo data
+KPI-00030,EMP0004,SUP,Technical Support Engineer,2026-03,153.03,87.64,5.34,5.8,4.61,6.16,5,3.27,synthetic demo data
+KPI-00031,EMP0004,SUP,Technical Support Engineer,2026-04,144.3,90.0,8.98,5.54,3.75,17.04,11,7.62,synthetic demo data
+KPI-00032,EMP0004,SUP,Technical Support Engineer,2026-05,148.94,93.81,6.14,9.01,3.92,8.69,7,4.7,synthetic demo data
+KPI-00033,EMP0004,SUP,Technical Support Engineer,2026-06,161.65,93.78,5.38,5.44,5.06,8.61,6,3.71,synthetic demo data
+KPI-00034,EMP0004,SUP,Technical Support Engineer,2026-07,153.81,96.72,7.2,7.2,5.96,9.89,5,3.25,synthetic demo data
+KPI-00035,EMP0004,SUP,Technical Support Engineer,2026-08,152.5,96.19,5.44,9.42,7.82,11.22,4,2.62,synthetic demo data
+KPI-00036,EMP0004,SUP,Technical Support Engineer,2026-09,149.4,99.22,6.01,7.57,2.76,13.39,6,4.02,synthetic demo data
+KPI-00037,EMP0005,PMO,Product Manager,2026-01,169.0,86.43,4.64,6.68,6.11,8.81,1,0.59,synthetic demo data
+KPI-00038,EMP0005,PMO,Product Manager,2026-02,159.95,100.0,2.58,7.47,5.16,10.05,2,1.25,synthetic demo data
+KPI-00039,EMP0005,PMO,Product Manager,2026-03,154.71,99.84,5.94,8.47,7.45,12.06,8,5.17,synthetic demo data
+KPI-00040,EMP0005,PMO,Product Manager,2026-04,160.83,98.2,4.54,6.56,4.59,14.27,2,1.24,synthetic demo data
+KPI-00041,EMP0005,PMO,Product Manager,2026-05,163.55,94.67,6.88,7.34,8.43,13.23,1,0.61,synthetic demo data
+KPI-00042,EMP0005,PMO,Product Manager,2026-06,156.83,91.27,4.19,8.22,6.63,7.5,2,1.28,synthetic demo data
+KPI-00043,EMP0005,PMO,Product Manager,2026-07,157.61,91.11,3.95,6.84,7.42,12.74,0,0.0,synthetic demo data
+KPI-00044,EMP0005,PMO,Product Manager,2026-08,159.76,95.58,5.67,8.34,2.51,7.93,6,3.76,synthetic demo data
+KPI-00045,EMP0005,PMO,Product Manager,2026-09,144.84,100.0,5.6,7.45,4.79,13.56,7,4.83,synthetic demo data
+KPI-00046,EMP0006,HR,HR Business Partner,2026-01,153.17,94.92,6.28,6.78,5.94,15.15,8,5.22,synthetic demo data
+KPI-00047,EMP0006,HR,HR Business Partner,2026-02,161.64,99.96,5.29,8.6,8.04,23.67,6,3.71,synthetic demo data
+KPI-00048,EMP0006,HR,HR Business Partner,2026-03,145.69,100.0,3.2,7.76,9.19,7.92,4,2.75,synthetic demo data
+KPI-00049,EMP0006,HR,HR Business Partner,2026-04,148.87,92.6,4.62,8.24,7.61,8.67,2,1.34,synthetic demo data
+KPI-00050,EMP0006,HR,HR Business Partner,2026-05,161.98,93.71,4.65,8.44,7.4,17.39,7,4.32,synthetic demo data
+KPI-00051,EMP0006,HR,HR Business Partner,2026-06,165.74,92.91,3.64,7.86,8.44,12.76,7,4.22,synthetic demo data
+KPI-00052,EMP0006,HR,HR Business Partner,2026-07,159.44,94.94,5.24,5.35,5.22,8.4,2,1.25,synthetic demo data
+KPI-00053,EMP0006,HR,HR Business Partner,2026-08,156.18,97.95,3.47,7.86,8.85,19.66,6,3.84,synthetic demo data
+KPI-00054,EMP0006,HR,HR Business Partner,2026-09,172.26,95.67,2.59,6.95,4.94,10.78,6,3.48,synthetic demo data
+KPI-00055,EMP0007,ENG,Engineering Manager,2026-01,177.72,88.95,4.57,6.9,6.85,17.77,7,3.94,synthetic demo data
+KPI-00056,EMP0007,ENG,Engineering Manager,2026-02,172.97,92.31,7.52,7.74,5.59,20.33,7,4.05,synthetic demo data
+KPI-00057,EMP0007,ENG,Engineering Manager,2026-03,179.19,92.38,5.21,8.53,10.0,24.38,7,3.91,synthetic demo data
+KPI-00058,EMP0007,ENG,Engineering Manager,2026-04,171.64,94.78,4.08,8.51,7.81,17.31,6,3.5,synthetic demo data
+KPI-00059,EMP0007,ENG,Engineering Manager,2026-05,157.79,83.86,3.65,7.6,7.4,23.82,9,5.7,synthetic demo data
+KPI-00060,EMP0007,ENG,Engineering Manager,2026-06,162.75,92.26,4.77,7.8,8.13,18.54,7,4.3,synthetic demo data
+KPI-00061,EMP0007,ENG,Engineering Manager,2026-07,178.79,87.09,5.43,10.0,8.19,21.8,7,3.92,synthetic demo data
+KPI-00062,EMP0007,ENG,Engineering Manager,2026-08,174.97,90.85,5.15,7.23,8.5,12.64,9,5.14,synthetic demo data
+KPI-00063,EMP0007,ENG,Engineering Manager,2026-09,178.96,92.32,4.97,8.65,7.38,19.8,4,2.24,synthetic demo data
+KPI-00064,EMP0008,QA,QA Engineer,2026-01,144.03,99.15,7.27,6.5,7.25,6.37,5,3.47,synthetic demo data
+KPI-00065,EMP0008,QA,QA Engineer,2026-02,149.12,90.46,7.83,7.54,7.56,9.87,7,4.69,synthetic demo data
+KPI-00066,EMP0008,QA,QA Engineer,2026-03,161.23,87.39,5.17,8.68,6.25,18.26,5,3.1,synthetic demo data
+KPI-00067,EMP0008,QA,QA Engineer,2026-04,159.85,91.21,6.99,8.95,5.99,8.86,5,3.13,synthetic demo data
+KPI-00068,EMP0008,QA,QA Engineer,2026-05,151.92,85.33,7.59,6.53,8.29,3.03,4,2.63,synthetic demo data
+KPI-00069,EMP0008,QA,QA Engineer,2026-06,134.99,87.89,6.97,6.94,6.16,11.99,6,4.44,synthetic demo data
+KPI-00070,EMP0008,QA,QA Engineer,2026-07,140.35,93.21,7.63,7.59,7.39,13.82,10,7.13,synthetic demo data
+KPI-00071,EMP0008,QA,QA Engineer,2026-08,147.65,89.69,5.38,5.96,4.65,9.07,5,3.39,synthetic demo data
+KPI-00072,EMP0008,QA,QA Engineer,2026-09,150.98,90.94,5.36,8.18,7.67,11.99,4,2.65,synthetic demo data
+KPI-00073,EMP0009,OPS,IT Support Engineer,2026-01,171.85,95.21,4.47,8.33,3.88,10.65,6,3.49,synthetic demo data
+KPI-00074,EMP0009,OPS,IT Support Engineer,2026-02,152.78,93.36,8.05,6.56,6.28,16.23,10,6.55,synthetic demo data
+KPI-00075,EMP0009,OPS,IT Support Engineer,2026-03,151.6,91.74,7.77,6.01,5.6,13.59,6,3.96,synthetic demo data
+KPI-00076,EMP0009,OPS,IT Support Engineer,2026-04,167.7,91.72,2.05,8.5,6.67,20.4,6,3.58,synthetic demo data
+KPI-00077,EMP0009,OPS,IT Support Engineer,2026-05,156.23,92.76,6.08,8.42,4.98,17.44,5,3.2,synthetic demo data
+KPI-00078,EMP0009,OPS,IT Support Engineer,2026-06,163.13,85.94,5.58,6.98,5.6,18.15,7,4.29,synthetic demo data
+KPI-00079,EMP0009,OPS,IT Support Engineer,2026-07,156.41,95.91,4.17,7.95,7.96,12.8,8,5.11,synthetic demo data
+KPI-00080,EMP0009,OPS,IT Support Engineer,2026-08,157.05,89.45,7.04,6.71,3.88,21.75,12,7.64,synthetic demo data
+KPI-00081,EMP0009,OPS,IT Support Engineer,2026-09,158.06,84.16,4.38,7.58,7.26,10.82,8,5.06,synthetic demo data
+KPI-00082,EMP0010,SUP,Support Specialist,2026-01,137.59,94.87,6.78,10.0,6.31,19.4,5,3.63,synthetic demo data
+KPI-00083,EMP0010,SUP,Support Specialist,2026-02,155.93,95.41,6.02,8.09,8.42,11.41,3,1.92,synthetic demo data
+KPI-00084,EMP0010,SUP,Support Specialist,2026-03,151.14,91.17,6.86,7.8,3.97,6.23,8,5.29,synthetic demo data
+KPI-00085,EMP0010,SUP,Support Specialist,2026-04,147.15,85.4,8.65,8.2,5.49,7.43,8,5.44,synthetic demo data
+KPI-00086,EMP0010,SUP,Support Specialist,2026-05,154.05,100.0,8.07,8.33,6.32,15.98,8,5.19,synthetic demo data
+KPI-00087,EMP0010,SUP,Support Specialist,2026-06,161.19,92.49,6.71,7.34,7.78,18.72,6,3.72,synthetic demo data
+KPI-00088,EMP0010,SUP,Support Specialist,2026-07,147.92,95.39,7.01,8.98,3.14,9.4,5,3.38,synthetic demo data
+KPI-00089,EMP0010,SUP,Support Specialist,2026-08,132.92,90.96,5.94,7.66,8.27,11.73,5,3.76,synthetic demo data
+KPI-00090,EMP0010,SUP,Support Specialist,2026-09,150.83,97.94,5.85,6.84,7.43,11.82,8,5.3,synthetic demo data
+KPI-00091,EMP0011,PMO,Business Analyst,2026-01,161.54,88.41,4.79,8.72,3.44,7.6,4,2.48,synthetic demo data
+KPI-00092,EMP0011,PMO,Business Analyst,2026-02,175.89,92.93,6.16,6.12,5.21,15.39,6,3.41,synthetic demo data
+KPI-00093,EMP0011,PMO,Business Analyst,2026-03,168.66,91.3,5.38,7.61,8.1,16.83,3,1.78,synthetic demo data
+KPI-00094,EMP0011,PMO,Business Analyst,2026-04,146.53,95.43,6.83,6.25,4.08,13.99,8,5.46,synthetic demo data
+KPI-00095,EMP0011,PMO,Business Analyst,2026-05,178.55,93.75,4.35,6.4,6.93,12.4,4,2.24,synthetic demo data
+KPI-00096,EMP0011,PMO,Business Analyst,2026-06,180.54,98.15,6.74,6.37,8.21,16.16,7,3.88,synthetic demo data
+KPI-00097,EMP0011,PMO,Business Analyst,2026-07,174.21,94.16,6.11,8.16,7.43,6.45,6,3.44,synthetic demo data
+KPI-00098,EMP0011,PMO,Business Analyst,2026-08,159.92,87.52,7.61,9.41,8.98,14.62,9,5.63,synthetic demo data
+KPI-00099,EMP0011,PMO,Business Analyst,2026-09,164.42,92.66,3.2,7.88,7.0,8.38,6,3.65,synthetic demo data
+KPI-00100,EMP0012,HR,Talent Acquisition Specialist,2026-01,169.63,94.39,2.98,7.96,7.43,6.24,6,3.54,synthetic demo data
+KPI-00101,EMP0012,HR,Talent Acquisition Specialist,2026-02,178.71,100.0,6.6,7.41,5.55,9.05,7,3.92,synthetic demo data
+KPI-00102,EMP0012,HR,Talent Acquisition Specialist,2026-03,173.83,100.0,6.71,7.22,4.94,12.12,6,3.45,synthetic demo data
+KPI-00103,EMP0012,HR,Talent Acquisition Specialist,2026-04,169.23,94.97,5.37,6.79,5.88,14.65,5,2.95,synthetic demo data
+KPI-00104,EMP0012,HR,Talent Acquisition Specialist,2026-05,172.76,97.92,3.16,6.82,9.03,8.74,2,1.16,synthetic demo data
+KPI-00105,EMP0012,HR,Talent Acquisition Specialist,2026-06,156.09,97.07,5.02,7.23,8.69,2.68,7,4.48,synthetic demo data
+KPI-00106,EMP0012,HR,Talent Acquisition Specialist,2026-07,183.18,93.06,4.36,6.5,5.47,12.09,9,4.91,synthetic demo data
+KPI-00107,EMP0012,HR,Talent Acquisition Specialist,2026-08,185.37,95.81,7.99,7.41,9.51,13.02,6,3.24,synthetic demo data
+KPI-00108,EMP0012,HR,Talent Acquisition Specialist,2026-09,173.72,100.0,6.32,6.56,8.31,11.95,5,2.88,synthetic demo data
+KPI-00109,EMP0013,ENG,Software Engineer,2026-01,152.57,90.37,4.88,8.32,6.91,19.7,5,3.28,synthetic demo data
+KPI-00110,EMP0013,ENG,Software Engineer,2026-02,157.12,93.34,4.9,8.54,6.43,19.27,8,5.09,synthetic demo data
+KPI-00111,EMP0013,ENG,Software Engineer,2026-03,145.36,88.58,4.95,7.97,7.81,16.26,8,5.5,synthetic demo data
+KPI-00112,EMP0013,ENG,Software Engineer,2026-04,167.84,91.52,3.11,6.96,8.41,21.36,7,4.17,synthetic demo data
+KPI-00113,EMP0013,ENG,Software Engineer,2026-05,140.54,89.46,3.65,7.58,7.34,16.52,7,4.98,synthetic demo data
+KPI-00114,EMP0013,ENG,Software Engineer,2026-06,168.64,93.03,3.6,8.77,5.63,17.93,8,4.74,synthetic demo data
+KPI-00115,EMP0013,ENG,Software Engineer,2026-07,159.17,100.0,3.98,10.0,7.62,11.25,8,5.03,synthetic demo data
+KPI-00116,EMP0013,ENG,Software Engineer,2026-08,151.82,92.76,5.6,8.86,7.02,20.33,10,6.59,synthetic demo data
+KPI-00117,EMP0013,ENG,Software Engineer,2026-09,171.71,97.21,7.14,6.06,7.48,12.89,8,4.66,synthetic demo data
+KPI-00118,EMP0014,QA,QA Engineer,2026-01,162.72,100.0,7.37,7.3,7.17,7.31,5,3.07,synthetic demo data
+KPI-00119,EMP0014,QA,QA Engineer,2026-02,166.61,100.0,5.09,7.96,7.02,16.73,6,3.6,synthetic demo data
+KPI-00120,EMP0014,QA,QA Engineer,2026-03,156.35,100.0,0.09,7.38,1.0,5.01,6,3.84,synthetic demo data
+KPI-00121,EMP0014,QA,QA Engineer,2026-04,162.95,95.51,3.62,8.52,5.54,20.91,5,3.07,synthetic demo data
+KPI-00122,EMP0014,QA,QA Engineer,2026-05,162.4,100.0,4.96,5.79,6.11,11.78,2,1.23,synthetic demo data
+KPI-00123,EMP0014,QA,QA Engineer,2026-06,157.14,96.97,6.22,6.98,5.84,11.49,6,3.82,synthetic demo data
+KPI-00124,EMP0014,QA,QA Engineer,2026-07,164.05,96.08,3.1,8.21,5.65,6.24,6,3.66,synthetic demo data
+KPI-00125,EMP0014,QA,QA Engineer,2026-08,162.84,94.23,5.11,7.79,6.84,14.45,2,1.23,synthetic demo data
+KPI-00126,EMP0014,QA,QA Engineer,2026-09,161.79,98.49,3.98,7.94,8.53,19.11,8,4.94,synthetic demo data
+KPI-00127,EMP0015,OPS,IT Support Engineer,2026-01,158.97,98.84,5.1,7.73,7.82,11.81,7,4.4,synthetic demo data
+KPI-00128,EMP0015,OPS,IT Support Engineer,2026-02,165.25,92.36,7.39,6.77,4.28,9.12,4,2.42,synthetic demo data
+KPI-00129,EMP0015,OPS,IT Support Engineer,2026-03,162.66,95.69,4.56,8.05,7.32,14.58,7,4.3,synthetic demo data
+KPI-00130,EMP0015,OPS,IT Support Engineer,2026-04,167.13,89.33,4.52,4.84,6.86,13.29,8,4.79,synthetic demo data
+KPI-00131,EMP0015,OPS,IT Support Engineer,2026-05,171.65,97.35,4.3,7.9,6.0,13.3,8,4.66,synthetic demo data
+KPI-00132,EMP0015,OPS,IT Support Engineer,2026-06,157.83,99.44,6.17,6.25,8.29,16.11,6,3.8,synthetic demo data
+KPI-00133,EMP0015,OPS,IT Support Engineer,2026-07,156.21,93.66,4.24,7.97,5.35,15.06,3,1.92,synthetic demo data
+KPI-00134,EMP0015,OPS,IT Support Engineer,2026-08,160.63,97.02,8.98,5.76,9.05,13.91,7,4.36,synthetic demo data
+KPI-00135,EMP0015,OPS,IT Support Engineer,2026-09,163.19,98.18,4.85,9.01,6.11,17.85,5,3.06,synthetic demo data
+KPI-00136,EMP0016,SUP,Support Specialist,2026-01,141.18,90.5,7.04,8.9,10.0,8.6,9,6.37,synthetic demo data
+KPI-00137,EMP0016,SUP,Support Specialist,2026-02,155.72,93.14,7.36,7.46,6.07,9.31,3,1.93,synthetic demo data
+KPI-00138,EMP0016,SUP,Support Specialist,2026-03,141.57,95.93,6.24,6.7,5.92,14.14,6,4.24,synthetic demo data
+KPI-00139,EMP0016,SUP,Support Specialist,2026-04,148.6,97.92,9.18,7.95,7.39,15.93,8,5.38,synthetic demo data
+KPI-00140,EMP0016,SUP,Support Specialist,2026-05,158.65,95.74,7.5,6.12,6.97,5.52,4,2.52,synthetic demo data
+KPI-00141,EMP0016,SUP,Support Specialist,2026-06,164.11,96.58,9.04,7.07,4.15,9.99,6,3.66,synthetic demo data
+KPI-00142,EMP0016,SUP,Support Specialist,2026-07,154.42,97.59,6.1,7.79,4.4,12.76,6,3.89,synthetic demo data
+KPI-00143,EMP0016,SUP,Support Specialist,2026-08,147.86,92.85,6.38,7.07,8.61,10.56,5,3.38,synthetic demo data
+KPI-00144,EMP0016,SUP,Support Specialist,2026-09,137.19,90.56,6.26,6.6,8.01,10.29,9,6.56,synthetic demo data
+KPI-00145,EMP0017,PMO,Product Manager,2026-01,160.49,96.81,5.71,7.05,8.55,17.95,7,4.36,synthetic demo data
+KPI-00146,EMP0017,PMO,Product Manager,2026-02,168.0,95.36,4.06,8.29,7.17,13.83,9,5.36,synthetic demo data
+KPI-00147,EMP0017,PMO,Product Manager,2026-03,140.98,89.5,3.07,7.07,6.61,7.78,4,2.84,synthetic demo data
+KPI-00148,EMP0017,PMO,Product Manager,2026-04,153.56,100.0,7.82,7.02,6.44,9.22,2,1.3,synthetic demo data
+KPI-00149,EMP0017,PMO,Product Manager,2026-05,159.45,90.96,4.82,5.65,5.84,14.42,7,4.39,synthetic demo data
+KPI-00150,EMP0017,PMO,Product Manager,2026-06,163.68,89.84,6.32,6.57,7.96,13.78,3,1.83,synthetic demo data
+KPI-00151,EMP0017,PMO,Product Manager,2026-07,157.87,95.68,5.93,7.33,9.33,17.86,6,3.8,synthetic demo data
+KPI-00152,EMP0017,PMO,Product Manager,2026-08,166.31,100.0,8.07,6.08,5.59,19.78,4,2.41,synthetic demo data
+KPI-00153,EMP0017,PMO,Product Manager,2026-09,149.91,92.73,5.62,7.37,6.01,11.12,5,3.34,synthetic demo data
+KPI-00154,EMP0018,HR,Talent Acquisition Specialist,2026-01,162.79,89.14,2.43,5.31,7.94,10.82,7,4.3,synthetic demo data
+KPI-00155,EMP0018,HR,Talent Acquisition Specialist,2026-02,176.95,98.14,4.58,7.28,7.03,8.68,6,3.39,synthetic demo data
+KPI-00156,EMP0018,HR,Talent Acquisition Specialist,2026-03,178.18,93.52,4.23,5.32,6.05,12.3,3,1.68,synthetic demo data
+KPI-00157,EMP0018,HR,Talent Acquisition Specialist,2026-04,173.91,97.4,6.99,8.46,7.87,6.98,8,4.6,synthetic demo data
+KPI-00158,EMP0018,HR,Talent Acquisition Specialist,2026-05,169.5,99.04,6.12,6.21,3.17,10.31,2,1.18,synthetic demo data
+KPI-00159,EMP0018,HR,Talent Acquisition Specialist,2026-06,181.36,100.0,4.74,7.03,4.82,8.47,6,3.31,synthetic demo data
+KPI-00160,EMP0018,HR,Talent Acquisition Specialist,2026-07,173.39,100.0,5.24,7.83,6.07,14.18,4,2.31,synthetic demo data
+KPI-00161,EMP0018,HR,Talent Acquisition Specialist,2026-08,173.31,95.02,4.68,7.44,6.91,13.37,8,4.62,synthetic demo data
+KPI-00162,EMP0018,HR,Talent Acquisition Specialist,2026-09,185.17,94.12,6.6,5.96,5.96,8.59,8,4.32,synthetic demo data
+KPI-00163,EMP0019,ENG,Senior Software Engineer,2026-01,148.36,97.67,5.55,8.7,7.6,12.97,6,4.04,synthetic demo data
+KPI-00164,EMP0019,ENG,Senior Software Engineer,2026-02,142.01,98.65,3.71,5.94,6.33,10.09,5,3.52,synthetic demo data
+KPI-00165,EMP0019,ENG,Senior Software Engineer,2026-03,159.28,90.52,3.34,8.62,6.96,4.79,5,3.14,synthetic demo data
+KPI-00166,EMP0019,ENG,Senior Software Engineer,2026-04,168.62,88.12,1.81,6.39,8.57,12.03,7,4.15,synthetic demo data
+KPI-00167,EMP0019,ENG,Senior Software Engineer,2026-05,163.34,100.0,2.04,8.18,5.08,19.5,5,3.06,synthetic demo data
+KPI-00168,EMP0019,ENG,Senior Software Engineer,2026-06,154.42,97.67,0.0,8.01,8.82,15.91,3,1.94,synthetic demo data
+KPI-00169,EMP0019,ENG,Senior Software Engineer,2026-07,157.88,100.0,0.0,6.52,8.68,15.81,7,4.43,synthetic demo data
+KPI-00170,EMP0019,ENG,Senior Software Engineer,2026-08,173.58,99.38,3.41,10.0,7.02,11.53,7,4.03,synthetic demo data
+KPI-00171,EMP0019,ENG,Senior Software Engineer,2026-09,162.33,95.93,0.72,10.0,7.84,11.8,8,4.93,synthetic demo data
+KPI-00172,EMP0020,QA,Automation Engineer,2026-01,154.64,94.69,3.01,6.91,8.2,6.36,8,5.17,synthetic demo data
+KPI-00173,EMP0020,QA,Automation Engineer,2026-02,155.65,97.42,1.62,8.87,8.7,17.16,3,1.93,synthetic demo data
+KPI-00174,EMP0020,QA,Automation Engineer,2026-03,165.22,97.51,0.86,7.31,7.36,15.54,6,3.63,synthetic demo data
+KPI-00175,EMP0020,QA,Automation Engineer,2026-04,160.96,100.0,5.36,4.05,6.32,12.65,2,1.24,synthetic demo data
+KPI-00176,EMP0020,QA,Automation Engineer,2026-05,159.4,100.0,1.69,7.73,5.41,10.62,9,5.65,synthetic demo data
+KPI-00177,EMP0020,QA,Automation Engineer,2026-06,154.36,97.71,0.44,9.48,7.72,12.58,7,4.53,synthetic demo data
+KPI-00178,EMP0020,QA,Automation Engineer,2026-07,147.49,100.0,2.9,7.11,6.05,10.98,7,4.75,synthetic demo data
+KPI-00179,EMP0020,QA,Automation Engineer,2026-08,160.68,98.37,3.4,7.93,6.16,22.25,3,1.87,synthetic demo data
+KPI-00180,EMP0020,QA,Automation Engineer,2026-09,168.63,100.0,2.06,9.9,8.32,17.2,6,3.56,synthetic demo data
+KPI-00181,EMP0021,OPS,IT Support Engineer,2026-01,164.09,98.25,6.19,6.18,5.36,6.43,6,3.66,synthetic demo data
+KPI-00182,EMP0021,OPS,IT Support Engineer,2026-02,158.25,94.14,1.93,5.82,8.39,10.32,6,3.79,synthetic demo data
+KPI-00183,EMP0021,OPS,IT Support Engineer,2026-03,147.9,100.0,6.39,7.58,10.0,19.06,5,3.38,synthetic demo data
+KPI-00184,EMP0021,OPS,IT Support Engineer,2026-04,154.22,94.53,7.43,7.13,6.08,18.87,5,3.24,synthetic demo data
+KPI-00185,EMP0021,OPS,IT Support Engineer,2026-05,177.11,95.98,9.46,7.66,8.15,10.08,4,2.26,synthetic demo data
+KPI-00186,EMP0021,OPS,IT Support Engineer,2026-06,162.55,99.09,6.69,5.77,4.61,7.26,2,1.23,synthetic demo data
+KPI-00187,EMP0021,OPS,IT Support Engineer,2026-07,159.78,99.56,6.6,4.65,6.39,12.33,10,6.26,synthetic demo data
+KPI-00188,EMP0021,OPS,IT Support Engineer,2026-08,147.38,94.31,9.33,7.77,7.54,13.44,6,4.07,synthetic demo data
+KPI-00189,EMP0021,OPS,IT Support Engineer,2026-09,165.07,92.86,8.02,5.67,7.18,13.7,4,2.42,synthetic demo data
+KPI-00190,EMP0022,SUP,Technical Support Engineer,2026-01,147.11,87.73,3.54,8.94,6.45,10.22,7,4.76,synthetic demo data
+KPI-00191,EMP0022,SUP,Technical Support Engineer,2026-02,139.78,89.54,7.71,7.57,6.05,13.26,8,5.72,synthetic demo data
+KPI-00192,EMP0022,SUP,Technical Support Engineer,2026-03,140.65,83.86,4.87,6.6,7.95,9.8,2,1.42,synthetic demo data
+KPI-00193,EMP0022,SUP,Technical Support Engineer,2026-04,146.42,80.16,4.16,7.2,5.3,15.39,8,5.46,synthetic demo data
+KPI-00194,EMP0022,SUP,Technical Support Engineer,2026-05,155.11,82.29,5.51,8.06,6.42,15.0,4,2.58,synthetic demo data
+KPI-00195,EMP0022,SUP,Technical Support Engineer,2026-06,172.36,86.36,5.72,5.48,4.53,17.14,5,2.9,synthetic demo data
+KPI-00196,EMP0022,SUP,Technical Support Engineer,2026-07,163.11,90.51,4.36,8.98,5.59,3.93,4,2.45,synthetic demo data
+KPI-00197,EMP0022,SUP,Technical Support Engineer,2026-08,160.82,91.06,2.04,6.59,5.06,9.6,3,1.87,synthetic demo data
+KPI-00198,EMP0022,SUP,Technical Support Engineer,2026-09,151.49,87.16,5.76,8.35,5.73,9.49,6,3.96,synthetic demo data
+KPI-00199,EMP0023,PMO,Business Analyst,2026-01,153.55,91.44,4.74,6.72,3.78,6.12,5,3.26,synthetic demo data
+KPI-00200,EMP0023,PMO,Business Analyst,2026-02,161.49,84.52,4.75,8.1,5.76,13.39,3,1.86,synthetic demo data
+KPI-00201,EMP0023,PMO,Business Analyst,2026-03,152.4,86.58,0.47,7.82,4.49,9.36,2,1.31,synthetic demo data
+KPI-00202,EMP0023,PMO,Business Analyst,2026-04,142.19,91.6,3.04,7.17,6.68,12.47,5,3.52,synthetic demo data
+KPI-00203,EMP0023,PMO,Business Analyst,2026-05,165.83,88.5,4.11,8.03,7.92,5.48,4,2.41,synthetic demo data
+KPI-00204,EMP0023,PMO,Business Analyst,2026-06,164.1,93.96,4.51,6.48,5.41,12.34,4,2.44,synthetic demo data
+KPI-00205,EMP0023,PMO,Business Analyst,2026-07,153.01,92.47,3.12,7.34,10.0,4.06,5,3.27,synthetic demo data
+KPI-00206,EMP0023,PMO,Business Analyst,2026-08,147.33,94.2,4.27,7.61,7.79,11.95,7,4.75,synthetic demo data
+KPI-00207,EMP0023,PMO,Business Analyst,2026-09,134.79,97.72,4.79,7.97,4.13,7.85,5,3.71,synthetic demo data
+KPI-00208,EMP0024,HR,HR Business Partner,2026-01,165.82,89.1,3.88,5.71,6.99,13.11,8,4.82,synthetic demo data
+KPI-00209,EMP0024,HR,HR Business Partner,2026-02,160.42,95.06,2.04,8.88,7.73,12.04,6,3.74,synthetic demo data
+KPI-00210,EMP0024,HR,HR Business Partner,2026-03,149.43,98.82,0.05,8.29,7.1,23.16,4,2.68,synthetic demo data
+KPI-00211,EMP0024,HR,HR Business Partner,2026-04,161.02,100.0,4.74,6.62,7.25,13.6,7,4.35,synthetic demo data
+KPI-00212,EMP0024,HR,HR Business Partner,2026-05,156.3,97.16,0.31,7.58,7.59,12.68,3,1.92,synthetic demo data
+KPI-00213,EMP0024,HR,HR Business Partner,2026-06,169.66,98.73,1.69,7.1,4.62,9.48,5,2.95,synthetic demo data
+KPI-00214,EMP0024,HR,HR Business Partner,2026-07,171.56,95.25,3.87,6.8,7.29,13.02,8,4.66,synthetic demo data
+KPI-00215,EMP0024,HR,HR Business Partner,2026-08,157.6,92.01,0.65,6.81,5.0,15.23,5,3.17,synthetic demo data
+KPI-00216,EMP0024,HR,HR Business Partner,2026-09,180.63,91.44,3.17,6.13,6.16,14.15,1,0.55,synthetic demo data
+KPI-00217,EMP0025,ENG,Senior Software Engineer,2026-01,176.52,93.08,3.65,7.79,6.31,12.23,8,4.53,synthetic demo data
+KPI-00218,EMP0025,ENG,Senior Software Engineer,2026-02,160.86,97.1,3.04,6.88,10.0,18.87,7,4.35,synthetic demo data
+KPI-00219,EMP0025,ENG,Senior Software Engineer,2026-03,164.01,91.63,5.38,7.68,7.06,14.23,6,3.66,synthetic demo data
+KPI-00220,EMP0025,ENG,Senior Software Engineer,2026-04,160.04,91.68,6.72,6.07,6.91,11.06,7,4.37,synthetic demo data
+KPI-00221,EMP0025,ENG,Senior Software Engineer,2026-05,168.37,98.59,6.07,6.13,8.22,11.24,5,2.97,synthetic demo data
+KPI-00222,EMP0025,ENG,Senior Software Engineer,2026-06,173.93,91.76,6.68,6.75,6.25,11.72,5,2.87,synthetic demo data
+KPI-00223,EMP0025,ENG,Senior Software Engineer,2026-07,180.15,95.65,7.98,10.0,5.63,14.63,4,2.22,synthetic demo data
+KPI-00224,EMP0025,ENG,Senior Software Engineer,2026-08,165.3,91.28,3.58,6.43,6.98,9.47,8,4.84,synthetic demo data
+KPI-00225,EMP0025,ENG,Senior Software Engineer,2026-09,164.19,100.0,4.54,7.72,5.22,21.19,9,5.48,synthetic demo data
+KPI-00226,EMP0026,QA,QA Lead,2026-01,144.38,97.58,5.54,8.97,4.84,15.74,9,6.23,synthetic demo data
+KPI-00227,EMP0026,QA,QA Lead,2026-02,139.03,95.17,4.05,7.35,4.44,13.23,6,4.32,synthetic demo data
+KPI-00228,EMP0026,QA,QA Lead,2026-03,150.99,93.24,2.91,7.65,7.94,13.31,6,3.97,synthetic demo data
+KPI-00229,EMP0026,QA,QA Lead,2026-04,152.89,88.53,4.37,7.69,7.33,18.38,3,1.96,synthetic demo data
+KPI-00230,EMP0026,QA,QA Lead,2026-05,136.54,96.14,3.6,7.89,6.56,17.19,8,5.86,synthetic demo data
+KPI-00231,EMP0026,QA,QA Lead,2026-06,155.99,94.29,0.27,8.58,9.13,17.11,5,3.21,synthetic demo data
+KPI-00232,EMP0026,QA,QA Lead,2026-07,157.49,98.18,6.09,6.69,6.92,17.53,7,4.44,synthetic demo data
+KPI-00233,EMP0026,QA,QA Lead,2026-08,143.32,96.63,4.54,7.79,7.6,13.49,9,6.28,synthetic demo data
+KPI-00234,EMP0026,QA,QA Lead,2026-09,145.03,93.16,3.63,8.7,4.98,9.28,2,1.38,synthetic demo data
+KPI-00235,EMP0027,OPS,Operations Analyst,2026-01,157.28,91.25,5.47,8.66,7.56,8.14,7,4.45,synthetic demo data
+KPI-00236,EMP0027,OPS,Operations Analyst,2026-02,144.93,98.55,7.37,7.8,7.2,12.9,7,4.83,synthetic demo data
+KPI-00237,EMP0027,OPS,Operations Analyst,2026-03,150.58,94.46,7.13,6.82,6.03,8.95,4,2.66,synthetic demo data
+KPI-00238,EMP0027,OPS,Operations Analyst,2026-04,139.04,96.18,8.62,9.1,4.49,16.64,9,6.47,synthetic demo data
+KPI-00239,EMP0027,OPS,Operations Analyst,2026-05,149.9,94.0,2.55,7.77,5.34,14.54,3,2.0,synthetic demo data
+KPI-00240,EMP0027,OPS,Operations Analyst,2026-06,157.81,97.2,4.5,6.16,3.68,12.67,5,3.17,synthetic demo data
+KPI-00241,EMP0027,OPS,Operations Analyst,2026-07,141.24,95.22,5.03,6.23,6.12,18.03,7,4.96,synthetic demo data
+KPI-00242,EMP0027,OPS,Operations Analyst,2026-08,152.49,95.79,3.9,7.5,7.19,11.85,7,4.59,synthetic demo data
+KPI-00243,EMP0027,OPS,Operations Analyst,2026-09,147.34,95.42,6.62,4.11,8.78,1.52,5,3.39,synthetic demo data
+KPI-00244,EMP0028,SUP,Support Lead,2026-01,148.83,86.64,2.03,9.32,8.26,7.32,7,4.7,synthetic demo data
+KPI-00245,EMP0028,SUP,Support Lead,2026-02,151.44,93.15,1.5,10.0,7.1,9.56,6,3.96,synthetic demo data
+KPI-00246,EMP0028,SUP,Support Lead,2026-03,151.93,84.25,3.8,6.91,3.82,12.69,4,2.63,synthetic demo data
+KPI-00247,EMP0028,SUP,Support Lead,2026-04,152.32,85.51,2.26,10.0,7.23,15.2,4,2.63,synthetic demo data
+KPI-00248,EMP0028,SUP,Support Lead,2026-05,153.09,89.41,2.02,9.36,5.31,13.07,6,3.92,synthetic demo data
+KPI-00249,EMP0028,SUP,Support Lead,2026-06,159.57,86.44,3.22,8.05,6.03,16.16,8,5.01,synthetic demo data
+KPI-00250,EMP0028,SUP,Support Lead,2026-07,157.57,87.17,4.91,8.05,6.68,14.64,11,6.98,synthetic demo data
+KPI-00251,EMP0028,SUP,Support Lead,2026-08,147.66,91.34,0.64,8.57,9.55,16.17,8,5.42,synthetic demo data
+KPI-00252,EMP0028,SUP,Support Lead,2026-09,153.84,88.77,3.25,7.42,6.7,15.01,6,3.9,synthetic demo data
+KPI-00253,EMP0029,PMO,Business Analyst,2026-01,154.48,95.35,4.76,9.29,5.32,8.54,6,3.88,synthetic demo data
+KPI-00254,EMP0029,PMO,Business Analyst,2026-02,154.07,90.79,7.39,6.63,4.31,15.98,6,3.89,synthetic demo data
+KPI-00255,EMP0029,PMO,Business Analyst,2026-03,142.07,100.0,6.65,6.73,8.43,11.85,5,3.52,synthetic demo data
+KPI-00256,EMP0029,PMO,Business Analyst,2026-04,146.85,97.68,6.36,6.76,4.8,11.73,5,3.4,synthetic demo data
+KPI-00257,EMP0029,PMO,Business Analyst,2026-05,141.53,90.56,6.5,3.75,6.32,9.3,7,4.95,synthetic demo data
+KPI-00258,EMP0029,PMO,Business Analyst,2026-06,148.17,97.95,4.97,6.87,7.13,9.36,7,4.72,synthetic demo data
+KPI-00259,EMP0029,PMO,Business Analyst,2026-07,144.21,96.69,7.07,7.5,8.93,8.15,2,1.39,synthetic demo data
+KPI-00260,EMP0029,PMO,Business Analyst,2026-08,144.21,97.95,6.39,6.86,4.29,14.29,2,1.39,synthetic demo data
+KPI-00261,EMP0029,PMO,Business Analyst,2026-09,161.25,100.0,6.18,7.41,5.25,3.96,4,2.48,synthetic demo data
+KPI-00262,EMP0030,HR,Talent Acquisition Specialist,2026-01,151.31,100.0,4.97,6.1,3.53,2.42,4,2.64,synthetic demo data
+KPI-00263,EMP0030,HR,Talent Acquisition Specialist,2026-02,152.01,94.67,5.22,6.56,2.39,6.68,5,3.29,synthetic demo data
+KPI-00264,EMP0030,HR,Talent Acquisition Specialist,2026-03,154.63,95.13,5.53,7.67,6.86,9.97,3,1.94,synthetic demo data
+KPI-00265,EMP0030,HR,Talent Acquisition Specialist,2026-04,146.58,100.0,5.59,7.22,5.88,13.63,5,3.41,synthetic demo data
+KPI-00266,EMP0030,HR,Talent Acquisition Specialist,2026-05,157.78,100.0,4.0,4.42,8.03,11.38,1,0.63,synthetic demo data
+KPI-00267,EMP0030,HR,Talent Acquisition Specialist,2026-06,145.91,100.0,4.83,5.91,7.81,6.15,3,2.06,synthetic demo data
+KPI-00268,EMP0030,HR,Talent Acquisition Specialist,2026-07,153.24,100.0,6.07,7.54,5.98,12.31,4,2.61,synthetic demo data
+KPI-00269,EMP0030,HR,Talent Acquisition Specialist,2026-08,152.06,99.5,5.62,7.38,6.52,10.53,3,1.97,synthetic demo data
+KPI-00270,EMP0030,HR,Talent Acquisition Specialist,2026-09,152.1,99.03,5.58,9.03,4.88,12.05,7,4.6,synthetic demo data
+KPI-00271,EMP0031,ENG,DevOps Engineer,2026-01,176.56,98.03,5.19,7.14,10.0,15.51,5,2.83,synthetic demo data
+KPI-00272,EMP0031,ENG,DevOps Engineer,2026-02,168.54,90.39,6.83,7.1,7.23,13.68,8,4.75,synthetic demo data
+KPI-00273,EMP0031,ENG,DevOps Engineer,2026-03,167.33,89.93,5.7,8.21,7.55,10.69,8,4.78,synthetic demo data
+KPI-00274,EMP0031,ENG,DevOps Engineer,2026-04,168.14,91.86,3.84,9.02,8.0,16.36,9,5.35,synthetic demo data
+KPI-00275,EMP0031,ENG,DevOps Engineer,2026-05,191.0,87.74,4.17,6.81,5.74,9.61,6,3.14,synthetic demo data
+KPI-00276,EMP0031,ENG,DevOps Engineer,2026-06,164.4,94.83,5.42,8.07,7.81,16.35,5,3.04,synthetic demo data
+KPI-00277,EMP0031,ENG,DevOps Engineer,2026-07,190.82,94.48,2.38,6.37,4.39,14.0,6,3.14,synthetic demo data
+KPI-00278,EMP0031,ENG,DevOps Engineer,2026-08,170.33,100.0,6.21,8.36,5.62,9.93,6,3.52,synthetic demo data
+KPI-00279,EMP0031,ENG,DevOps Engineer,2026-09,175.4,87.23,5.05,7.54,6.71,10.67,5,2.85,synthetic demo data
+KPI-00280,EMP0032,QA,Automation Engineer,2026-01,157.26,98.96,7.8,8.77,9.44,9.63,6,3.82,synthetic demo data
+KPI-00281,EMP0032,QA,Automation Engineer,2026-02,160.78,95.88,5.21,5.58,6.87,10.03,6,3.73,synthetic demo data
+KPI-00282,EMP0032,QA,Automation Engineer,2026-03,154.41,92.41,6.61,7.46,7.61,21.87,6,3.89,synthetic demo data
+KPI-00283,EMP0032,QA,Automation Engineer,2026-04,164.53,92.48,4.2,9.1,5.32,8.92,6,3.65,synthetic demo data
+KPI-00284,EMP0032,QA,Automation Engineer,2026-05,159.98,93.09,5.76,8.7,5.5,7.52,8,5.0,synthetic demo data
+KPI-00285,EMP0032,QA,Automation Engineer,2026-06,164.59,94.07,3.73,6.43,6.64,17.78,4,2.43,synthetic demo data
+KPI-00286,EMP0032,QA,Automation Engineer,2026-07,160.02,98.56,2.46,8.47,4.92,14.44,6,3.75,synthetic demo data
+KPI-00287,EMP0032,QA,Automation Engineer,2026-08,169.28,98.13,2.46,6.38,6.94,12.32,7,4.14,synthetic demo data
+KPI-00288,EMP0032,QA,Automation Engineer,2026-09,166.94,98.33,5.9,5.16,6.03,14.78,4,2.4,synthetic demo data
+KPI-00289,EMP0033,OPS,IT Support Engineer,2026-01,175.32,95.02,3.06,8.3,8.35,16.99,8,4.56,synthetic demo data
+KPI-00290,EMP0033,OPS,IT Support Engineer,2026-02,183.57,98.34,0.0,8.49,9.39,20.36,6,3.27,synthetic demo data
+KPI-00291,EMP0033,OPS,IT Support Engineer,2026-03,174.77,98.19,5.39,7.12,6.88,14.31,6,3.43,synthetic demo data
+KPI-00292,EMP0033,OPS,IT Support Engineer,2026-04,158.5,85.4,0.61,8.41,6.9,23.29,7,4.42,synthetic demo data
+KPI-00293,EMP0033,OPS,IT Support Engineer,2026-05,175.77,95.88,2.61,8.3,9.74,15.76,8,4.55,synthetic demo data
+KPI-00294,EMP0033,OPS,IT Support Engineer,2026-06,168.45,93.98,1.94,10.0,7.24,17.22,9,5.34,synthetic demo data
+KPI-00295,EMP0033,OPS,IT Support Engineer,2026-07,174.57,95.02,0.0,8.57,4.27,21.43,7,4.01,synthetic demo data
+KPI-00296,EMP0033,OPS,IT Support Engineer,2026-08,173.46,91.85,0.0,8.28,7.6,13.57,7,4.04,synthetic demo data
+KPI-00297,EMP0033,OPS,IT Support Engineer,2026-09,187.45,97.87,2.97,8.95,9.9,14.77,3,1.6,synthetic demo data
+KPI-00298,EMP0034,SUP,Technical Support Engineer,2026-01,169.89,89.83,5.06,5.91,2.43,11.17,6,3.53,synthetic demo data
+KPI-00299,EMP0034,SUP,Technical Support Engineer,2026-02,174.54,95.41,7.24,6.13,5.22,12.49,11,6.3,synthetic demo data
+KPI-00300,EMP0034,SUP,Technical Support Engineer,2026-03,176.69,93.84,4.13,6.26,6.96,6.15,5,2.83,synthetic demo data
+KPI-00301,EMP0034,SUP,Technical Support Engineer,2026-04,164.06,95.48,4.18,4.47,6.53,7.76,6,3.66,synthetic demo data
+KPI-00302,EMP0034,SUP,Technical Support Engineer,2026-05,164.29,89.01,6.0,5.51,4.97,13.31,5,3.04,synthetic demo data
+KPI-00303,EMP0034,SUP,Technical Support Engineer,2026-06,152.24,92.28,6.53,7.22,2.77,13.4,2,1.31,synthetic demo data
+KPI-00304,EMP0034,SUP,Technical Support Engineer,2026-07,167.42,86.88,2.9,6.77,5.48,7.98,7,4.18,synthetic demo data
+KPI-00305,EMP0034,SUP,Technical Support Engineer,2026-08,161.44,93.36,5.19,6.47,4.44,3.96,6,3.72,synthetic demo data
+KPI-00306,EMP0034,SUP,Technical Support Engineer,2026-09,162.17,81.73,3.89,6.24,8.16,3.74,3,1.85,synthetic demo data
+KPI-00307,EMP0035,PMO,Project Coordinator,2026-01,180.48,91.2,4.36,9.7,10.0,14.66,8,4.43,synthetic demo data
+KPI-00308,EMP0035,PMO,Project Coordinator,2026-02,182.63,87.43,5.83,7.22,8.35,16.0,6,3.29,synthetic demo data
+KPI-00309,EMP0035,PMO,Project Coordinator,2026-03,160.43,93.67,5.78,8.24,8.3,19.27,6,3.74,synthetic demo data
+KPI-00310,EMP0035,PMO,Project Coordinator,2026-04,174.06,95.55,8.34,7.96,7.5,20.06,9,5.17,synthetic demo data
+KPI-00311,EMP0035,PMO,Project Coordinator,2026-05,163.97,91.31,5.06,7.44,7.57,17.33,10,6.1,synthetic demo data
+KPI-00312,EMP0035,PMO,Project Coordinator,2026-06,163.42,86.32,1.15,6.95,6.19,16.36,5,3.06,synthetic demo data
+KPI-00313,EMP0035,PMO,Project Coordinator,2026-07,162.65,90.02,3.5,9.91,9.21,17.04,7,4.3,synthetic demo data
+KPI-00314,EMP0035,PMO,Project Coordinator,2026-08,164.78,93.85,5.13,7.35,8.25,8.83,8,4.85,synthetic demo data
+KPI-00315,EMP0035,PMO,Project Coordinator,2026-09,174.24,91.74,7.09,7.38,8.53,16.83,8,4.59,synthetic demo data
+KPI-00316,EMP0036,HR,Talent Acquisition Specialist,2026-01,154.76,100.0,10.11,7.2,3.45,11.1,8,5.17,synthetic demo data
+KPI-00317,EMP0036,HR,Talent Acquisition Specialist,2026-02,165.17,97.72,8.2,7.9,8.65,16.98,9,5.45,synthetic demo data
+KPI-00318,EMP0036,HR,Talent Acquisition Specialist,2026-03,163.63,99.99,6.11,6.65,9.4,14.16,7,4.28,synthetic demo data
+KPI-00319,EMP0036,HR,Talent Acquisition Specialist,2026-04,161.77,94.82,6.61,8.99,7.64,6.43,5,3.09,synthetic demo data
+KPI-00320,EMP0036,HR,Talent Acquisition Specialist,2026-05,174.9,96.11,3.73,9.51,7.84,13.01,5,2.86,synthetic demo data
+KPI-00321,EMP0036,HR,Talent Acquisition Specialist,2026-06,169.36,94.97,8.42,7.96,7.17,13.88,6,3.54,synthetic demo data
+KPI-00322,EMP0036,HR,Talent Acquisition Specialist,2026-07,169.07,93.85,4.02,8.04,7.76,15.22,7,4.14,synthetic demo data
+KPI-00323,EMP0036,HR,Talent Acquisition Specialist,2026-08,158.25,99.58,6.52,6.78,6.32,21.4,2,1.26,synthetic demo data
+KPI-00324,EMP0036,HR,Talent Acquisition Specialist,2026-09,164.75,91.03,6.42,6.84,3.62,14.85,5,3.03,synthetic demo data
+KPI-00325,EMP0037,ENG,Senior Software Engineer,2026-01,174.11,95.11,7.05,6.13,1.77,9.21,7,4.02,synthetic demo data
+KPI-00326,EMP0037,ENG,Senior Software Engineer,2026-02,170.2,100.0,7.02,5.54,5.11,4.06,1,0.59,synthetic demo data
+KPI-00327,EMP0037,ENG,Senior Software Engineer,2026-03,175.16,100.0,5.15,6.74,4.39,8.69,4,2.28,synthetic demo data
+KPI-00328,EMP0037,ENG,Senior Software Engineer,2026-04,173.01,98.67,8.97,5.98,5.48,3.99,7,4.05,synthetic demo data
+KPI-00329,EMP0037,ENG,Senior Software Engineer,2026-05,168.86,100.0,4.17,4.68,6.41,8.48,0,0.0,synthetic demo data
+KPI-00330,EMP0037,ENG,Senior Software Engineer,2026-06,173.36,96.49,8.97,5.53,4.84,12.05,1,0.58,synthetic demo data
+KPI-00331,EMP0037,ENG,Senior Software Engineer,2026-07,157.28,97.7,8.04,4.1,1.98,10.63,2,1.27,synthetic demo data
+KPI-00332,EMP0037,ENG,Senior Software Engineer,2026-08,162.03,91.94,5.65,5.62,5.95,4.23,6,3.7,synthetic demo data
+KPI-00333,EMP0037,ENG,Senior Software Engineer,2026-09,159.72,96.01,9.17,5.87,3.69,6.7,6,3.76,synthetic demo data
+KPI-00334,EMP0038,QA,Automation Engineer,2026-01,164.86,93.4,4.72,9.46,7.71,20.41,8,4.85,synthetic demo data
+KPI-00335,EMP0038,QA,Automation Engineer,2026-02,147.63,91.22,7.36,8.52,10.0,15.99,9,6.1,synthetic demo data
+KPI-00336,EMP0038,QA,Automation Engineer,2026-03,174.24,90.87,2.04,10.0,7.34,17.96,7,4.02,synthetic demo data
+KPI-00337,EMP0038,QA,Automation Engineer,2026-04,157.43,91.24,4.77,9.22,7.07,15.24,8,5.08,synthetic demo data
+KPI-00338,EMP0038,QA,Automation Engineer,2026-05,144.0,93.07,5.25,8.24,8.19,17.97,7,4.86,synthetic demo data
+KPI-00339,EMP0038,QA,Automation Engineer,2026-06,160.78,99.52,4.32,9.26,8.24,19.51,11,6.84,synthetic demo data
+KPI-00340,EMP0038,QA,Automation Engineer,2026-07,159.33,88.39,5.78,10.0,8.27,22.04,7,4.39,synthetic demo data
+KPI-00341,EMP0038,QA,Automation Engineer,2026-08,143.55,95.03,2.27,8.42,10.0,10.39,6,4.18,synthetic demo data
+KPI-00342,EMP0038,QA,Automation Engineer,2026-09,147.14,94.32,4.48,10.0,10.0,20.03,9,6.12,synthetic demo data
+KPI-00343,EMP0039,OPS,Operations Manager,2026-01,158.21,86.95,4.11,7.65,7.3,17.65,6,3.79,synthetic demo data
+KPI-00344,EMP0039,OPS,Operations Manager,2026-02,146.01,96.39,3.73,7.91,7.62,18.99,4,2.74,synthetic demo data
+KPI-00345,EMP0039,OPS,Operations Manager,2026-03,156.43,100.0,0.87,7.98,6.48,13.33,5,3.2,synthetic demo data
+KPI-00346,EMP0039,OPS,Operations Manager,2026-04,153.7,100.0,1.62,6.43,5.39,21.75,6,3.9,synthetic demo data
+KPI-00347,EMP0039,OPS,Operations Manager,2026-05,154.83,95.48,2.13,7.51,10.0,20.4,5,3.23,synthetic demo data
+KPI-00348,EMP0039,OPS,Operations Manager,2026-06,160.16,93.99,0.8,8.95,9.15,19.01,6,3.75,synthetic demo data
+KPI-00349,EMP0039,OPS,Operations Manager,2026-07,153.72,99.48,4.25,7.32,4.91,15.28,9,5.85,synthetic demo data
+KPI-00350,EMP0039,OPS,Operations Manager,2026-08,145.56,99.09,4.15,8.64,8.71,12.04,3,2.06,synthetic demo data
+KPI-00351,EMP0039,OPS,Operations Manager,2026-09,150.81,99.96,2.77,6.98,4.6,21.85,8,5.3,synthetic demo data
+KPI-00352,EMP0040,SUP,Technical Support Engineer,2026-01,162.23,95.59,3.05,9.83,5.85,15.46,9,5.55,synthetic demo data
+KPI-00353,EMP0040,SUP,Technical Support Engineer,2026-02,168.94,94.31,4.68,8.04,5.98,11.65,10,5.92,synthetic demo data
+KPI-00354,EMP0040,SUP,Technical Support Engineer,2026-03,165.04,91.25,3.84,9.36,7.88,15.69,7,4.24,synthetic demo data
+KPI-00355,EMP0040,SUP,Technical Support Engineer,2026-04,170.44,91.75,4.25,9.21,8.19,9.51,5,2.93,synthetic demo data
+KPI-00356,EMP0040,SUP,Technical Support Engineer,2026-05,166.76,99.97,1.62,8.42,4.76,10.9,6,3.6,synthetic demo data
+KPI-00357,EMP0040,SUP,Technical Support Engineer,2026-06,162.57,92.13,4.67,7.49,4.63,16.57,9,5.54,synthetic demo data
+KPI-00358,EMP0040,SUP,Technical Support Engineer,2026-07,172.57,88.64,5.14,8.88,5.28,13.48,7,4.06,synthetic demo data
+KPI-00359,EMP0040,SUP,Technical Support Engineer,2026-08,180.48,100.0,2.02,10.0,5.46,17.38,9,4.99,synthetic demo data
+KPI-00360,EMP0040,SUP,Technical Support Engineer,2026-09,158.02,95.69,4.49,8.74,7.21,18.24,7,4.43,synthetic demo data
+KPI-00361,EMP0041,PMO,Project Coordinator,2026-01,172.88,99.54,5.58,8.94,8.82,14.11,4,2.31,synthetic demo data
+KPI-00362,EMP0041,PMO,Project Coordinator,2026-02,179.13,95.95,6.03,6.9,5.38,7.25,7,3.91,synthetic demo data
+KPI-00363,EMP0041,PMO,Project Coordinator,2026-03,160.46,100.0,4.1,5.85,7.51,19.26,6,3.74,synthetic demo data
+KPI-00364,EMP0041,PMO,Project Coordinator,2026-04,171.19,89.76,4.75,6.06,3.85,13.6,1,0.58,synthetic demo data
+KPI-00365,EMP0041,PMO,Project Coordinator,2026-05,156.2,94.29,4.5,7.75,7.2,16.72,7,4.48,synthetic demo data
+KPI-00366,EMP0041,PMO,Project Coordinator,2026-06,175.69,96.15,6.31,7.88,6.95,11.54,5,2.85,synthetic demo data
+KPI-00367,EMP0041,PMO,Project Coordinator,2026-07,160.19,97.62,5.68,6.53,5.73,8.28,8,4.99,synthetic demo data
+KPI-00368,EMP0041,PMO,Project Coordinator,2026-08,167.28,93.16,7.11,6.65,4.59,17.23,5,2.99,synthetic demo data
+KPI-00369,EMP0041,PMO,Project Coordinator,2026-09,163.42,96.3,7.64,7.32,4.91,15.31,5,3.06,synthetic demo data
+KPI-00370,EMP0042,HR,HR Operations Specialist,2026-01,167.37,86.33,5.73,7.6,8.1,16.6,11,6.57,synthetic demo data
+KPI-00371,EMP0042,HR,HR Operations Specialist,2026-02,166.49,89.79,3.23,8.71,7.95,22.8,11,6.61,synthetic demo data
+KPI-00372,EMP0042,HR,HR Operations Specialist,2026-03,168.51,86.21,1.02,7.03,10.0,17.71,7,4.15,synthetic demo data
+KPI-00373,EMP0042,HR,HR Operations Specialist,2026-04,173.15,93.22,5.42,8.73,8.88,20.23,12,6.93,synthetic demo data
+KPI-00374,EMP0042,HR,HR Operations Specialist,2026-05,163.49,91.35,7.24,7.72,10.0,18.13,4,2.45,synthetic demo data
+KPI-00375,EMP0042,HR,HR Operations Specialist,2026-06,143.3,85.3,6.22,9.19,9.37,27.14,6,4.19,synthetic demo data
+KPI-00376,EMP0042,HR,HR Operations Specialist,2026-07,159.93,89.89,4.21,9.1,6.65,24.97,8,5.0,synthetic demo data
+KPI-00377,EMP0042,HR,HR Operations Specialist,2026-08,176.23,88.72,7.01,9.0,9.04,16.97,9,5.11,synthetic demo data
+KPI-00378,EMP0042,HR,HR Operations Specialist,2026-09,162.66,86.11,5.18,8.36,10.0,18.95,12,7.38,synthetic demo data
+KPI-00379,EMP0043,ENG,Senior Software Engineer,2026-01,166.77,96.85,4.33,10.0,5.96,9.98,3,1.8,synthetic demo data
+KPI-00380,EMP0043,ENG,Senior Software Engineer,2026-02,180.14,94.05,3.89,8.7,7.75,20.93,3,1.67,synthetic demo data
+KPI-00381,EMP0043,ENG,Senior Software Engineer,2026-03,159.59,89.61,1.28,8.49,6.29,16.02,10,6.27,synthetic demo data
+KPI-00382,EMP0043,ENG,Senior Software Engineer,2026-04,158.9,89.75,4.61,8.4,5.84,10.52,8,5.03,synthetic demo data
+KPI-00383,EMP0043,ENG,Senior Software Engineer,2026-05,164.69,84.12,2.47,8.99,7.32,9.99,5,3.04,synthetic demo data
+KPI-00384,EMP0043,ENG,Senior Software Engineer,2026-06,161.8,93.76,2.26,6.3,7.12,12.65,7,4.33,synthetic demo data
+KPI-00385,EMP0043,ENG,Senior Software Engineer,2026-07,151.96,92.45,6.15,7.83,6.92,12.67,4,2.63,synthetic demo data
+KPI-00386,EMP0043,ENG,Senior Software Engineer,2026-08,161.12,95.58,4.23,6.25,5.95,13.86,5,3.1,synthetic demo data
+KPI-00387,EMP0043,ENG,Senior Software Engineer,2026-09,165.53,93.02,5.83,8.9,8.22,9.3,4,2.42,synthetic demo data
+KPI-00388,EMP0044,QA,QA Engineer,2026-01,159.05,100.0,4.7,7.04,6.85,14.44,7,4.4,synthetic demo data
+KPI-00389,EMP0044,QA,QA Engineer,2026-02,173.91,88.75,5.79,7.61,4.45,16.5,8,4.6,synthetic demo data
+KPI-00390,EMP0044,QA,QA Engineer,2026-03,150.69,91.66,1.68,5.93,8.44,11.54,4,2.65,synthetic demo data
+KPI-00391,EMP0044,QA,QA Engineer,2026-04,159.29,89.87,3.68,8.22,5.07,9.78,6,3.77,synthetic demo data
+KPI-00392,EMP0044,QA,QA Engineer,2026-05,165.15,95.98,3.37,8.45,5.65,20.73,4,2.42,synthetic demo data
+KPI-00393,EMP0044,QA,QA Engineer,2026-06,167.99,89.41,7.63,8.05,5.29,11.32,7,4.17,synthetic demo data
+KPI-00394,EMP0044,QA,QA Engineer,2026-07,165.81,91.44,4.5,8.24,7.04,8.22,4,2.41,synthetic demo data
+KPI-00395,EMP0044,QA,QA Engineer,2026-08,159.34,95.9,6.99,8.27,7.28,16.41,5,3.14,synthetic demo data
+KPI-00396,EMP0044,QA,QA Engineer,2026-09,156.26,88.83,2.44,7.75,7.12,16.17,7,4.48,synthetic demo data
+KPI-00397,EMP0045,OPS,Operations Analyst,2026-01,163.87,92.37,4.61,6.35,9.13,18.64,7,4.27,synthetic demo data
+KPI-00398,EMP0045,OPS,Operations Analyst,2026-02,179.07,93.88,10.26,7.38,7.59,12.77,7,3.91,synthetic demo data
+KPI-00399,EMP0045,OPS,Operations Analyst,2026-03,170.07,94.14,8.27,7.92,7.62,10.72,7,4.12,synthetic demo data
+KPI-00400,EMP0045,OPS,Operations Analyst,2026-04,162.4,92.43,4.21,10.0,6.8,8.53,5,3.08,synthetic demo data
+KPI-00401,EMP0045,OPS,Operations Analyst,2026-05,163.05,96.43,6.33,8.42,6.22,15.73,5,3.07,synthetic demo data
+KPI-00402,EMP0045,OPS,Operations Analyst,2026-06,158.55,91.35,3.56,8.87,8.25,18.28,6,3.78,synthetic demo data
+KPI-00403,EMP0045,OPS,Operations Analyst,2026-07,169.61,88.43,6.82,7.85,8.16,15.89,4,2.36,synthetic demo data
+KPI-00404,EMP0045,OPS,Operations Analyst,2026-08,151.6,92.07,6.34,8.44,5.12,10.43,5,3.3,synthetic demo data
+KPI-00405,EMP0045,OPS,Operations Analyst,2026-09,160.63,89.81,3.18,6.7,7.34,9.63,6,3.74,synthetic demo data
+KPI-00406,EMP0046,SUP,Support Specialist,2026-01,161.17,93.43,5.63,8.9,7.67,18.41,7,4.34,synthetic demo data
+KPI-00407,EMP0046,SUP,Support Specialist,2026-02,152.75,91.73,7.29,7.17,8.73,16.18,5,3.27,synthetic demo data
+KPI-00408,EMP0046,SUP,Support Specialist,2026-03,161.99,99.69,7.77,9.99,7.31,7.65,4,2.47,synthetic demo data
+KPI-00409,EMP0046,SUP,Support Specialist,2026-04,154.45,89.89,4.72,8.28,8.12,8.49,7,4.53,synthetic demo data
+KPI-00410,EMP0046,SUP,Support Specialist,2026-05,164.38,88.21,7.56,7.79,8.02,18.71,9,5.48,synthetic demo data
+KPI-00411,EMP0046,SUP,Support Specialist,2026-06,159.62,87.95,7.94,7.37,7.58,15.35,9,5.64,synthetic demo data
+KPI-00412,EMP0046,SUP,Support Specialist,2026-07,155.09,89.02,4.03,9.35,7.47,18.92,8,5.16,synthetic demo data
+KPI-00413,EMP0046,SUP,Support Specialist,2026-08,141.3,95.29,5.59,8.74,6.2,20.91,6,4.25,synthetic demo data
+KPI-00414,EMP0046,SUP,Support Specialist,2026-09,149.76,92.32,4.44,8.73,9.64,12.35,8,5.34,synthetic demo data
+KPI-00415,EMP0047,PMO,Product Manager,2026-01,144.75,89.91,5.5,2.79,2.62,3.77,5,3.45,synthetic demo data
+KPI-00416,EMP0047,PMO,Product Manager,2026-02,166.01,91.9,6.05,4.22,5.32,0.0,4,2.41,synthetic demo data
+KPI-00417,EMP0047,PMO,Product Manager,2026-03,156.71,90.27,3.63,5.39,3.03,7.59,1,0.64,synthetic demo data
+KPI-00418,EMP0047,PMO,Product Manager,2026-04,164.83,95.37,3.88,4.56,4.01,7.58,6,3.64,synthetic demo data
+KPI-00419,EMP0047,PMO,Product Manager,2026-05,167.36,97.22,8.89,5.66,4.52,8.19,0,0.0,synthetic demo data
+KPI-00420,EMP0047,PMO,Product Manager,2026-06,156.41,92.08,5.01,4.87,3.99,9.73,4,2.56,synthetic demo data
+KPI-00421,EMP0047,PMO,Product Manager,2026-07,158.64,91.51,5.78,5.96,1.34,4.12,2,1.26,synthetic demo data
+KPI-00422,EMP0047,PMO,Product Manager,2026-08,166.09,96.99,4.43,5.74,3.88,2.67,1,0.6,synthetic demo data
+KPI-00423,EMP0047,PMO,Product Manager,2026-09,160.07,93.71,0.98,4.61,3.87,4.24,1,0.62,synthetic demo data
+KPI-00424,EMP0048,HR,HR Business Partner,2026-01,151.91,91.3,4.82,8.48,6.09,15.37,8,5.27,synthetic demo data
+KPI-00425,EMP0048,HR,HR Business Partner,2026-02,160.28,87.62,3.99,4.75,6.54,13.0,5,3.12,synthetic demo data
+KPI-00426,EMP0048,HR,HR Business Partner,2026-03,155.06,90.22,0.95,8.11,6.07,17.05,4,2.58,synthetic demo data
+KPI-00427,EMP0048,HR,HR Business Partner,2026-04,153.99,89.43,5.02,8.0,7.1,8.95,4,2.6,synthetic demo data
+KPI-00428,EMP0048,HR,HR Business Partner,2026-05,149.13,90.38,3.57,8.58,7.06,11.24,6,4.02,synthetic demo data
+KPI-00429,EMP0048,HR,HR Business Partner,2026-06,155.54,91.54,7.52,7.09,7.37,16.81,7,4.5,synthetic demo data
+KPI-00430,EMP0048,HR,HR Business Partner,2026-07,149.79,85.04,3.73,6.62,4.85,11.92,5,3.34,synthetic demo data
+KPI-00431,EMP0048,HR,HR Business Partner,2026-08,158.37,92.5,3.1,7.56,4.65,13.12,8,5.05,synthetic demo data
+KPI-00432,EMP0048,HR,HR Business Partner,2026-09,160.28,87.94,6.21,6.12,5.58,17.95,10,6.24,synthetic demo data
+KPI-00433,EMP0049,ENG,Senior Software Engineer,2026-01,160.83,92.21,2.76,9.27,7.5,14.66,9,5.6,synthetic demo data
+KPI-00434,EMP0049,ENG,Senior Software Engineer,2026-02,152.17,98.7,3.14,8.3,8.29,22.65,8,5.26,synthetic demo data
+KPI-00435,EMP0049,ENG,Senior Software Engineer,2026-03,147.21,93.8,2.0,7.99,5.54,17.23,5,3.4,synthetic demo data
+KPI-00436,EMP0049,ENG,Senior Software Engineer,2026-04,160.71,87.95,5.6,10.0,7.56,15.38,6,3.73,synthetic demo data
+KPI-00437,EMP0049,ENG,Senior Software Engineer,2026-05,168.67,87.8,1.87,8.99,6.67,14.97,4,2.37,synthetic demo data
+KPI-00438,EMP0049,ENG,Senior Software Engineer,2026-06,165.49,95.67,3.69,9.54,6.2,16.07,5,3.02,synthetic demo data
+KPI-00439,EMP0049,ENG,Senior Software Engineer,2026-07,158.11,91.62,2.7,6.24,5.49,9.58,8,5.06,synthetic demo data
+KPI-00440,EMP0049,ENG,Senior Software Engineer,2026-08,176.25,93.66,0.0,9.5,8.92,8.93,6,3.4,synthetic demo data
+KPI-00441,EMP0049,ENG,Senior Software Engineer,2026-09,168.59,90.85,0.46,8.56,4.23,14.23,9,5.34,synthetic demo data
+KPI-00442,EMP0050,QA,Automation Engineer,2026-01,159.29,97.27,5.74,6.06,5.49,12.56,7,4.39,synthetic demo data
+KPI-00443,EMP0050,QA,Automation Engineer,2026-02,168.6,96.82,7.71,8.69,6.6,16.08,6,3.56,synthetic demo data
+KPI-00444,EMP0050,QA,Automation Engineer,2026-03,167.66,99.17,4.22,7.64,9.46,12.97,7,4.18,synthetic demo data
+KPI-00445,EMP0050,QA,Automation Engineer,2026-04,161.51,93.37,6.93,5.85,5.99,18.01,7,4.33,synthetic demo data
+KPI-00446,EMP0050,QA,Automation Engineer,2026-05,154.78,98.51,6.02,7.47,7.95,10.78,6,3.88,synthetic demo data
+KPI-00447,EMP0050,QA,Automation Engineer,2026-06,154.72,91.46,4.65,9.25,7.53,8.39,3,1.94,synthetic demo data
+KPI-00448,EMP0050,QA,Automation Engineer,2026-07,156.3,100.0,5.82,8.95,7.48,15.58,3,1.92,synthetic demo data
+KPI-00449,EMP0050,QA,Automation Engineer,2026-08,164.61,95.8,7.49,6.52,7.22,15.1,6,3.64,synthetic demo data
+KPI-00450,EMP0050,QA,Automation Engineer,2026-09,160.39,96.04,5.08,9.3,8.55,10.64,7,4.36,synthetic demo data
+KPI-00451,EMP0051,OPS,Operations Analyst,2026-01,157.72,94.47,4.06,6.93,4.16,10.72,8,5.07,synthetic demo data
+KPI-00452,EMP0051,OPS,Operations Analyst,2026-02,166.39,99.82,1.03,7.36,7.38,14.31,6,3.61,synthetic demo data
+KPI-00453,EMP0051,OPS,Operations Analyst,2026-03,156.0,97.09,1.95,4.62,6.6,12.15,6,3.85,synthetic demo data
+KPI-00454,EMP0051,OPS,Operations Analyst,2026-04,142.54,99.57,6.19,6.89,5.98,12.64,9,6.31,synthetic demo data
+KPI-00455,EMP0051,OPS,Operations Analyst,2026-05,145.02,98.04,1.65,6.17,6.0,16.81,9,6.21,synthetic demo data
+KPI-00456,EMP0051,OPS,Operations Analyst,2026-06,156.67,96.03,6.88,6.31,5.21,4.29,8,5.11,synthetic demo data
+KPI-00457,EMP0051,OPS,Operations Analyst,2026-07,160.79,100.0,0.71,8.47,6.19,14.64,2,1.24,synthetic demo data
+KPI-00458,EMP0051,OPS,Operations Analyst,2026-08,164.74,100.0,2.86,7.54,4.91,9.08,4,2.43,synthetic demo data
+KPI-00459,EMP0051,OPS,Operations Analyst,2026-09,138.46,100.0,4.82,5.99,6.61,10.34,6,4.33,synthetic demo data
+KPI-00460,EMP0052,SUP,Support Specialist,2026-01,159.9,97.74,6.77,6.15,5.06,8.56,3,1.88,synthetic demo data
+KPI-00461,EMP0052,SUP,Support Specialist,2026-02,152.82,99.85,5.25,5.35,2.89,15.92,5,3.27,synthetic demo data
+KPI-00462,EMP0052,SUP,Support Specialist,2026-03,149.79,94.27,2.53,8.53,4.66,14.73,5,3.34,synthetic demo data
+KPI-00463,EMP0052,SUP,Support Specialist,2026-04,166.23,96.11,6.23,7.72,6.21,10.64,5,3.01,synthetic demo data
+KPI-00464,EMP0052,SUP,Support Specialist,2026-05,170.07,92.07,4.88,6.91,5.87,7.52,6,3.53,synthetic demo data
+KPI-00465,EMP0052,SUP,Support Specialist,2026-06,153.57,89.73,4.89,5.63,2.61,9.79,6,3.91,synthetic demo data
+KPI-00466,EMP0052,SUP,Support Specialist,2026-07,159.08,97.18,1.81,5.33,8.27,5.05,6,3.77,synthetic demo data
+KPI-00467,EMP0052,SUP,Support Specialist,2026-08,149.47,95.49,3.87,7.54,5.47,7.45,3,2.01,synthetic demo data
+KPI-00468,EMP0052,SUP,Support Specialist,2026-09,157.03,91.01,5.56,9.91,7.32,12.13,5,3.18,synthetic demo data
+KPI-00469,EMP0053,PMO,Product Manager,2026-01,151.91,94.89,2.83,4.87,5.51,6.88,3,1.97,synthetic demo data
+KPI-00470,EMP0053,PMO,Product Manager,2026-02,157.03,97.49,3.57,6.31,5.73,7.22,3,1.91,synthetic demo data
+KPI-00471,EMP0053,PMO,Product Manager,2026-03,146.12,95.0,5.23,6.28,5.4,8.94,3,2.05,synthetic demo data
+KPI-00472,EMP0053,PMO,Product Manager,2026-04,157.82,100.0,5.46,5.65,6.82,8.72,4,2.53,synthetic demo data
+KPI-00473,EMP0053,PMO,Product Manager,2026-05,154.54,98.84,2.84,6.57,9.05,6.31,3,1.94,synthetic demo data
+KPI-00474,EMP0053,PMO,Product Manager,2026-06,148.77,96.29,6.47,4.99,3.99,1.45,2,1.34,synthetic demo data
+KPI-00475,EMP0053,PMO,Product Manager,2026-07,138.78,100.0,8.46,5.34,2.17,11.42,2,1.44,synthetic demo data
+KPI-00476,EMP0053,PMO,Product Manager,2026-08,162.59,97.01,3.01,5.56,5.87,6.9,2,1.23,synthetic demo data
+KPI-00477,EMP0053,PMO,Product Manager,2026-09,150.73,93.57,4.64,3.71,4.03,10.85,4,2.65,synthetic demo data
+KPI-00478,EMP0054,HR,HR Business Partner,2026-01,149.13,99.15,6.92,9.2,6.17,11.78,8,5.36,synthetic demo data
+KPI-00479,EMP0054,HR,HR Business Partner,2026-02,159.21,91.15,6.65,5.82,6.16,20.83,11,6.91,synthetic demo data
+KPI-00480,EMP0054,HR,HR Business Partner,2026-03,150.15,96.55,6.12,9.99,6.85,13.5,10,6.66,synthetic demo data
+KPI-00481,EMP0054,HR,HR Business Partner,2026-04,156.8,100.0,3.71,7.75,5.07,11.18,9,5.74,synthetic demo data
+KPI-00482,EMP0054,HR,HR Business Partner,2026-05,159.37,96.58,4.86,7.69,8.06,19.35,2,1.25,synthetic demo data
+KPI-00483,EMP0054,HR,HR Business Partner,2026-06,153.19,98.24,5.9,8.41,8.01,14.19,6,3.92,synthetic demo data
+KPI-00484,EMP0054,HR,HR Business Partner,2026-07,157.83,100.0,4.89,7.87,7.88,21.67,6,3.8,synthetic demo data
+KPI-00485,EMP0054,HR,HR Business Partner,2026-08,167.36,100.0,5.95,7.7,7.1,14.39,9,5.38,synthetic demo data
+KPI-00486,EMP0054,HR,HR Business Partner,2026-09,161.6,98.51,4.27,6.83,10.0,14.7,5,3.09,synthetic demo data
+KPI-00487,EMP0055,ENG,Software Engineer,2026-01,164.17,100.0,4.92,5.99,8.42,28.92,10,6.09,synthetic demo data
+KPI-00488,EMP0055,ENG,Software Engineer,2026-02,155.41,98.2,3.61,7.11,8.03,18.31,4,2.57,synthetic demo data
+KPI-00489,EMP0055,ENG,Software Engineer,2026-03,152.73,96.19,4.14,9.12,6.71,20.8,6,3.93,synthetic demo data
+KPI-00490,EMP0055,ENG,Software Engineer,2026-04,174.83,90.2,3.05,9.15,10.0,19.2,9,5.15,synthetic demo data
+KPI-00491,EMP0055,ENG,Software Engineer,2026-05,161.97,92.59,4.01,7.28,6.61,19.55,6,3.7,synthetic demo data
+KPI-00492,EMP0055,ENG,Software Engineer,2026-06,164.36,91.64,5.26,8.11,10.0,19.24,11,6.69,synthetic demo data
+KPI-00493,EMP0055,ENG,Software Engineer,2026-07,155.85,96.35,3.23,8.2,8.16,15.03,6,3.85,synthetic demo data
+KPI-00494,EMP0055,ENG,Software Engineer,2026-08,150.64,88.04,3.11,9.39,6.13,12.46,12,7.97,synthetic demo data
+KPI-00495,EMP0055,ENG,Software Engineer,2026-09,156.79,97.26,5.81,9.43,6.24,17.01,5,3.19,synthetic demo data
+KPI-00496,EMP0056,QA,QA Engineer,2026-01,140.24,84.16,3.32,9.18,8.73,21.88,10,7.13,synthetic demo data
+KPI-00497,EMP0056,QA,QA Engineer,2026-02,153.24,90.83,1.96,10.0,9.74,24.55,11,7.18,synthetic demo data
+KPI-00498,EMP0056,QA,QA Engineer,2026-03,139.43,86.95,2.51,8.33,10.0,22.4,12,8.61,synthetic demo data
+KPI-00499,EMP0056,QA,QA Engineer,2026-04,153.83,92.65,5.62,10.0,9.83,26.93,10,6.5,synthetic demo data
+KPI-00500,EMP0056,QA,QA Engineer,2026-05,148.28,89.02,4.83,10.0,9.65,26.24,6,4.05,synthetic demo data
+KPI-00501,EMP0056,QA,QA Engineer,2026-06,150.25,91.78,2.56,10.0,9.62,19.36,10,6.66,synthetic demo data
+KPI-00502,EMP0056,QA,QA Engineer,2026-07,134.83,89.29,5.27,8.82,8.46,26.24,12,8.9,synthetic demo data
+KPI-00503,EMP0056,QA,QA Engineer,2026-08,154.78,90.34,3.33,8.62,8.21,16.81,8,5.17,synthetic demo data
+KPI-00504,EMP0056,QA,QA Engineer,2026-09,142.5,86.5,4.06,9.81,10.0,18.31,10,7.02,synthetic demo data
+KPI-00505,EMP0057,OPS,Operations Analyst,2026-01,152.27,94.43,4.09,8.21,9.11,10.94,7,4.6,synthetic demo data
+KPI-00506,EMP0057,OPS,Operations Analyst,2026-02,150.46,95.53,4.78,8.4,6.25,18.63,6,3.99,synthetic demo data
+KPI-00507,EMP0057,OPS,Operations Analyst,2026-03,153.51,92.24,6.28,8.74,7.7,23.55,9,5.86,synthetic demo data
+KPI-00508,EMP0057,OPS,Operations Analyst,2026-04,156.21,95.48,6.62,6.74,9.06,16.03,7,4.48,synthetic demo data
+KPI-00509,EMP0057,OPS,Operations Analyst,2026-05,164.08,100.0,6.15,7.58,9.58,18.46,6,3.66,synthetic demo data
+KPI-00510,EMP0057,OPS,Operations Analyst,2026-06,158.69,97.26,6.45,6.15,4.93,11.02,5,3.15,synthetic demo data
+KPI-00511,EMP0057,OPS,Operations Analyst,2026-07,153.55,98.78,5.61,7.93,5.42,12.73,8,5.21,synthetic demo data
+KPI-00512,EMP0057,OPS,Operations Analyst,2026-08,163.36,94.07,6.13,10.0,7.26,11.8,6,3.67,synthetic demo data
+KPI-00513,EMP0057,OPS,Operations Analyst,2026-09,159.38,96.06,5.83,6.05,5.82,13.98,6,3.76,synthetic demo data
+KPI-00514,EMP0058,SUP,Support Lead,2026-01,162.08,95.64,7.15,7.63,5.18,10.41,7,4.32,synthetic demo data
+KPI-00515,EMP0058,SUP,Support Lead,2026-02,153.94,90.46,6.3,7.43,4.07,9.13,5,3.25,synthetic demo data
+KPI-00516,EMP0058,SUP,Support Lead,2026-03,141.57,91.88,5.76,6.76,7.49,4.56,4,2.83,synthetic demo data
+KPI-00517,EMP0058,SUP,Support Lead,2026-04,138.43,90.97,5.38,6.36,7.02,12.88,5,3.61,synthetic demo data
+KPI-00518,EMP0058,SUP,Support Lead,2026-05,156.17,96.2,5.98,6.01,2.71,7.66,7,4.48,synthetic demo data
+KPI-00519,EMP0058,SUP,Support Lead,2026-06,177.12,92.85,4.8,5.59,6.17,2.36,6,3.39,synthetic demo data
+KPI-00520,EMP0058,SUP,Support Lead,2026-07,165.58,94.15,5.66,7.6,5.59,6.31,9,5.44,synthetic demo data
+KPI-00521,EMP0058,SUP,Support Lead,2026-08,156.32,95.33,2.17,8.42,7.57,9.55,6,3.84,synthetic demo data
+KPI-00522,EMP0058,SUP,Support Lead,2026-09,163.52,90.41,6.88,6.02,4.4,13.95,7,4.28,synthetic demo data
+KPI-00523,EMP0059,PMO,Business Analyst,2026-01,163.79,91.91,5.49,5.71,7.67,8.44,6,3.66,synthetic demo data
+KPI-00524,EMP0059,PMO,Business Analyst,2026-02,155.24,89.32,4.86,8.42,6.43,7.47,6,3.86,synthetic demo data
+KPI-00525,EMP0059,PMO,Business Analyst,2026-03,154.64,100.0,6.28,6.39,8.28,4.13,5,3.23,synthetic demo data
+KPI-00526,EMP0059,PMO,Business Analyst,2026-04,171.59,92.56,3.07,6.37,8.34,13.02,3,1.75,synthetic demo data
+KPI-00527,EMP0059,PMO,Business Analyst,2026-05,150.38,91.03,6.4,8.37,7.72,13.34,2,1.33,synthetic demo data
+KPI-00528,EMP0059,PMO,Business Analyst,2026-06,145.29,94.82,3.69,6.57,6.58,6.95,3,2.06,synthetic demo data
+KPI-00529,EMP0059,PMO,Business Analyst,2026-07,155.05,94.71,7.51,7.53,6.23,8.52,3,1.93,synthetic demo data
+KPI-00530,EMP0059,PMO,Business Analyst,2026-08,151.76,94.39,6.36,4.42,4.92,16.34,5,3.29,synthetic demo data
+KPI-00531,EMP0059,PMO,Business Analyst,2026-09,144.58,100.0,5.78,7.27,6.73,10.04,4,2.77,synthetic demo data
+KPI-00532,EMP0060,HR,Talent Acquisition Specialist,2026-01,153.13,89.71,6.15,8.34,6.32,22.18,13,8.49,synthetic demo data
+KPI-00533,EMP0060,HR,Talent Acquisition Specialist,2026-02,177.11,95.89,5.65,10.0,10.0,18.64,9,5.08,synthetic demo data
+KPI-00534,EMP0060,HR,Talent Acquisition Specialist,2026-03,168.49,98.71,5.43,9.13,10.0,24.87,10,5.94,synthetic demo data
+KPI-00535,EMP0060,HR,Talent Acquisition Specialist,2026-04,179.72,95.44,8.22,9.89,10.0,15.24,8,4.45,synthetic demo data
+KPI-00536,EMP0060,HR,Talent Acquisition Specialist,2026-05,169.42,98.16,8.74,8.5,10.0,24.68,11,6.49,synthetic demo data
+KPI-00537,EMP0060,HR,Talent Acquisition Specialist,2026-06,158.5,100.0,7.59,9.95,9.66,20.92,9,5.68,synthetic demo data
+KPI-00538,EMP0060,HR,Talent Acquisition Specialist,2026-07,171.18,96.89,4.29,8.06,8.21,20.91,9,5.26,synthetic demo data
+KPI-00539,EMP0060,HR,Talent Acquisition Specialist,2026-08,167.81,98.52,4.64,10.0,8.94,18.28,10,5.96,synthetic demo data
+KPI-00540,EMP0060,HR,Talent Acquisition Specialist,2026-09,151.57,94.04,7.2,7.27,10.0,26.08,8,5.28,synthetic demo data
+KPI-00541,EMP0061,ENG,Engineering Manager,2026-01,175.96,92.79,3.97,6.44,7.86,21.91,7,3.98,synthetic demo data
+KPI-00542,EMP0061,ENG,Engineering Manager,2026-02,163.74,96.09,5.61,7.25,5.8,20.16,1,0.61,synthetic demo data
+KPI-00543,EMP0061,ENG,Engineering Manager,2026-03,173.11,91.82,5.33,9.63,6.17,11.79,6,3.47,synthetic demo data
+KPI-00544,EMP0061,ENG,Engineering Manager,2026-04,170.07,91.9,3.49,6.69,9.21,14.82,7,4.12,synthetic demo data
+KPI-00545,EMP0061,ENG,Engineering Manager,2026-05,164.73,91.15,8.65,7.47,6.58,18.91,5,3.04,synthetic demo data
+KPI-00546,EMP0061,ENG,Engineering Manager,2026-06,162.09,93.47,5.99,7.99,10.0,15.86,2,1.23,synthetic demo data
+KPI-00547,EMP0061,ENG,Engineering Manager,2026-07,169.38,93.56,6.06,7.97,7.22,14.3,8,4.72,synthetic demo data
+KPI-00548,EMP0061,ENG,Engineering Manager,2026-08,162.51,90.15,10.79,6.87,7.41,8.52,7,4.31,synthetic demo data
+KPI-00549,EMP0061,ENG,Engineering Manager,2026-09,159.41,91.9,7.65,8.23,8.13,7.42,10,6.27,synthetic demo data
+KPI-00550,EMP0062,QA,QA Engineer,2026-01,167.25,90.23,7.42,6.32,4.83,7.81,5,2.99,synthetic demo data
+KPI-00551,EMP0062,QA,QA Engineer,2026-02,162.15,89.48,6.29,7.01,5.26,5.45,4,2.47,synthetic demo data
+KPI-00552,EMP0062,QA,QA Engineer,2026-03,157.64,93.74,4.45,7.38,5.01,8.26,8,5.07,synthetic demo data
+KPI-00553,EMP0062,QA,QA Engineer,2026-04,172.02,98.48,5.05,5.72,2.23,13.94,5,2.91,synthetic demo data
+KPI-00554,EMP0062,QA,QA Engineer,2026-05,167.81,96.83,6.81,4.62,4.67,5.5,8,4.77,synthetic demo data
+KPI-00555,EMP0062,QA,QA Engineer,2026-06,176.16,89.66,3.24,6.26,4.84,4.75,8,4.54,synthetic demo data
+KPI-00556,EMP0062,QA,QA Engineer,2026-07,171.7,98.95,4.54,7.24,4.98,8.92,5,2.91,synthetic demo data
+KPI-00557,EMP0062,QA,QA Engineer,2026-08,156.33,100.0,5.93,7.88,3.93,6.35,2,1.28,synthetic demo data
+KPI-00558,EMP0062,QA,QA Engineer,2026-09,171.21,97.53,4.9,5.24,3.63,9.86,3,1.75,synthetic demo data
+KPI-00559,EMP0063,OPS,IT Support Engineer,2026-01,180.64,93.96,7.65,5.98,5.89,8.1,7,3.88,synthetic demo data
+KPI-00560,EMP0063,OPS,IT Support Engineer,2026-02,171.8,95.71,8.62,8.17,7.31,5.88,4,2.33,synthetic demo data
+KPI-00561,EMP0063,OPS,IT Support Engineer,2026-03,161.39,96.96,6.74,5.25,5.86,5.59,5,3.1,synthetic demo data
+KPI-00562,EMP0063,OPS,IT Support Engineer,2026-04,156.24,96.27,7.07,9.04,7.44,9.88,7,4.48,synthetic demo data
+KPI-00563,EMP0063,OPS,IT Support Engineer,2026-05,158.28,91.09,7.0,4.37,6.09,7.49,5,3.16,synthetic demo data
+KPI-00564,EMP0063,OPS,IT Support Engineer,2026-06,160.81,95.9,6.5,8.46,6.15,8.5,5,3.11,synthetic demo data
+KPI-00565,EMP0063,OPS,IT Support Engineer,2026-07,158.7,95.84,7.4,9.68,5.2,10.5,4,2.52,synthetic demo data
+KPI-00566,EMP0063,OPS,IT Support Engineer,2026-08,171.02,95.76,6.38,8.09,5.2,15.53,6,3.51,synthetic demo data
+KPI-00567,EMP0063,OPS,IT Support Engineer,2026-09,169.24,93.34,10.32,5.91,6.6,8.57,9,5.32,synthetic demo data
+KPI-00568,EMP0064,SUP,Support Lead,2026-01,155.8,95.31,5.62,8.27,6.01,20.59,5,3.21,synthetic demo data
+KPI-00569,EMP0064,SUP,Support Lead,2026-02,159.51,92.7,8.06,7.16,5.87,9.91,8,5.02,synthetic demo data
+KPI-00570,EMP0064,SUP,Support Lead,2026-03,145.26,92.15,1.84,8.48,6.23,7.83,10,6.88,synthetic demo data
+KPI-00571,EMP0064,SUP,Support Lead,2026-04,145.78,96.58,4.15,10.0,8.13,9.76,6,4.12,synthetic demo data
+KPI-00572,EMP0064,SUP,Support Lead,2026-05,160.92,92.9,4.99,9.66,5.85,14.17,9,5.59,synthetic demo data
+KPI-00573,EMP0064,SUP,Support Lead,2026-06,162.53,93.26,4.8,6.2,5.38,15.08,7,4.31,synthetic demo data
+KPI-00574,EMP0064,SUP,Support Lead,2026-07,156.72,97.42,3.37,7.93,7.28,10.98,10,6.38,synthetic demo data
+KPI-00575,EMP0064,SUP,Support Lead,2026-08,163.32,94.82,8.11,6.48,6.98,15.27,6,3.67,synthetic demo data
+KPI-00576,EMP0064,SUP,Support Lead,2026-09,158.51,89.97,6.36,9.42,7.4,6.37,5,3.15,synthetic demo data
+KPI-00577,EMP0065,PMO,Business Analyst,2026-01,154.83,88.88,9.26,9.79,8.12,17.19,8,5.17,synthetic demo data
+KPI-00578,EMP0065,PMO,Business Analyst,2026-02,150.33,89.87,5.27,8.29,7.23,17.35,7,4.66,synthetic demo data
+KPI-00579,EMP0065,PMO,Business Analyst,2026-03,135.96,88.26,7.45,8.44,7.42,21.92,8,5.88,synthetic demo data
+KPI-00580,EMP0065,PMO,Business Analyst,2026-04,163.74,91.26,7.01,6.89,3.86,13.42,8,4.89,synthetic demo data
+KPI-00581,EMP0065,PMO,Business Analyst,2026-05,157.49,90.42,6.67,9.4,7.12,17.21,8,5.08,synthetic demo data
+KPI-00582,EMP0065,PMO,Business Analyst,2026-06,172.17,81.72,5.71,8.9,9.93,16.3,6,3.48,synthetic demo data
+KPI-00583,EMP0065,PMO,Business Analyst,2026-07,166.27,90.65,5.86,8.3,9.37,22.91,8,4.81,synthetic demo data
+KPI-00584,EMP0065,PMO,Business Analyst,2026-08,160.63,87.45,7.32,7.79,7.86,11.1,9,5.6,synthetic demo data
+KPI-00585,EMP0065,PMO,Business Analyst,2026-09,151.26,86.14,6.59,10.0,6.93,12.67,6,3.97,synthetic demo data
+KPI-00586,EMP0066,HR,Talent Acquisition Specialist,2026-01,150.16,98.42,8.83,8.25,10.0,15.83,6,4.0,synthetic demo data
+KPI-00587,EMP0066,HR,Talent Acquisition Specialist,2026-02,129.53,86.61,6.78,7.51,9.3,13.82,2,1.54,synthetic demo data
+KPI-00588,EMP0066,HR,Talent Acquisition Specialist,2026-03,135.2,90.4,7.25,10.0,7.89,22.16,8,5.92,synthetic demo data
+KPI-00589,EMP0066,HR,Talent Acquisition Specialist,2026-04,143.12,89.14,8.11,7.99,9.08,17.68,7,4.89,synthetic demo data
+KPI-00590,EMP0066,HR,Talent Acquisition Specialist,2026-05,151.31,93.52,7.5,9.03,8.7,15.15,9,5.95,synthetic demo data
+KPI-00591,EMP0066,HR,Talent Acquisition Specialist,2026-06,138.54,88.76,5.63,8.45,9.69,15.84,14,10.11,synthetic demo data
+KPI-00592,EMP0066,HR,Talent Acquisition Specialist,2026-07,150.47,96.56,9.47,10.0,7.62,8.36,8,5.32,synthetic demo data
+KPI-00593,EMP0066,HR,Talent Acquisition Specialist,2026-08,147.88,92.56,8.65,10.0,9.41,21.83,7,4.73,synthetic demo data
+KPI-00594,EMP0066,HR,Talent Acquisition Specialist,2026-09,134.79,97.64,8.37,8.15,7.88,16.02,7,5.19,synthetic demo data
+KPI-00595,EMP0067,ENG,Software Engineer,2026-01,150.29,95.39,5.38,6.22,7.11,9.81,6,3.99,synthetic demo data
+KPI-00596,EMP0067,ENG,Software Engineer,2026-02,147.37,87.85,4.67,7.16,6.34,11.47,3,2.04,synthetic demo data
+KPI-00597,EMP0067,ENG,Software Engineer,2026-03,144.86,96.05,4.92,5.69,7.15,6.24,3,2.07,synthetic demo data
+KPI-00598,EMP0067,ENG,Software Engineer,2026-04,164.2,97.15,3.68,6.66,5.7,0.0,2,1.22,synthetic demo data
+KPI-00599,EMP0067,ENG,Software Engineer,2026-05,150.85,92.9,4.64,7.63,4.97,5.54,5,3.31,synthetic demo data
+KPI-00600,EMP0067,ENG,Software Engineer,2026-06,148.66,93.6,3.78,8.91,2.04,8.22,4,2.69,synthetic demo data
+KPI-00601,EMP0067,ENG,Software Engineer,2026-07,145.06,97.26,5.54,6.28,5.05,9.33,4,2.76,synthetic demo data
+KPI-00602,EMP0067,ENG,Software Engineer,2026-08,150.63,93.49,4.65,7.2,3.59,5.57,1,0.66,synthetic demo data
+KPI-00603,EMP0067,ENG,Software Engineer,2026-09,158.11,95.01,5.05,4.69,8.18,7.34,4,2.53,synthetic demo data
+KPI-00604,EMP0068,QA,QA Engineer,2026-01,157.21,89.8,6.85,6.45,10.0,17.01,2,1.27,synthetic demo data
+KPI-00605,EMP0068,QA,QA Engineer,2026-02,151.6,95.49,4.79,8.99,6.61,10.97,7,4.62,synthetic demo data
+KPI-00606,EMP0068,QA,QA Engineer,2026-03,154.55,92.02,7.12,7.2,8.38,16.48,4,2.59,synthetic demo data
+KPI-00607,EMP0068,QA,QA Engineer,2026-04,143.86,93.27,8.31,8.84,5.27,3.74,9,6.26,synthetic demo data
+KPI-00608,EMP0068,QA,QA Engineer,2026-05,153.53,97.18,3.77,8.58,9.19,14.41,6,3.91,synthetic demo data
+KPI-00609,EMP0068,QA,QA Engineer,2026-06,154.5,95.11,5.14,9.29,7.2,10.88,11,7.12,synthetic demo data
+KPI-00610,EMP0068,QA,QA Engineer,2026-07,149.51,91.25,5.06,8.25,7.31,16.14,7,4.68,synthetic demo data
+KPI-00611,EMP0068,QA,QA Engineer,2026-08,155.68,85.05,8.16,8.0,8.79,10.68,6,3.85,synthetic demo data
+KPI-00612,EMP0068,QA,QA Engineer,2026-09,148.97,98.32,4.24,9.04,6.91,14.39,7,4.7,synthetic demo data
+KPI-00613,EMP0069,OPS,IT Support Engineer,2026-01,132.99,87.69,4.54,9.01,8.68,13.48,5,3.76,synthetic demo data
+KPI-00614,EMP0069,OPS,IT Support Engineer,2026-02,139.92,91.08,4.01,9.58,9.36,14.54,8,5.72,synthetic demo data
+KPI-00615,EMP0069,OPS,IT Support Engineer,2026-03,146.39,90.53,5.87,6.52,8.04,22.36,5,3.42,synthetic demo data
+KPI-00616,EMP0069,OPS,IT Support Engineer,2026-04,143.84,89.39,2.28,6.71,9.3,20.17,9,6.26,synthetic demo data
+KPI-00617,EMP0069,OPS,IT Support Engineer,2026-05,142.05,91.52,1.2,8.16,10.0,17.88,6,4.22,synthetic demo data
+KPI-00618,EMP0069,OPS,IT Support Engineer,2026-06,150.36,86.54,0.73,7.35,7.72,21.25,9,5.99,synthetic demo data
+KPI-00619,EMP0069,OPS,IT Support Engineer,2026-07,153.08,87.41,1.77,8.86,7.44,16.38,9,5.88,synthetic demo data
+KPI-00620,EMP0069,OPS,IT Support Engineer,2026-08,146.18,92.01,5.16,8.35,10.0,19.74,5,3.42,synthetic demo data
+KPI-00621,EMP0069,OPS,IT Support Engineer,2026-09,140.21,88.33,1.27,8.44,9.33,22.53,9,6.42,synthetic demo data
+KPI-00622,EMP0070,SUP,Support Lead,2026-01,140.18,90.88,4.83,6.16,6.23,11.22,3,2.14,synthetic demo data
+KPI-00623,EMP0070,SUP,Support Lead,2026-02,157.27,93.02,2.24,6.99,5.89,13.69,5,3.18,synthetic demo data
+KPI-00624,EMP0070,SUP,Support Lead,2026-03,154.35,93.31,2.89,5.43,7.18,14.59,6,3.89,synthetic demo data
+KPI-00625,EMP0070,SUP,Support Lead,2026-04,159.63,96.33,6.07,6.01,8.1,11.94,5,3.13,synthetic demo data
+KPI-00626,EMP0070,SUP,Support Lead,2026-05,142.5,93.55,2.33,7.86,4.01,11.28,4,2.81,synthetic demo data
+KPI-00627,EMP0070,SUP,Support Lead,2026-06,145.7,90.04,4.73,9.22,7.58,11.21,5,3.43,synthetic demo data
+KPI-00628,EMP0070,SUP,Support Lead,2026-07,154.48,96.58,3.66,6.96,2.69,14.3,9,5.83,synthetic demo data
+KPI-00629,EMP0070,SUP,Support Lead,2026-08,148.43,85.29,5.95,6.01,4.45,12.3,6,4.04,synthetic demo data
+KPI-00630,EMP0070,SUP,Support Lead,2026-09,143.93,90.41,5.18,6.58,3.77,8.46,6,4.17,synthetic demo data
+KPI-00631,EMP0071,PMO,Product Manager,2026-01,160.68,94.75,2.62,7.51,4.11,20.72,3,1.87,synthetic demo data
+KPI-00632,EMP0071,PMO,Product Manager,2026-02,155.08,98.57,2.13,6.72,7.98,6.85,6,3.87,synthetic demo data
+KPI-00633,EMP0071,PMO,Product Manager,2026-03,147.3,94.87,2.37,8.52,6.2,16.23,6,4.07,synthetic demo data
+KPI-00634,EMP0071,PMO,Product Manager,2026-04,144.7,96.33,1.21,6.48,7.38,14.04,3,2.07,synthetic demo data
+KPI-00635,EMP0071,PMO,Product Manager,2026-05,138.69,98.69,0.39,7.63,7.91,8.01,3,2.16,synthetic demo data
+KPI-00636,EMP0071,PMO,Product Manager,2026-06,165.02,98.44,1.02,6.21,5.95,8.33,8,4.85,synthetic demo data
+KPI-00637,EMP0071,PMO,Product Manager,2026-07,145.62,100.0,1.05,6.08,6.07,2.58,6,4.12,synthetic demo data
+KPI-00638,EMP0071,PMO,Product Manager,2026-08,150.42,100.0,0.0,8.62,7.97,18.12,6,3.99,synthetic demo data
+KPI-00639,EMP0071,PMO,Product Manager,2026-09,159.79,92.12,2.82,6.4,4.21,8.6,6,3.75,synthetic demo data
+KPI-00640,EMP0072,HR,HR Operations Specialist,2026-01,170.46,91.4,2.65,7.98,4.87,11.28,5,2.93,synthetic demo data
+KPI-00641,EMP0072,HR,HR Operations Specialist,2026-02,160.23,88.59,2.53,6.77,4.39,14.37,3,1.87,synthetic demo data
+KPI-00642,EMP0072,HR,HR Operations Specialist,2026-03,160.66,88.92,2.99,4.29,7.34,8.45,7,4.36,synthetic demo data
+KPI-00643,EMP0072,HR,HR Operations Specialist,2026-04,158.6,89.77,5.46,6.41,7.87,11.32,6,3.78,synthetic demo data
+KPI-00644,EMP0072,HR,HR Operations Specialist,2026-05,162.94,92.88,1.33,5.6,5.01,11.56,4,2.45,synthetic demo data
+KPI-00645,EMP0072,HR,HR Operations Specialist,2026-06,168.01,94.47,0.87,5.88,3.8,19.3,5,2.98,synthetic demo data
+KPI-00646,EMP0072,HR,HR Operations Specialist,2026-07,166.18,85.3,2.42,7.31,5.6,15.47,9,5.42,synthetic demo data
+KPI-00647,EMP0072,HR,HR Operations Specialist,2026-08,154.89,86.4,1.02,8.57,7.57,10.62,5,3.23,synthetic demo data
+KPI-00648,EMP0072,HR,HR Operations Specialist,2026-09,155.92,93.03,1.81,6.43,6.91,10.41,4,2.57,synthetic demo data
+KPI-00649,EMP0073,ENG,Senior Software Engineer,2026-01,166.23,94.0,5.13,7.35,6.16,19.61,7,4.21,synthetic demo data
+KPI-00650,EMP0073,ENG,Senior Software Engineer,2026-02,175.74,99.84,5.78,6.37,6.96,13.72,3,1.71,synthetic demo data
+KPI-00651,EMP0073,ENG,Senior Software Engineer,2026-03,160.61,97.81,6.31,7.98,6.05,15.55,6,3.74,synthetic demo data
+KPI-00652,EMP0073,ENG,Senior Software Engineer,2026-04,142.16,97.25,7.37,5.51,7.11,20.03,5,3.52,synthetic demo data
+KPI-00653,EMP0073,ENG,Senior Software Engineer,2026-05,164.89,94.41,8.24,7.35,7.01,19.1,7,4.25,synthetic demo data
+KPI-00654,EMP0073,ENG,Senior Software Engineer,2026-06,157.95,96.69,6.44,6.73,3.71,13.46,3,1.9,synthetic demo data
+KPI-00655,EMP0073,ENG,Senior Software Engineer,2026-07,177.67,99.54,4.21,6.64,4.06,9.26,8,4.5,synthetic demo data
+KPI-00656,EMP0073,ENG,Senior Software Engineer,2026-08,182.54,100.0,5.5,6.95,5.48,21.93,6,3.29,synthetic demo data
+KPI-00657,EMP0073,ENG,Senior Software Engineer,2026-09,181.62,100.0,2.88,6.68,5.92,13.35,6,3.3,synthetic demo data
+KPI-00658,EMP0074,QA,QA Lead,2026-01,157.81,96.38,6.59,10.0,10.0,22.93,8,5.07,synthetic demo data
+KPI-00659,EMP0074,QA,QA Lead,2026-02,149.01,94.48,6.09,9.47,8.93,17.88,7,4.7,synthetic demo data
+KPI-00660,EMP0074,QA,QA Lead,2026-03,151.9,90.15,4.1,9.57,8.32,24.17,12,7.9,synthetic demo data
+KPI-00661,EMP0074,QA,QA Lead,2026-04,149.41,93.73,6.54,9.2,9.16,27.44,12,8.03,synthetic demo data
+KPI-00662,EMP0074,QA,QA Lead,2026-05,158.52,98.45,2.55,10.0,10.0,26.7,11,6.94,synthetic demo data
+KPI-00663,EMP0074,QA,QA Lead,2026-06,154.15,94.29,6.27,9.66,10.0,16.29,9,5.84,synthetic demo data
+KPI-00664,EMP0074,QA,QA Lead,2026-07,169.94,93.07,5.31,9.0,10.0,19.7,10,5.88,synthetic demo data
+KPI-00665,EMP0074,QA,QA Lead,2026-08,160.48,92.82,6.94,10.0,10.0,23.21,15,9.35,synthetic demo data
+KPI-00666,EMP0074,QA,QA Lead,2026-09,162.11,96.37,4.3,9.91,10.0,29.5,13,8.02,synthetic demo data
+KPI-00667,EMP0075,OPS,Operations Analyst,2026-01,156.64,97.76,1.91,7.99,5.53,7.97,9,5.75,synthetic demo data
+KPI-00668,EMP0075,OPS,Operations Analyst,2026-02,146.74,98.94,5.23,7.4,8.72,13.35,4,2.73,synthetic demo data
+KPI-00669,EMP0075,OPS,Operations Analyst,2026-03,153.68,94.28,2.77,10.0,5.5,17.53,5,3.25,synthetic demo data
+KPI-00670,EMP0075,OPS,Operations Analyst,2026-04,159.89,96.95,4.08,7.03,6.66,19.72,11,6.88,synthetic demo data
+KPI-00671,EMP0075,OPS,Operations Analyst,2026-05,156.5,92.8,4.01,10.0,7.98,21.86,6,3.83,synthetic demo data
+KPI-00672,EMP0075,OPS,Operations Analyst,2026-06,152.37,98.06,4.1,7.23,6.59,19.96,10,6.56,synthetic demo data
+KPI-00673,EMP0075,OPS,Operations Analyst,2026-07,164.67,100.0,3.69,7.76,9.88,18.86,5,3.04,synthetic demo data
+KPI-00674,EMP0075,OPS,Operations Analyst,2026-08,144.52,97.62,3.19,8.08,9.46,19.04,10,6.92,synthetic demo data
+KPI-00675,EMP0075,OPS,Operations Analyst,2026-09,137.41,96.79,4.58,6.36,6.83,12.63,7,5.09,synthetic demo data
+KPI-00676,EMP0076,SUP,Support Specialist,2026-01,185.52,94.19,3.9,9.75,9.2,17.29,11,5.93,synthetic demo data
+KPI-00677,EMP0076,SUP,Support Specialist,2026-02,173.65,91.06,5.77,6.52,7.71,13.35,6,3.46,synthetic demo data
+KPI-00678,EMP0076,SUP,Support Specialist,2026-03,183.51,92.11,5.53,8.19,8.29,20.0,7,3.81,synthetic demo data
+KPI-00679,EMP0076,SUP,Support Specialist,2026-04,172.12,93.37,2.5,8.77,7.18,15.49,7,4.07,synthetic demo data
+KPI-00680,EMP0076,SUP,Support Specialist,2026-05,173.25,97.03,5.07,9.17,10.0,13.82,12,6.93,synthetic demo data
+KPI-00681,EMP0076,SUP,Support Specialist,2026-06,172.2,96.54,6.77,9.19,7.74,13.53,9,5.23,synthetic demo data
+KPI-00682,EMP0076,SUP,Support Specialist,2026-07,179.26,90.32,5.08,8.55,9.35,20.94,7,3.9,synthetic demo data
+KPI-00683,EMP0076,SUP,Support Specialist,2026-08,166.87,91.68,8.01,10.0,5.93,14.97,7,4.19,synthetic demo data
+KPI-00684,EMP0076,SUP,Support Specialist,2026-09,170.04,95.93,3.32,6.98,6.57,17.18,10,5.88,synthetic demo data
+KPI-00685,EMP0077,PMO,Business Analyst,2026-01,169.0,94.07,3.85,7.85,5.77,16.98,8,4.73,synthetic demo data
+KPI-00686,EMP0077,PMO,Business Analyst,2026-02,177.32,88.21,7.84,9.38,4.92,17.41,9,5.08,synthetic demo data
+KPI-00687,EMP0077,PMO,Business Analyst,2026-03,165.09,85.86,7.87,6.44,7.16,14.79,8,4.85,synthetic demo data
+KPI-00688,EMP0077,PMO,Business Analyst,2026-04,162.17,87.69,6.53,8.97,10.0,8.91,7,4.32,synthetic demo data
+KPI-00689,EMP0077,PMO,Business Analyst,2026-05,158.53,93.59,4.88,7.04,6.53,14.65,7,4.42,synthetic demo data
+KPI-00690,EMP0077,PMO,Business Analyst,2026-06,170.96,90.04,4.26,8.65,7.35,19.61,5,2.92,synthetic demo data
+KPI-00691,EMP0077,PMO,Business Analyst,2026-07,154.45,89.94,8.43,8.0,7.12,11.46,10,6.47,synthetic demo data
+KPI-00692,EMP0077,PMO,Business Analyst,2026-08,158.98,87.55,7.27,5.68,9.37,17.46,8,5.03,synthetic demo data
+KPI-00693,EMP0077,PMO,Business Analyst,2026-09,171.55,89.5,4.68,7.65,5.94,16.9,8,4.66,synthetic demo data
+KPI-00694,EMP0078,HR,Talent Acquisition Specialist,2026-01,153.96,93.99,5.61,9.73,7.11,20.77,7,4.55,synthetic demo data
+KPI-00695,EMP0078,HR,Talent Acquisition Specialist,2026-02,162.49,100.0,5.88,9.62,10.0,15.26,6,3.69,synthetic demo data
+KPI-00696,EMP0078,HR,Talent Acquisition Specialist,2026-03,156.65,96.17,0.86,8.47,7.79,21.22,9,5.75,synthetic demo data
+KPI-00697,EMP0078,HR,Talent Acquisition Specialist,2026-04,157.61,99.1,5.75,7.83,7.86,9.16,6,3.81,synthetic demo data
+KPI-00698,EMP0078,HR,Talent Acquisition Specialist,2026-05,156.48,97.31,3.1,8.12,6.75,18.76,9,5.75,synthetic demo data
+KPI-00699,EMP0078,HR,Talent Acquisition Specialist,2026-06,165.55,97.1,2.15,8.0,7.99,16.46,8,4.83,synthetic demo data
+KPI-00700,EMP0078,HR,Talent Acquisition Specialist,2026-07,173.64,99.87,3.03,9.49,9.59,14.85,10,5.76,synthetic demo data
+KPI-00701,EMP0078,HR,Talent Acquisition Specialist,2026-08,161.09,92.16,5.32,8.96,8.27,17.93,7,4.35,synthetic demo data
+KPI-00702,EMP0078,HR,Talent Acquisition Specialist,2026-09,167.19,96.9,4.86,9.12,6.86,14.49,4,2.39,synthetic demo data
+KPI-00703,EMP0079,ENG,DevOps Engineer,2026-01,166.53,98.42,5.93,6.77,8.67,14.7,8,4.8,synthetic demo data
+KPI-00704,EMP0079,ENG,DevOps Engineer,2026-02,147.95,94.39,5.66,8.21,8.33,13.01,4,2.7,synthetic demo data
+KPI-00705,EMP0079,ENG,DevOps Engineer,2026-03,165.82,100.0,6.11,6.4,6.39,17.38,10,6.03,synthetic demo data
+KPI-00706,EMP0079,ENG,DevOps Engineer,2026-04,143.36,94.56,5.71,8.92,7.05,9.07,8,5.58,synthetic demo data
+KPI-00707,EMP0079,ENG,DevOps Engineer,2026-05,161.86,94.71,6.04,7.38,6.28,19.45,8,4.94,synthetic demo data
+KPI-00708,EMP0079,ENG,DevOps Engineer,2026-06,156.84,100.0,3.72,7.29,7.81,13.07,8,5.1,synthetic demo data
+KPI-00709,EMP0079,ENG,DevOps Engineer,2026-07,151.48,91.55,5.5,8.12,9.0,16.91,8,5.28,synthetic demo data
+KPI-00710,EMP0079,ENG,DevOps Engineer,2026-08,155.49,94.34,4.26,8.26,7.07,22.11,10,6.43,synthetic demo data
+KPI-00711,EMP0079,ENG,DevOps Engineer,2026-09,157.97,96.3,5.25,6.47,7.24,15.74,7,4.43,synthetic demo data
+KPI-00712,EMP0080,QA,Automation Engineer,2026-01,164.81,92.96,4.89,10.0,7.75,17.71,3,1.82,synthetic demo data
+KPI-00713,EMP0080,QA,Automation Engineer,2026-02,161.79,97.11,4.78,2.8,8.49,22.74,3,1.85,synthetic demo data
+KPI-00714,EMP0080,QA,Automation Engineer,2026-03,177.65,83.23,5.63,7.83,3.88,16.84,9,5.07,synthetic demo data
+KPI-00715,EMP0080,QA,Automation Engineer,2026-04,168.5,94.88,3.48,5.7,8.52,22.06,9,5.34,synthetic demo data
+KPI-00716,EMP0080,QA,Automation Engineer,2026-05,149.89,87.59,2.79,6.01,7.53,16.63,4,2.67,synthetic demo data
+KPI-00717,EMP0080,QA,Automation Engineer,2026-06,171.77,94.93,3.27,7.64,4.49,13.72,7,4.08,synthetic demo data
+KPI-00718,EMP0080,QA,Automation Engineer,2026-07,166.96,94.16,4.53,7.54,7.9,19.07,7,4.19,synthetic demo data
+KPI-00719,EMP0080,QA,Automation Engineer,2026-08,168.14,92.2,3.11,8.44,6.62,16.6,7,4.16,synthetic demo data
+KPI-00720,EMP0080,QA,Automation Engineer,2026-09,163.22,91.71,3.33,5.95,8.05,15.98,8,4.9,synthetic demo data
+KPI-00721,EMP0081,OPS,Operations Manager,2026-01,176.16,90.55,6.79,6.57,5.91,17.8,7,3.97,synthetic demo data
+KPI-00722,EMP0081,OPS,Operations Manager,2026-02,188.83,94.52,3.28,6.28,3.5,10.92,8,4.24,synthetic demo data
+KPI-00723,EMP0081,OPS,Operations Manager,2026-03,176.15,93.73,2.33,7.24,7.86,13.77,6,3.41,synthetic demo data
+KPI-00724,EMP0081,OPS,Operations Manager,2026-04,165.1,96.67,0.0,7.42,10.0,5.99,5,3.03,synthetic demo data
+KPI-00725,EMP0081,OPS,Operations Manager,2026-05,171.34,92.06,5.56,7.52,6.55,15.24,5,2.92,synthetic demo data
+KPI-00726,EMP0081,OPS,Operations Manager,2026-06,191.0,94.18,4.22,5.01,5.49,16.64,3,1.57,synthetic demo data
+KPI-00727,EMP0081,OPS,Operations Manager,2026-07,154.33,93.77,6.09,7.03,5.81,4.59,6,3.89,synthetic demo data
+KPI-00728,EMP0081,OPS,Operations Manager,2026-08,176.64,87.48,5.71,7.86,8.05,14.38,7,3.96,synthetic demo data
+KPI-00729,EMP0081,OPS,Operations Manager,2026-09,175.53,96.67,1.02,5.25,5.2,11.52,6,3.42,synthetic demo data
+KPI-00730,EMP0082,SUP,Support Specialist,2026-01,139.81,100.0,4.81,7.03,9.28,10.72,7,5.01,synthetic demo data
+KPI-00731,EMP0082,SUP,Support Specialist,2026-02,162.93,100.0,3.75,7.89,8.18,14.45,6,3.68,synthetic demo data
+KPI-00732,EMP0082,SUP,Support Specialist,2026-03,175.57,100.0,4.42,7.85,6.61,17.36,5,2.85,synthetic demo data
+KPI-00733,EMP0082,SUP,Support Specialist,2026-04,164.58,90.13,2.03,7.12,6.26,19.2,8,4.86,synthetic demo data
+KPI-00734,EMP0082,SUP,Support Specialist,2026-05,159.57,92.94,6.1,9.01,6.39,10.33,9,5.64,synthetic demo data
+KPI-00735,EMP0082,SUP,Support Specialist,2026-06,158.92,96.83,7.52,7.95,5.16,13.75,6,3.78,synthetic demo data
+KPI-00736,EMP0082,SUP,Support Specialist,2026-07,155.75,97.9,5.69,7.36,5.77,8.25,6,3.85,synthetic demo data
+KPI-00737,EMP0082,SUP,Support Specialist,2026-08,162.33,91.96,6.92,8.25,7.22,15.65,8,4.93,synthetic demo data
+KPI-00738,EMP0082,SUP,Support Specialist,2026-09,163.52,96.41,3.49,8.22,6.87,10.57,4,2.45,synthetic demo data
+KPI-00739,EMP0083,PMO,Project Coordinator,2026-01,150.16,90.45,5.88,6.63,6.83,6.15,8,5.33,synthetic demo data
+KPI-00740,EMP0083,PMO,Project Coordinator,2026-02,152.84,89.61,3.29,6.89,6.67,14.03,7,4.58,synthetic demo data
+KPI-00741,EMP0083,PMO,Project Coordinator,2026-03,170.33,92.27,7.09,9.22,7.96,13.93,8,4.7,synthetic demo data
+KPI-00742,EMP0083,PMO,Project Coordinator,2026-04,167.43,91.98,3.25,6.6,6.68,17.2,6,3.58,synthetic demo data
+KPI-00743,EMP0083,PMO,Project Coordinator,2026-05,167.94,94.29,7.46,8.95,5.51,16.01,5,2.98,synthetic demo data
+KPI-00744,EMP0083,PMO,Project Coordinator,2026-06,145.89,88.73,7.66,8.09,10.0,14.79,11,7.54,synthetic demo data
+KPI-00745,EMP0083,PMO,Project Coordinator,2026-07,160.35,89.81,3.52,8.84,6.33,11.48,9,5.61,synthetic demo data
+KPI-00746,EMP0083,PMO,Project Coordinator,2026-08,168.11,93.66,4.98,7.5,7.0,17.21,9,5.35,synthetic demo data
+KPI-00747,EMP0083,PMO,Project Coordinator,2026-09,161.86,96.58,6.98,7.29,8.36,20.92,10,6.18,synthetic demo data
+KPI-00748,EMP0084,HR,HR Operations Specialist,2026-01,157.71,93.52,5.85,10.0,7.92,17.42,6,3.8,synthetic demo data
+KPI-00749,EMP0084,HR,HR Operations Specialist,2026-02,165.98,98.82,8.22,8.69,9.16,16.59,9,5.42,synthetic demo data
+KPI-00750,EMP0084,HR,HR Operations Specialist,2026-03,162.79,94.29,5.86,8.98,7.84,16.23,11,6.76,synthetic demo data
+KPI-00751,EMP0084,HR,HR Operations Specialist,2026-04,181.76,89.91,3.64,7.36,8.13,20.8,9,4.95,synthetic demo data
+KPI-00752,EMP0084,HR,HR Operations Specialist,2026-05,161.67,95.92,4.54,8.18,8.25,10.86,6,3.71,synthetic demo data
+KPI-00753,EMP0084,HR,HR Operations Specialist,2026-06,151.43,96.73,6.03,9.16,5.48,11.26,9,5.94,synthetic demo data
+KPI-00754,EMP0084,HR,HR Operations Specialist,2026-07,138.31,98.33,2.74,9.43,6.93,21.41,14,10.12,synthetic demo data
+KPI-00755,EMP0084,HR,HR Operations Specialist,2026-08,142.31,96.5,2.77,8.95,7.97,17.73,6,4.22,synthetic demo data
+KPI-00756,EMP0084,HR,HR Operations Specialist,2026-09,166.48,89.06,7.61,7.99,6.15,23.6,8,4.81,synthetic demo data
+KPI-00757,EMP0085,ENG,Senior Software Engineer,2026-01,165.82,92.4,6.92,9.09,8.51,17.11,8,4.82,synthetic demo data
+KPI-00758,EMP0085,ENG,Senior Software Engineer,2026-02,156.31,89.97,7.23,8.84,10.0,9.44,10,6.4,synthetic demo data
+KPI-00759,EMP0085,ENG,Senior Software Engineer,2026-03,166.13,90.9,5.14,8.51,5.87,23.07,9,5.42,synthetic demo data
+KPI-00760,EMP0085,ENG,Senior Software Engineer,2026-04,164.92,89.22,2.52,9.34,10.0,20.19,6,3.64,synthetic demo data
+KPI-00761,EMP0085,ENG,Senior Software Engineer,2026-05,169.19,92.39,6.22,9.78,4.56,21.56,7,4.14,synthetic demo data
+KPI-00762,EMP0085,ENG,Senior Software Engineer,2026-06,156.15,91.92,5.5,7.2,10.0,22.43,9,5.76,synthetic demo data
+KPI-00763,EMP0085,ENG,Senior Software Engineer,2026-07,160.54,89.17,6.48,7.34,10.0,18.71,9,5.61,synthetic demo data
+KPI-00764,EMP0085,ENG,Senior Software Engineer,2026-08,153.89,92.06,5.83,7.55,9.87,19.73,8,5.2,synthetic demo data
+KPI-00765,EMP0085,ENG,Senior Software Engineer,2026-09,174.17,84.93,5.4,10.0,10.0,20.94,8,4.59,synthetic demo data
+KPI-00766,EMP0086,QA,QA Lead,2026-01,147.71,98.76,3.9,7.9,5.39,15.06,5,3.39,synthetic demo data
+KPI-00767,EMP0086,QA,QA Lead,2026-02,152.56,94.67,2.09,9.17,6.05,14.31,4,2.62,synthetic demo data
+KPI-00768,EMP0086,QA,QA Lead,2026-03,150.03,95.25,5.74,6.29,4.87,12.35,6,4.0,synthetic demo data
+KPI-00769,EMP0086,QA,QA Lead,2026-04,171.36,97.29,5.01,7.72,4.44,7.86,3,1.75,synthetic demo data
+KPI-00770,EMP0086,QA,QA Lead,2026-05,147.81,98.82,4.45,6.98,2.25,19.97,3,2.03,synthetic demo data
+KPI-00771,EMP0086,QA,QA Lead,2026-06,174.6,91.04,2.7,4.36,6.75,7.31,3,1.72,synthetic demo data
+KPI-00772,EMP0086,QA,QA Lead,2026-07,147.49,98.76,5.12,8.97,5.16,12.6,3,2.03,synthetic demo data
+KPI-00773,EMP0086,QA,QA Lead,2026-08,155.7,94.26,4.73,8.06,7.71,8.35,7,4.5,synthetic demo data
+KPI-00774,EMP0086,QA,QA Lead,2026-09,158.01,94.94,2.86,6.25,8.86,12.96,5,3.16,synthetic demo data
+KPI-00775,EMP0087,OPS,Operations Manager,2026-01,178.15,100.0,2.01,5.91,5.89,11.1,10,5.61,synthetic demo data
+KPI-00776,EMP0087,OPS,Operations Manager,2026-02,182.6,100.0,3.67,6.88,4.41,15.98,7,3.83,synthetic demo data
+KPI-00777,EMP0087,OPS,Operations Manager,2026-03,184.85,97.31,3.87,7.41,7.99,6.96,7,3.79,synthetic demo data
+KPI-00778,EMP0087,OPS,Operations Manager,2026-04,174.51,94.37,0.78,7.05,8.83,19.56,6,3.44,synthetic demo data
+KPI-00779,EMP0087,OPS,Operations Manager,2026-05,190.2,97.89,5.61,6.69,5.84,10.13,2,1.05,synthetic demo data
+KPI-00780,EMP0087,OPS,Operations Manager,2026-06,184.86,95.82,2.82,5.86,6.32,19.92,10,5.41,synthetic demo data
+KPI-00781,EMP0087,OPS,Operations Manager,2026-07,161.53,96.81,2.45,8.35,7.06,10.3,6,3.71,synthetic demo data
+KPI-00782,EMP0087,OPS,Operations Manager,2026-08,170.9,100.0,4.96,7.98,2.56,12.58,10,5.85,synthetic demo data
+KPI-00783,EMP0087,OPS,Operations Manager,2026-09,185.17,91.64,3.6,5.83,9.24,13.83,4,2.16,synthetic demo data
+KPI-00784,EMP0088,SUP,Support Specialist,2026-01,133.19,90.45,5.1,9.44,5.66,10.55,8,6.01,synthetic demo data
+KPI-00785,EMP0088,SUP,Support Specialist,2026-02,134.18,88.89,4.27,7.31,7.31,13.46,5,3.73,synthetic demo data
+KPI-00786,EMP0088,SUP,Support Specialist,2026-03,145.76,94.83,3.67,7.63,5.72,10.98,3,2.06,synthetic demo data
+KPI-00787,EMP0088,SUP,Support Specialist,2026-04,155.84,86.97,6.63,6.75,5.06,16.1,8,5.13,synthetic demo data
+KPI-00788,EMP0088,SUP,Support Specialist,2026-05,146.33,92.3,4.54,7.46,5.01,14.86,5,3.42,synthetic demo data
+KPI-00789,EMP0088,SUP,Support Specialist,2026-06,156.43,88.56,5.03,8.34,6.05,10.04,6,3.84,synthetic demo data
+KPI-00790,EMP0088,SUP,Support Specialist,2026-07,151.75,87.36,4.8,7.48,7.33,10.84,10,6.59,synthetic demo data
+KPI-00791,EMP0088,SUP,Support Specialist,2026-08,143.44,88.83,4.72,5.95,4.43,9.11,8,5.58,synthetic demo data
+KPI-00792,EMP0088,SUP,Support Specialist,2026-09,144.41,87.98,6.95,9.25,7.93,7.82,5,3.46,synthetic demo data
+KPI-00793,EMP0089,PMO,Product Manager,2026-01,152.4,93.99,4.04,7.87,8.14,21.0,8,5.25,synthetic demo data
+KPI-00794,EMP0089,PMO,Product Manager,2026-02,156.45,94.13,3.99,9.49,10.0,18.77,8,5.11,synthetic demo data
+KPI-00795,EMP0089,PMO,Product Manager,2026-03,164.54,86.92,6.66,10.0,8.81,18.61,10,6.08,synthetic demo data
+KPI-00796,EMP0089,PMO,Product Manager,2026-04,174.61,97.33,2.38,9.65,10.0,21.59,6,3.44,synthetic demo data
+KPI-00797,EMP0089,PMO,Product Manager,2026-05,163.82,89.51,7.77,7.9,9.11,15.65,8,4.88,synthetic demo data
+KPI-00798,EMP0089,PMO,Product Manager,2026-06,173.35,94.31,4.92,7.68,6.15,14.08,9,5.19,synthetic demo data
+KPI-00799,EMP0089,PMO,Product Manager,2026-07,169.34,92.01,8.3,8.18,8.64,14.76,11,6.5,synthetic demo data
+KPI-00800,EMP0089,PMO,Product Manager,2026-08,178.19,87.84,5.26,10.0,6.8,21.36,11,6.17,synthetic demo data
+KPI-00801,EMP0089,PMO,Product Manager,2026-09,162.21,95.86,8.61,10.0,8.91,16.96,7,4.32,synthetic demo data
+KPI-00802,EMP0090,HR,Talent Acquisition Specialist,2026-01,148.57,97.51,5.46,9.93,8.3,15.58,4,2.69,synthetic demo data
+KPI-00803,EMP0090,HR,Talent Acquisition Specialist,2026-02,139.19,87.62,5.68,6.71,9.96,16.7,7,5.03,synthetic demo data
+KPI-00804,EMP0090,HR,Talent Acquisition Specialist,2026-03,145.33,96.15,3.8,7.15,9.86,18.0,7,4.82,synthetic demo data
+KPI-00805,EMP0090,HR,Talent Acquisition Specialist,2026-04,157.09,94.02,5.68,7.34,10.0,14.25,11,7.0,synthetic demo data
+KPI-00806,EMP0090,HR,Talent Acquisition Specialist,2026-05,150.52,96.79,6.24,9.6,6.76,20.89,11,7.31,synthetic demo data
+KPI-00807,EMP0090,HR,Talent Acquisition Specialist,2026-06,149.96,94.11,4.24,7.88,10.0,12.55,6,4.0,synthetic demo data
+KPI-00808,EMP0090,HR,Talent Acquisition Specialist,2026-07,164.76,96.16,8.44,7.76,8.24,13.93,8,4.86,synthetic demo data
+KPI-00809,EMP0090,HR,Talent Acquisition Specialist,2026-08,137.97,96.37,5.59,8.21,7.45,12.99,9,6.52,synthetic demo data
+KPI-00810,EMP0090,HR,Talent Acquisition Specialist,2026-09,142.74,95.77,8.37,9.99,5.75,14.42,8,5.6,synthetic demo data
+KPI-00811,EMP0091,ENG,Engineering Manager,2026-01,143.71,98.15,6.66,6.28,6.88,7.89,6,4.18,synthetic demo data
+KPI-00812,EMP0091,ENG,Engineering Manager,2026-02,158.47,94.14,4.54,6.08,5.86,20.47,6,3.79,synthetic demo data
+KPI-00813,EMP0091,ENG,Engineering Manager,2026-03,143.91,94.56,2.4,6.21,8.92,12.86,10,6.95,synthetic demo data
+KPI-00814,EMP0091,ENG,Engineering Manager,2026-04,151.09,95.52,5.96,4.31,7.16,13.23,9,5.96,synthetic demo data
+KPI-00815,EMP0091,ENG,Engineering Manager,2026-05,159.48,91.72,6.91,7.08,5.47,14.22,6,3.76,synthetic demo data
+KPI-00816,EMP0091,ENG,Engineering Manager,2026-06,164.02,96.83,5.27,8.41,8.51,16.57,9,5.49,synthetic demo data
+KPI-00817,EMP0091,ENG,Engineering Manager,2026-07,156.67,96.23,6.91,7.27,6.9,20.33,9,5.74,synthetic demo data
+KPI-00818,EMP0091,ENG,Engineering Manager,2026-08,151.78,94.08,7.27,8.3,7.33,12.14,7,4.61,synthetic demo data
+KPI-00819,EMP0091,ENG,Engineering Manager,2026-09,151.68,93.35,5.15,7.68,6.27,17.05,9,5.93,synthetic demo data
+KPI-00820,EMP0092,QA,Automation Engineer,2026-01,170.05,99.08,5.44,8.46,6.51,9.58,6,3.53,synthetic demo data
+KPI-00821,EMP0092,QA,Automation Engineer,2026-02,158.14,89.31,4.18,7.99,7.71,13.9,7,4.43,synthetic demo data
+KPI-00822,EMP0092,QA,Automation Engineer,2026-03,172.16,98.91,4.16,8.19,7.99,13.48,6,3.49,synthetic demo data
+KPI-00823,EMP0092,QA,Automation Engineer,2026-04,166.51,95.16,3.31,8.22,8.22,8.65,7,4.2,synthetic demo data
+KPI-00824,EMP0092,QA,Automation Engineer,2026-05,165.38,98.18,8.59,9.71,10.0,27.78,9,5.44,synthetic demo data
+KPI-00825,EMP0092,QA,Automation Engineer,2026-06,159.81,99.99,4.16,8.4,7.05,18.15,6,3.75,synthetic demo data
+KPI-00826,EMP0092,QA,Automation Engineer,2026-07,153.08,98.05,4.83,6.06,5.82,11.96,6,3.92,synthetic demo data
+KPI-00827,EMP0092,QA,Automation Engineer,2026-08,161.79,97.37,6.74,9.14,9.67,18.99,8,4.94,synthetic demo data
+KPI-00828,EMP0092,QA,Automation Engineer,2026-09,167.22,99.8,5.64,9.73,4.46,15.39,7,4.19,synthetic demo data
+KPI-00829,EMP0093,OPS,IT Support Engineer,2026-01,157.15,93.13,7.71,9.64,7.58,16.95,8,5.09,synthetic demo data
+KPI-00830,EMP0093,OPS,IT Support Engineer,2026-02,182.84,81.05,5.11,8.44,6.59,16.07,8,4.38,synthetic demo data
+KPI-00831,EMP0093,OPS,IT Support Engineer,2026-03,164.28,91.1,7.63,8.16,7.55,16.44,8,4.87,synthetic demo data
+KPI-00832,EMP0093,OPS,IT Support Engineer,2026-04,155.71,92.48,5.92,9.88,9.15,21.79,6,3.85,synthetic demo data
+KPI-00833,EMP0093,OPS,IT Support Engineer,2026-05,166.54,86.57,5.51,9.87,10.0,12.5,7,4.2,synthetic demo data
+KPI-00834,EMP0093,OPS,IT Support Engineer,2026-06,168.88,92.91,3.84,6.59,8.99,9.29,7,4.14,synthetic demo data
+KPI-00835,EMP0093,OPS,IT Support Engineer,2026-07,170.77,92.32,6.41,8.01,9.53,18.25,6,3.51,synthetic demo data
+KPI-00836,EMP0093,OPS,IT Support Engineer,2026-08,169.78,92.2,9.36,9.33,10.0,14.66,7,4.12,synthetic demo data
+KPI-00837,EMP0093,OPS,IT Support Engineer,2026-09,167.62,90.38,5.03,9.88,9.59,15.88,9,5.37,synthetic demo data
+KPI-00838,EMP0094,SUP,Technical Support Engineer,2026-01,155.87,88.77,4.88,9.56,7.12,12.13,6,3.85,synthetic demo data
+KPI-00839,EMP0094,SUP,Technical Support Engineer,2026-02,173.17,86.94,4.56,6.38,8.39,13.38,5,2.89,synthetic demo data
+KPI-00840,EMP0094,SUP,Technical Support Engineer,2026-03,163.52,90.75,4.38,7.01,5.23,13.16,6,3.67,synthetic demo data
+KPI-00841,EMP0094,SUP,Technical Support Engineer,2026-04,160.84,84.35,4.9,7.42,5.74,12.6,8,4.97,synthetic demo data
+KPI-00842,EMP0094,SUP,Technical Support Engineer,2026-05,169.98,90.9,4.4,6.98,4.64,9.43,6,3.53,synthetic demo data
+KPI-00843,EMP0094,SUP,Technical Support Engineer,2026-06,158.2,89.32,3.24,5.72,7.48,9.9,5,3.16,synthetic demo data
+KPI-00844,EMP0094,SUP,Technical Support Engineer,2026-07,155.77,90.45,6.96,7.17,5.9,16.1,3,1.93,synthetic demo data
+KPI-00845,EMP0094,SUP,Technical Support Engineer,2026-08,180.0,97.46,0.48,7.52,5.13,10.74,6,3.33,synthetic demo data
+KPI-00846,EMP0094,SUP,Technical Support Engineer,2026-09,170.85,88.59,3.33,7.43,7.01,7.06,3,1.76,synthetic demo data
+KPI-00847,EMP0095,PMO,Business Analyst,2026-01,145.39,92.91,4.05,7.18,10.0,15.27,12,8.25,synthetic demo data
+KPI-00848,EMP0095,PMO,Business Analyst,2026-02,170.75,93.43,5.18,7.74,10.0,17.63,7,4.1,synthetic demo data
+KPI-00849,EMP0095,PMO,Business Analyst,2026-03,154.05,92.67,3.96,10.0,8.01,26.59,6,3.89,synthetic demo data
+KPI-00850,EMP0095,PMO,Business Analyst,2026-04,169.13,90.76,4.48,8.59,8.68,22.84,12,7.1,synthetic demo data
+KPI-00851,EMP0095,PMO,Business Analyst,2026-05,165.76,92.89,4.77,8.26,7.69,15.03,8,4.83,synthetic demo data
+KPI-00852,EMP0095,PMO,Business Analyst,2026-06,158.32,87.66,4.4,10.0,10.0,17.28,6,3.79,synthetic demo data
+KPI-00853,EMP0095,PMO,Business Analyst,2026-07,159.98,86.25,6.24,8.91,10.0,12.71,11,6.88,synthetic demo data
+KPI-00854,EMP0095,PMO,Business Analyst,2026-08,155.55,93.14,2.3,9.84,10.0,26.79,11,7.07,synthetic demo data
+KPI-00855,EMP0095,PMO,Business Analyst,2026-09,151.64,90.81,2.3,10.0,8.02,25.56,10,6.59,synthetic demo data
+KPI-00856,EMP0096,HR,HR Business Partner,2026-01,163.08,96.14,5.71,7.2,5.46,21.59,10,6.13,synthetic demo data
+KPI-00857,EMP0096,HR,HR Business Partner,2026-02,165.33,95.02,4.46,9.31,6.76,12.09,10,6.05,synthetic demo data
+KPI-00858,EMP0096,HR,HR Business Partner,2026-03,157.96,100.0,2.71,8.32,10.0,14.75,6,3.8,synthetic demo data
+KPI-00859,EMP0096,HR,HR Business Partner,2026-04,149.09,100.0,3.71,7.61,5.42,20.87,9,6.04,synthetic demo data
+KPI-00860,EMP0096,HR,HR Business Partner,2026-05,158.08,92.36,7.37,7.3,5.62,7.57,5,3.16,synthetic demo data
+KPI-00861,EMP0096,HR,HR Business Partner,2026-06,146.82,94.21,6.12,7.29,7.85,11.73,7,4.77,synthetic demo data
+KPI-00862,EMP0096,HR,HR Business Partner,2026-07,173.54,95.16,5.55,5.92,9.62,12.72,9,5.19,synthetic demo data
+KPI-00863,EMP0096,HR,HR Business Partner,2026-08,157.36,98.49,6.0,7.2,8.97,11.59,8,5.08,synthetic demo data
+KPI-00864,EMP0096,HR,HR Business Partner,2026-09,155.24,97.58,4.2,7.78,5.67,15.62,7,4.51,synthetic demo data
+KPI-00865,EMP0097,ENG,Software Engineer,2026-01,161.99,99.06,1.07,4.03,5.7,6.49,5,3.09,synthetic demo data
+KPI-00866,EMP0097,ENG,Software Engineer,2026-02,161.46,98.19,2.41,7.43,6.33,13.41,4,2.48,synthetic demo data
+KPI-00867,EMP0097,ENG,Software Engineer,2026-03,170.78,94.64,7.04,6.06,7.44,11.78,5,2.93,synthetic demo data
+KPI-00868,EMP0097,ENG,Software Engineer,2026-04,164.83,93.96,0.0,3.45,8.25,16.95,9,5.46,synthetic demo data
+KPI-00869,EMP0097,ENG,Software Engineer,2026-05,159.69,90.51,3.55,6.98,4.77,18.62,10,6.26,synthetic demo data
+KPI-00870,EMP0097,ENG,Software Engineer,2026-06,163.61,94.96,2.16,8.75,6.43,10.85,6,3.67,synthetic demo data
+KPI-00871,EMP0097,ENG,Software Engineer,2026-07,155.19,95.51,1.93,8.22,6.15,16.66,5,3.22,synthetic demo data
+KPI-00872,EMP0097,ENG,Software Engineer,2026-08,158.75,90.79,5.43,5.97,5.57,12.02,5,3.15,synthetic demo data
+KPI-00873,EMP0097,ENG,Software Engineer,2026-09,146.32,94.2,5.48,6.54,5.97,12.67,5,3.42,synthetic demo data
+KPI-00874,EMP0098,QA,QA Lead,2026-01,153.21,97.55,1.79,5.36,3.52,6.26,7,4.57,synthetic demo data
+KPI-00875,EMP0098,QA,QA Lead,2026-02,154.14,98.85,2.37,7.42,4.19,10.7,5,3.24,synthetic demo data
+KPI-00876,EMP0098,QA,QA Lead,2026-03,178.36,99.42,2.76,7.34,9.01,4.01,3,1.68,synthetic demo data
+KPI-00877,EMP0098,QA,QA Lead,2026-04,158.06,95.79,3.17,5.05,7.89,4.84,4,2.53,synthetic demo data
+KPI-00878,EMP0098,QA,QA Lead,2026-05,168.22,97.13,2.14,5.0,5.4,7.51,5,2.97,synthetic demo data
+KPI-00879,EMP0098,QA,QA Lead,2026-06,148.85,100.0,3.88,6.77,7.95,8.78,3,2.02,synthetic demo data
+KPI-00880,EMP0098,QA,QA Lead,2026-07,155.6,96.57,3.56,5.59,2.67,8.29,5,3.21,synthetic demo data
+KPI-00881,EMP0098,QA,QA Lead,2026-08,161.02,100.0,6.81,7.42,7.86,13.61,8,4.97,synthetic demo data
+KPI-00882,EMP0098,QA,QA Lead,2026-09,174.59,100.0,4.82,6.31,5.69,9.19,6,3.44,synthetic demo data
+KPI-00883,EMP0099,OPS,Operations Manager,2026-01,170.45,84.21,10.82,8.07,6.42,17.19,3,1.76,synthetic demo data
+KPI-00884,EMP0099,OPS,Operations Manager,2026-02,156.74,93.53,4.04,7.46,6.91,19.37,2,1.28,synthetic demo data
+KPI-00885,EMP0099,OPS,Operations Manager,2026-03,171.76,86.58,6.3,5.41,4.45,13.09,3,1.75,synthetic demo data
+KPI-00886,EMP0099,OPS,Operations Manager,2026-04,164.88,86.22,5.08,6.21,6.62,10.36,5,3.03,synthetic demo data
+KPI-00887,EMP0099,OPS,Operations Manager,2026-05,164.53,92.28,6.51,5.62,6.22,13.36,2,1.22,synthetic demo data
+KPI-00888,EMP0099,OPS,Operations Manager,2026-06,151.97,86.03,6.68,5.94,7.18,5.04,2,1.32,synthetic demo data
+KPI-00889,EMP0099,OPS,Operations Manager,2026-07,156.38,87.91,4.69,6.12,5.49,9.9,5,3.2,synthetic demo data
+KPI-00890,EMP0099,OPS,Operations Manager,2026-08,153.78,93.65,7.78,5.89,6.25,11.97,7,4.55,synthetic demo data
+KPI-00891,EMP0099,OPS,Operations Manager,2026-09,154.27,91.18,7.07,8.53,8.07,12.26,4,2.59,synthetic demo data
+KPI-00892,EMP0100,SUP,Support Lead,2026-01,152.59,100.0,2.99,8.02,8.31,4.03,11,7.21,synthetic demo data
+KPI-00893,EMP0100,SUP,Support Lead,2026-02,155.72,97.34,5.95,8.71,6.97,16.65,8,5.14,synthetic demo data
+KPI-00894,EMP0100,SUP,Support Lead,2026-03,173.02,98.66,8.17,8.91,3.8,23.12,6,3.47,synthetic demo data
+KPI-00895,EMP0100,SUP,Support Lead,2026-04,170.92,96.94,6.73,7.08,7.51,11.64,10,5.85,synthetic demo data
+KPI-00896,EMP0100,SUP,Support Lead,2026-05,162.56,100.0,1.61,7.78,7.18,13.55,9,5.54,synthetic demo data
+KPI-00897,EMP0100,SUP,Support Lead,2026-06,156.19,97.02,6.92,5.26,7.45,11.32,5,3.2,synthetic demo data
+KPI-00898,EMP0100,SUP,Support Lead,2026-07,161.75,100.0,6.7,7.72,7.89,16.14,7,4.33,synthetic demo data
+KPI-00899,EMP0100,SUP,Support Lead,2026-08,153.6,94.65,6.38,7.83,4.96,5.9,8,5.21,synthetic demo data
+KPI-00900,EMP0100,SUP,Support Lead,2026-09,154.76,98.0,7.02,6.37,6.48,11.97,8,5.17,synthetic demo data
+KPI-00901,EMP0101,SEC,Security Lead,2026-01,156.87,98.08,4.62,9.64,10.0,18.11,5,3.19,synthetic demo data
+KPI-00902,EMP0101,SEC,Security Lead,2026-02,151.35,96.8,4.36,8.09,6.2,19.8,8,5.29,synthetic demo data
+KPI-00903,EMP0101,SEC,Security Lead,2026-03,139.24,97.35,6.09,9.1,7.75,14.15,6,4.31,synthetic demo data
+KPI-00904,EMP0101,SEC,Security Lead,2026-04,148.0,96.19,6.42,8.29,7.7,15.96,13,8.78,synthetic demo data
+KPI-00905,EMP0101,SEC,Security Lead,2026-05,146.16,94.19,11.3,8.99,6.24,20.74,6,4.11,synthetic demo data
+KPI-00906,EMP0101,SEC,Security Lead,2026-06,159.46,95.4,5.48,10.0,9.21,21.26,9,5.64,synthetic demo data
+KPI-00907,EMP0101,SEC,Security Lead,2026-07,148.74,98.25,8.1,8.66,10.0,20.77,8,5.38,synthetic demo data
+KPI-00908,EMP0101,SEC,Security Lead,2026-08,154.25,96.61,4.19,8.4,8.68,15.7,9,5.83,synthetic demo data
+KPI-00909,EMP0101,SEC,Security Lead,2026-09,152.43,98.81,7.24,8.7,6.26,24.54,8,5.25,synthetic demo data
+KPI-00910,EMP0102,SAL,Sales Lead,2026-01,158.71,92.72,7.33,6.86,7.22,14.21,7,4.41,synthetic demo data
+KPI-00911,EMP0102,SAL,Sales Lead,2026-02,153.22,95.84,5.35,6.71,6.03,9.1,8,5.22,synthetic demo data
+KPI-00912,EMP0102,SAL,Sales Lead,2026-03,150.45,90.95,8.79,6.71,6.55,9.34,8,5.32,synthetic demo data
+KPI-00913,EMP0102,SAL,Sales Lead,2026-04,164.82,95.94,7.65,7.45,6.04,10.13,8,4.85,synthetic demo data
+KPI-00914,EMP0102,SAL,Sales Lead,2026-05,164.17,90.97,6.86,7.02,5.11,14.11,5,3.05,synthetic demo data
+KPI-00915,EMP0102,SAL,Sales Lead,2026-06,150.58,88.25,4.31,6.94,6.7,9.89,7,4.65,synthetic demo data
+KPI-00916,EMP0102,SAL,Sales Lead,2026-07,157.6,95.38,6.5,6.46,7.01,8.33,7,4.44,synthetic demo data
+KPI-00917,EMP0102,SAL,Sales Lead,2026-08,150.7,96.56,6.25,8.59,5.12,10.68,7,4.64,synthetic demo data
+KPI-00918,EMP0102,SAL,Sales Lead,2026-09,167.39,99.16,6.86,9.48,6.39,17.8,4,2.39,synthetic demo data
+KPI-00919,EMP0103,FIN,Finance Manager,2026-01,138.58,90.09,3.97,7.68,7.56,13.67,10,7.22,synthetic demo data
+KPI-00920,EMP0103,FIN,Finance Manager,2026-02,140.56,96.56,3.85,7.88,9.21,19.44,6,4.27,synthetic demo data
+KPI-00921,EMP0103,FIN,Finance Manager,2026-03,150.65,93.19,4.65,8.51,10.0,16.79,8,5.31,synthetic demo data
+KPI-00922,EMP0103,FIN,Finance Manager,2026-04,151.57,86.66,6.24,6.63,6.51,23.57,6,3.96,synthetic demo data
+KPI-00923,EMP0103,FIN,Finance Manager,2026-05,140.4,95.73,4.0,7.28,9.31,15.07,4,2.85,synthetic demo data
+KPI-00924,EMP0103,FIN,Finance Manager,2026-06,150.56,90.35,7.96,7.1,9.01,22.02,5,3.32,synthetic demo data
+KPI-00925,EMP0103,FIN,Finance Manager,2026-07,144.72,93.08,4.15,8.11,7.06,13.92,7,4.84,synthetic demo data
+KPI-00926,EMP0103,FIN,Finance Manager,2026-08,146.82,92.3,4.56,7.16,7.23,14.72,6,4.09,synthetic demo data
+KPI-00927,EMP0103,FIN,Finance Manager,2026-09,148.82,85.44,4.35,7.48,6.1,21.43,7,4.7,synthetic demo data
+KPI-00928,EMP0104,MKT,Marketing Manager,2026-01,148.36,99.68,4.82,9.1,9.24,16.87,5,3.37,synthetic demo data
+KPI-00929,EMP0104,MKT,Marketing Manager,2026-02,149.08,98.58,3.61,10.0,6.57,22.08,6,4.02,synthetic demo data
+KPI-00930,EMP0104,MKT,Marketing Manager,2026-03,167.86,100.0,1.88,7.03,5.55,9.24,8,4.77,synthetic demo data
+KPI-00931,EMP0104,MKT,Marketing Manager,2026-04,155.73,94.79,4.39,5.46,9.09,12.77,7,4.49,synthetic demo data
+KPI-00932,EMP0104,MKT,Marketing Manager,2026-05,162.2,99.36,3.34,5.15,7.22,14.97,4,2.47,synthetic demo data
+KPI-00933,EMP0104,MKT,Marketing Manager,2026-06,158.45,93.35,1.37,8.36,6.27,12.54,5,3.16,synthetic demo data
+KPI-00934,EMP0104,MKT,Marketing Manager,2026-07,167.06,94.46,3.63,7.08,7.83,19.58,8,4.79,synthetic demo data
+KPI-00935,EMP0104,MKT,Marketing Manager,2026-08,162.72,96.71,1.31,6.58,6.82,11.26,4,2.46,synthetic demo data
+KPI-00936,EMP0104,MKT,Marketing Manager,2026-09,142.47,89.94,3.1,7.51,5.92,14.49,5,3.51,synthetic demo data
+KPI-00937,EMP0105,SEC,Security Analyst,2026-01,153.3,97.78,3.06,8.39,9.05,20.56,6,3.91,synthetic demo data
+KPI-00938,EMP0105,SEC,Security Analyst,2026-02,159.34,97.1,7.65,6.67,6.79,28.16,7,4.39,synthetic demo data
+KPI-00939,EMP0105,SEC,Security Analyst,2026-03,144.23,94.44,0.79,8.65,9.41,13.26,7,4.85,synthetic demo data
+KPI-00940,EMP0105,SEC,Security Analyst,2026-04,166.51,90.39,3.09,8.11,7.03,15.74,5,3.0,synthetic demo data
+KPI-00941,EMP0105,SEC,Security Analyst,2026-05,160.89,95.94,6.07,8.61,8.49,11.12,9,5.59,synthetic demo data
+KPI-00942,EMP0105,SEC,Security Analyst,2026-06,156.58,95.88,6.86,7.55,10.0,22.71,9,5.75,synthetic demo data
+KPI-00943,EMP0105,SEC,Security Analyst,2026-07,151.43,88.88,6.91,8.5,7.04,21.62,6,3.96,synthetic demo data
+KPI-00944,EMP0105,SEC,Security Analyst,2026-08,155.84,98.28,3.43,8.25,9.83,17.76,10,6.42,synthetic demo data
+KPI-00945,EMP0105,SEC,Security Analyst,2026-09,168.17,96.49,1.48,7.11,9.34,10.7,7,4.16,synthetic demo data
+KPI-00946,EMP0106,SEC,Security Analyst,2026-01,162.55,93.57,4.89,7.27,8.59,15.25,8,4.92,synthetic demo data
+KPI-00947,EMP0106,SEC,Security Analyst,2026-02,170.41,94.46,3.18,7.0,9.18,17.2,5,2.93,synthetic demo data
+KPI-00948,EMP0106,SEC,Security Analyst,2026-03,170.31,84.92,3.27,8.83,7.12,15.13,1,0.59,synthetic demo data
+KPI-00949,EMP0106,SEC,Security Analyst,2026-04,165.77,94.32,4.93,8.83,6.99,13.99,4,2.41,synthetic demo data
+KPI-00950,EMP0106,SEC,Security Analyst,2026-05,167.26,88.78,1.25,6.48,9.61,13.57,7,4.19,synthetic demo data
+KPI-00951,EMP0106,SEC,Security Analyst,2026-06,164.81,86.94,5.67,5.23,6.47,14.44,7,4.25,synthetic demo data
+KPI-00952,EMP0106,SEC,Security Analyst,2026-07,163.13,86.78,2.91,6.87,6.14,18.54,4,2.45,synthetic demo data
+KPI-00953,EMP0106,SEC,Security Analyst,2026-08,171.26,93.7,5.71,7.58,8.52,13.97,7,4.09,synthetic demo data
+KPI-00954,EMP0106,SEC,Security Analyst,2026-09,156.98,84.0,4.79,8.22,8.04,12.55,10,6.37,synthetic demo data
+KPI-00955,EMP0107,SEC,Security Analyst,2026-01,165.99,97.77,11.3,7.41,4.42,11.47,3,1.81,synthetic demo data
+KPI-00956,EMP0107,SEC,Security Analyst,2026-02,159.52,94.8,6.07,5.44,8.83,13.45,5,3.13,synthetic demo data
+KPI-00957,EMP0107,SEC,Security Analyst,2026-03,168.65,97.83,7.44,7.83,6.61,14.94,7,4.15,synthetic demo data
+KPI-00958,EMP0107,SEC,Security Analyst,2026-04,163.94,95.43,9.43,6.49,7.0,13.91,4,2.44,synthetic demo data
+KPI-00959,EMP0107,SEC,Security Analyst,2026-05,156.26,94.97,6.22,5.37,5.41,13.32,8,5.12,synthetic demo data
+KPI-00960,EMP0107,SEC,Security Analyst,2026-06,167.04,87.18,8.02,6.4,7.09,12.2,5,2.99,synthetic demo data
+KPI-00961,EMP0107,SEC,Security Analyst,2026-07,161.84,96.12,9.14,7.02,8.06,16.02,7,4.33,synthetic demo data
+KPI-00962,EMP0107,SEC,Security Analyst,2026-08,148.51,100.0,6.27,7.86,4.92,7.5,9,6.06,synthetic demo data
+KPI-00963,EMP0107,SEC,Security Analyst,2026-09,155.08,100.0,7.19,6.56,6.33,7.04,5,3.22,synthetic demo data
+KPI-00964,EMP0108,SEC,Security Engineer,2026-01,163.72,96.47,3.4,8.63,5.66,10.06,4,2.44,synthetic demo data
+KPI-00965,EMP0108,SEC,Security Engineer,2026-02,167.15,95.23,2.8,5.72,7.71,13.72,4,2.39,synthetic demo data
+KPI-00966,EMP0108,SEC,Security Engineer,2026-03,168.68,99.65,4.83,6.31,6.19,7.05,4,2.37,synthetic demo data
+KPI-00967,EMP0108,SEC,Security Engineer,2026-04,160.25,91.2,4.95,6.16,7.26,2.99,4,2.5,synthetic demo data
+KPI-00968,EMP0108,SEC,Security Engineer,2026-05,153.99,100.0,5.19,8.57,6.7,8.74,5,3.25,synthetic demo data
+KPI-00969,EMP0108,SEC,Security Engineer,2026-06,155.0,100.0,3.14,5.56,6.38,15.3,0,0.0,synthetic demo data
+KPI-00970,EMP0108,SEC,Security Engineer,2026-07,168.69,96.57,2.26,3.05,3.36,10.3,4,2.37,synthetic demo data
+KPI-00971,EMP0108,SEC,Security Engineer,2026-08,162.82,95.15,3.49,6.03,5.74,11.31,3,1.84,synthetic demo data
+KPI-00972,EMP0108,SEC,Security Engineer,2026-09,164.94,94.9,3.87,5.88,7.33,9.85,3,1.82,synthetic demo data
+KPI-00973,EMP0109,SEC,Security Engineer,2026-01,171.25,93.02,5.78,7.37,7.55,18.56,7,4.09,synthetic demo data
+KPI-00974,EMP0109,SEC,Security Engineer,2026-02,158.12,92.6,4.01,8.52,8.75,17.45,6,3.79,synthetic demo data
+KPI-00975,EMP0109,SEC,Security Engineer,2026-03,174.83,93.56,4.61,9.09,9.23,20.23,6,3.43,synthetic demo data
+KPI-00976,EMP0109,SEC,Security Engineer,2026-04,182.21,93.48,7.46,7.65,7.64,6.72,7,3.84,synthetic demo data
+KPI-00977,EMP0109,SEC,Security Engineer,2026-05,173.6,93.77,9.21,6.9,7.13,12.8,6,3.46,synthetic demo data
+KPI-00978,EMP0109,SEC,Security Engineer,2026-06,181.04,100.0,5.31,7.4,6.22,21.66,10,5.52,synthetic demo data
+KPI-00979,EMP0109,SEC,Security Engineer,2026-07,172.04,90.35,4.35,8.43,8.82,8.14,7,4.07,synthetic demo data
+KPI-00980,EMP0109,SEC,Security Engineer,2026-08,185.68,94.44,8.79,8.98,6.33,15.25,7,3.77,synthetic demo data
+KPI-00981,EMP0109,SEC,Security Engineer,2026-09,165.34,91.83,8.82,7.11,9.63,14.67,7,4.23,synthetic demo data
+KPI-00982,EMP0110,SAL,Account Executive,2026-01,161.53,91.62,0.65,7.13,7.85,7.18,7,4.33,synthetic demo data
+KPI-00983,EMP0110,SAL,Account Executive,2026-02,159.07,95.14,3.35,8.18,6.74,7.57,7,4.4,synthetic demo data
+KPI-00984,EMP0110,SAL,Account Executive,2026-03,149.06,94.12,3.27,9.55,7.51,17.55,4,2.68,synthetic demo data
+KPI-00985,EMP0110,SAL,Account Executive,2026-04,158.54,95.92,4.47,7.3,7.2,19.57,7,4.42,synthetic demo data
+KPI-00986,EMP0110,SAL,Account Executive,2026-05,147.82,100.0,0.8,7.85,8.1,16.4,7,4.74,synthetic demo data
+KPI-00987,EMP0110,SAL,Account Executive,2026-06,155.14,95.31,0.74,10.0,7.23,17.72,6,3.87,synthetic demo data
+KPI-00988,EMP0110,SAL,Account Executive,2026-07,153.79,94.54,0.05,7.74,6.95,20.02,4,2.6,synthetic demo data
+KPI-00989,EMP0110,SAL,Account Executive,2026-08,152.03,93.01,4.81,6.92,8.43,19.22,7,4.6,synthetic demo data
+KPI-00990,EMP0110,SAL,Account Executive,2026-09,145.7,91.39,3.88,6.47,8.17,15.79,8,5.49,synthetic demo data
+KPI-00991,EMP0111,SAL,Account Executive,2026-01,158.31,96.94,5.83,8.99,7.7,21.42,5,3.16,synthetic demo data
+KPI-00992,EMP0111,SAL,Account Executive,2026-02,154.55,94.44,5.5,9.17,6.81,23.35,11,7.12,synthetic demo data
+KPI-00993,EMP0111,SAL,Account Executive,2026-03,156.84,94.03,7.7,6.48,5.47,20.09,7,4.46,synthetic demo data
+KPI-00994,EMP0111,SAL,Account Executive,2026-04,152.82,92.15,2.01,7.62,6.32,18.74,9,5.89,synthetic demo data
+KPI-00995,EMP0111,SAL,Account Executive,2026-05,159.18,93.48,3.43,8.52,8.43,20.05,11,6.91,synthetic demo data
+KPI-00996,EMP0111,SAL,Account Executive,2026-06,141.22,90.76,4.63,8.04,7.49,14.12,9,6.37,synthetic demo data
+KPI-00997,EMP0111,SAL,Account Executive,2026-07,145.89,88.5,4.18,7.43,5.59,14.86,6,4.11,synthetic demo data
+KPI-00998,EMP0111,SAL,Account Executive,2026-08,148.39,95.14,5.71,9.06,7.17,14.96,6,4.04,synthetic demo data
+KPI-00999,EMP0111,SAL,Account Executive,2026-09,154.56,94.58,5.15,8.44,6.23,18.1,6,3.88,synthetic demo data
+KPI-01000,EMP0112,SAL,Account Executive,2026-01,165.44,98.59,2.81,7.73,6.99,22.82,6,3.63,synthetic demo data
+KPI-01001,EMP0112,SAL,Account Executive,2026-02,150.05,100.0,3.23,10.0,7.1,19.59,9,6.0,synthetic demo data
+KPI-01002,EMP0112,SAL,Account Executive,2026-03,156.39,96.03,4.76,8.83,5.75,11.68,2,1.28,synthetic demo data
+KPI-01003,EMP0112,SAL,Account Executive,2026-04,165.23,97.7,3.32,6.23,6.23,14.28,6,3.63,synthetic demo data
+KPI-01004,EMP0112,SAL,Account Executive,2026-05,161.45,100.0,7.18,8.15,9.6,12.87,4,2.48,synthetic demo data
+KPI-01005,EMP0112,SAL,Account Executive,2026-06,157.73,93.06,3.6,7.27,4.92,23.16,6,3.8,synthetic demo data
+KPI-01006,EMP0112,SAL,Account Executive,2026-07,147.55,100.0,2.42,9.42,6.78,14.03,8,5.42,synthetic demo data
+KPI-01007,EMP0112,SAL,Account Executive,2026-08,165.21,100.0,3.43,8.78,9.04,17.0,7,4.24,synthetic demo data
+KPI-01008,EMP0112,SAL,Account Executive,2026-09,149.08,100.0,3.64,7.7,9.85,10.47,11,7.38,synthetic demo data
+KPI-01009,EMP0113,SAL,Account Executive,2026-01,144.69,88.27,6.23,6.16,9.08,9.83,6,4.15,synthetic demo data
+KPI-01010,EMP0113,SAL,Account Executive,2026-02,166.99,90.77,5.5,7.5,7.6,12.5,7,4.19,synthetic demo data
+KPI-01011,EMP0113,SAL,Account Executive,2026-03,174.54,93.16,5.71,6.72,8.07,15.53,4,2.29,synthetic demo data
+KPI-01012,EMP0113,SAL,Account Executive,2026-04,163.73,93.65,1.61,7.83,7.12,13.28,6,3.66,synthetic demo data
+KPI-01013,EMP0113,SAL,Account Executive,2026-05,161.33,92.34,3.19,6.68,10.0,7.92,5,3.1,synthetic demo data
+KPI-01014,EMP0113,SAL,Account Executive,2026-06,158.04,100.0,0.87,7.91,7.28,14.91,8,5.06,synthetic demo data
+KPI-01015,EMP0113,SAL,Account Executive,2026-07,171.66,92.06,3.27,5.28,7.05,10.39,6,3.5,synthetic demo data
+KPI-01016,EMP0113,SAL,Account Executive,2026-08,148.7,95.02,0.27,7.59,5.03,10.17,8,5.38,synthetic demo data
+KPI-01017,EMP0113,SAL,Account Executive,2026-09,166.69,97.61,5.44,6.53,9.19,7.7,7,4.2,synthetic demo data
+KPI-01018,EMP0114,SAL,Sales Development Representative,2026-01,157.04,98.12,6.4,7.98,3.88,11.63,3,1.91,synthetic demo data
+KPI-01019,EMP0114,SAL,Sales Development Representative,2026-02,156.82,100.0,5.33,7.16,7.52,3.87,4,2.55,synthetic demo data
+KPI-01020,EMP0114,SAL,Sales Development Representative,2026-03,157.52,86.2,4.53,8.28,7.89,13.66,7,4.44,synthetic demo data
+KPI-01021,EMP0114,SAL,Sales Development Representative,2026-04,156.33,98.17,5.58,7.14,5.4,17.22,8,5.12,synthetic demo data
+KPI-01022,EMP0114,SAL,Sales Development Representative,2026-05,165.55,94.83,4.56,8.48,7.19,13.47,4,2.42,synthetic demo data
+KPI-01023,EMP0114,SAL,Sales Development Representative,2026-06,158.0,92.48,7.09,8.6,8.85,15.0,3,1.9,synthetic demo data
+KPI-01024,EMP0114,SAL,Sales Development Representative,2026-07,156.19,100.0,4.7,6.94,8.52,14.63,10,6.4,synthetic demo data
+KPI-01025,EMP0114,SAL,Sales Development Representative,2026-08,148.83,92.81,8.02,5.64,6.06,11.89,7,4.7,synthetic demo data
+KPI-01026,EMP0114,SAL,Sales Development Representative,2026-09,159.49,97.83,5.44,8.41,10.0,14.93,6,3.76,synthetic demo data
+KPI-01027,EMP0115,SAL,Sales Development Representative,2026-01,146.81,98.73,4.24,4.33,6.53,13.85,0,0.0,synthetic demo data
+KPI-01028,EMP0115,SAL,Sales Development Representative,2026-02,149.84,93.71,5.48,5.73,4.18,12.65,3,2.0,synthetic demo data
+KPI-01029,EMP0115,SAL,Sales Development Representative,2026-03,160.66,90.24,2.17,7.19,5.83,13.43,3,1.87,synthetic demo data
+KPI-01030,EMP0115,SAL,Sales Development Representative,2026-04,150.08,98.81,1.9,7.76,7.46,13.18,3,2.0,synthetic demo data
+KPI-01031,EMP0115,SAL,Sales Development Representative,2026-05,149.91,93.36,2.26,5.21,6.43,12.34,2,1.33,synthetic demo data
+KPI-01032,EMP0115,SAL,Sales Development Representative,2026-06,161.72,95.67,6.71,6.97,7.06,11.65,6,3.71,synthetic demo data
+KPI-01033,EMP0115,SAL,Sales Development Representative,2026-07,146.18,93.67,4.25,6.04,6.12,12.28,5,3.42,synthetic demo data
+KPI-01034,EMP0115,SAL,Sales Development Representative,2026-08,154.97,91.54,6.06,6.72,3.89,8.96,1,0.65,synthetic demo data
+KPI-01035,EMP0115,SAL,Sales Development Representative,2026-09,156.65,93.4,3.4,8.14,3.68,12.57,8,5.11,synthetic demo data
+KPI-01036,EMP0116,SAL,Sales Development Representative,2026-01,159.16,93.38,1.36,7.58,7.92,16.09,11,6.91,synthetic demo data
+KPI-01037,EMP0116,SAL,Sales Development Representative,2026-02,161.81,86.1,3.99,8.99,7.97,12.01,11,6.8,synthetic demo data
+KPI-01038,EMP0116,SAL,Sales Development Representative,2026-03,151.5,93.99,3.65,9.06,10.0,19.13,7,4.62,synthetic demo data
+KPI-01039,EMP0116,SAL,Sales Development Representative,2026-04,168.72,89.51,3.59,6.88,6.58,17.08,8,4.74,synthetic demo data
+KPI-01040,EMP0116,SAL,Sales Development Representative,2026-05,146.49,93.42,2.03,9.84,7.62,12.37,8,5.46,synthetic demo data
+KPI-01041,EMP0116,SAL,Sales Development Representative,2026-06,152.72,96.1,3.33,8.19,9.06,12.85,5,3.27,synthetic demo data
+KPI-01042,EMP0116,SAL,Sales Development Representative,2026-07,163.2,87.88,1.58,9.33,8.96,11.85,6,3.68,synthetic demo data
+KPI-01043,EMP0116,SAL,Sales Development Representative,2026-08,152.81,97.86,4.77,7.88,9.04,11.44,6,3.93,synthetic demo data
+KPI-01044,EMP0116,SAL,Sales Development Representative,2026-09,160.8,93.27,3.17,8.65,8.28,16.22,7,4.35,synthetic demo data
+KPI-01045,EMP0117,FIN,Financial Analyst,2026-01,162.74,94.29,5.55,5.76,8.44,13.1,4,2.46,synthetic demo data
+KPI-01046,EMP0117,FIN,Financial Analyst,2026-02,160.21,93.89,7.27,6.84,6.68,14.66,4,2.5,synthetic demo data
+KPI-01047,EMP0117,FIN,Financial Analyst,2026-03,163.06,96.67,2.72,7.36,6.37,12.88,5,3.07,synthetic demo data
+KPI-01048,EMP0117,FIN,Financial Analyst,2026-04,163.58,100.0,3.31,6.68,7.46,14.28,6,3.67,synthetic demo data
+KPI-01049,EMP0117,FIN,Financial Analyst,2026-05,183.33,97.85,6.99,6.72,4.93,11.1,7,3.82,synthetic demo data
+KPI-01050,EMP0117,FIN,Financial Analyst,2026-06,164.75,97.11,4.85,6.64,6.17,15.26,7,4.25,synthetic demo data
+KPI-01051,EMP0117,FIN,Financial Analyst,2026-07,153.57,98.36,4.15,7.61,6.15,18.63,5,3.26,synthetic demo data
+KPI-01052,EMP0117,FIN,Financial Analyst,2026-08,162.95,97.82,3.8,6.99,6.03,10.3,5,3.07,synthetic demo data
+KPI-01053,EMP0117,FIN,Financial Analyst,2026-09,170.33,93.64,6.09,7.43,4.31,14.44,3,1.76,synthetic demo data
+KPI-01054,EMP0118,FIN,Financial Analyst,2026-01,160.74,96.33,0.0,10.0,8.45,18.32,7,4.35,synthetic demo data
+KPI-01055,EMP0118,FIN,Financial Analyst,2026-02,142.46,97.01,2.51,8.6,7.31,16.48,5,3.51,synthetic demo data
+KPI-01056,EMP0118,FIN,Financial Analyst,2026-03,163.99,90.55,6.98,10.0,10.0,20.64,7,4.27,synthetic demo data
+KPI-01057,EMP0118,FIN,Financial Analyst,2026-04,166.38,94.34,0.94,9.71,9.37,15.4,5,3.01,synthetic demo data
+KPI-01058,EMP0118,FIN,Financial Analyst,2026-05,152.5,88.35,4.91,6.14,8.08,12.14,4,2.62,synthetic demo data
+KPI-01059,EMP0118,FIN,Financial Analyst,2026-06,159.03,93.51,4.74,6.52,6.49,5.95,3,1.89,synthetic demo data
+KPI-01060,EMP0118,FIN,Financial Analyst,2026-07,171.38,100.0,3.56,7.03,7.19,19.03,6,3.5,synthetic demo data
+KPI-01061,EMP0118,FIN,Financial Analyst,2026-08,159.02,94.62,2.51,7.37,8.09,11.61,8,5.03,synthetic demo data
+KPI-01062,EMP0118,FIN,Financial Analyst,2026-09,153.41,95.11,5.61,7.78,9.05,8.34,6,3.91,synthetic demo data
+KPI-01063,EMP0119,FIN,Financial Analyst,2026-01,173.03,94.98,5.55,8.99,6.41,10.75,6,3.47,synthetic demo data
+KPI-01064,EMP0119,FIN,Financial Analyst,2026-02,162.4,91.23,4.22,6.69,7.72,9.14,8,4.93,synthetic demo data
+KPI-01065,EMP0119,FIN,Financial Analyst,2026-03,167.79,93.57,4.21,8.19,7.23,16.7,6,3.58,synthetic demo data
+KPI-01066,EMP0119,FIN,Financial Analyst,2026-04,158.41,93.05,4.7,8.37,8.01,10.62,4,2.53,synthetic demo data
+KPI-01067,EMP0119,FIN,Financial Analyst,2026-05,176.76,88.5,6.33,7.26,8.52,15.42,7,3.96,synthetic demo data
+KPI-01068,EMP0119,FIN,Financial Analyst,2026-06,168.61,90.36,6.73,7.4,7.77,13.91,6,3.56,synthetic demo data
+KPI-01069,EMP0119,FIN,Financial Analyst,2026-07,185.21,93.72,4.96,7.71,5.89,13.03,7,3.78,synthetic demo data
+KPI-01070,EMP0119,FIN,Financial Analyst,2026-08,178.3,92.15,3.08,8.58,6.82,9.76,9,5.05,synthetic demo data
+KPI-01071,EMP0119,FIN,Financial Analyst,2026-09,183.15,90.46,5.96,8.34,9.09,16.64,3,1.64,synthetic demo data
+KPI-01072,EMP0120,FIN,Accounts Executive,2026-01,162.0,89.45,4.34,8.56,9.45,14.3,9,5.56,synthetic demo data
+KPI-01073,EMP0120,FIN,Accounts Executive,2026-02,172.14,95.42,2.47,7.83,9.25,21.93,10,5.81,synthetic demo data
+KPI-01074,EMP0120,FIN,Accounts Executive,2026-03,162.43,94.35,6.11,9.4,6.74,20.5,13,8.0,synthetic demo data
+KPI-01075,EMP0120,FIN,Accounts Executive,2026-04,156.29,93.42,3.37,9.28,9.52,24.25,9,5.76,synthetic demo data
+KPI-01076,EMP0120,FIN,Accounts Executive,2026-05,176.59,92.91,3.17,8.4,6.46,20.79,13,7.36,synthetic demo data
+KPI-01077,EMP0120,FIN,Accounts Executive,2026-06,170.11,95.7,3.07,8.89,10.0,27.73,12,7.05,synthetic demo data
+KPI-01078,EMP0120,FIN,Accounts Executive,2026-07,172.85,93.44,4.06,8.3,7.02,15.16,9,5.21,synthetic demo data
+KPI-01079,EMP0120,FIN,Accounts Executive,2026-08,164.17,88.23,3.67,8.8,7.44,18.2,8,4.87,synthetic demo data
+KPI-01080,EMP0120,FIN,Accounts Executive,2026-09,161.6,96.54,0.7,6.89,9.23,20.07,10,6.19,synthetic demo data
+KPI-01081,EMP0121,FIN,Accounts Executive,2026-01,153.16,96.56,5.45,7.81,6.75,12.79,5,3.26,synthetic demo data
+KPI-01082,EMP0121,FIN,Accounts Executive,2026-02,150.15,95.76,7.65,8.36,6.77,15.45,4,2.66,synthetic demo data
+KPI-01083,EMP0121,FIN,Accounts Executive,2026-03,152.64,97.92,6.79,6.09,5.57,20.76,5,3.28,synthetic demo data
+KPI-01084,EMP0121,FIN,Accounts Executive,2026-04,169.14,95.35,4.82,6.62,7.75,17.46,3,1.77,synthetic demo data
+KPI-01085,EMP0121,FIN,Accounts Executive,2026-05,151.92,97.8,4.22,6.41,7.85,16.44,4,2.63,synthetic demo data
+KPI-01086,EMP0121,FIN,Accounts Executive,2026-06,156.39,90.44,3.0,7.12,6.36,8.14,4,2.56,synthetic demo data
+KPI-01087,EMP0121,FIN,Accounts Executive,2026-07,146.28,96.21,1.3,5.81,3.47,13.7,2,1.37,synthetic demo data
+KPI-01088,EMP0121,FIN,Accounts Executive,2026-08,154.96,100.0,7.09,4.9,6.77,8.05,3,1.94,synthetic demo data
+KPI-01089,EMP0121,FIN,Accounts Executive,2026-09,153.81,98.89,5.38,6.15,7.39,3.02,4,2.6,synthetic demo data
+KPI-01090,EMP0122,MKT,Digital Marketing Specialist,2026-01,158.37,95.51,6.1,6.09,5.89,15.82,3,1.89,synthetic demo data
+KPI-01091,EMP0122,MKT,Digital Marketing Specialist,2026-02,174.9,89.48,4.24,5.64,9.32,9.14,4,2.29,synthetic demo data
+KPI-01092,EMP0122,MKT,Digital Marketing Specialist,2026-03,157.69,94.45,4.26,6.57,1.0,11.39,5,3.17,synthetic demo data
+KPI-01093,EMP0122,MKT,Digital Marketing Specialist,2026-04,168.84,98.66,4.49,7.66,4.31,14.24,4,2.37,synthetic demo data
+KPI-01094,EMP0122,MKT,Digital Marketing Specialist,2026-05,151.24,93.48,7.01,6.93,8.27,8.16,7,4.63,synthetic demo data
+KPI-01095,EMP0122,MKT,Digital Marketing Specialist,2026-06,155.46,94.9,5.13,7.49,6.37,8.2,7,4.5,synthetic demo data
+KPI-01096,EMP0122,MKT,Digital Marketing Specialist,2026-07,174.33,92.09,1.87,7.3,5.48,10.64,6,3.44,synthetic demo data
+KPI-01097,EMP0122,MKT,Digital Marketing Specialist,2026-08,157.01,93.19,4.62,8.42,6.03,6.21,2,1.27,synthetic demo data
+KPI-01098,EMP0122,MKT,Digital Marketing Specialist,2026-09,161.72,90.2,2.3,7.46,7.03,9.69,5,3.09,synthetic demo data
+KPI-01099,EMP0123,MKT,Digital Marketing Specialist,2026-01,169.67,96.5,4.24,8.89,6.96,13.41,1,0.59,synthetic demo data
+KPI-01100,EMP0123,MKT,Digital Marketing Specialist,2026-02,161.15,91.53,2.2,7.77,8.2,19.8,6,3.72,synthetic demo data
+KPI-01101,EMP0123,MKT,Digital Marketing Specialist,2026-03,181.78,97.03,0.0,6.95,6.57,16.58,4,2.2,synthetic demo data
+KPI-01102,EMP0123,MKT,Digital Marketing Specialist,2026-04,161.37,95.66,1.13,8.53,8.12,18.88,6,3.72,synthetic demo data
+KPI-01103,EMP0123,MKT,Digital Marketing Specialist,2026-05,173.25,91.49,0.0,6.2,7.16,19.02,5,2.89,synthetic demo data
+KPI-01104,EMP0123,MKT,Digital Marketing Specialist,2026-06,159.96,95.47,2.76,7.05,6.33,8.81,5,3.13,synthetic demo data
+KPI-01105,EMP0123,MKT,Digital Marketing Specialist,2026-07,173.05,96.54,0.67,9.02,6.25,19.9,9,5.2,synthetic demo data
+KPI-01106,EMP0123,MKT,Digital Marketing Specialist,2026-08,164.17,91.02,5.49,8.04,6.65,18.04,8,4.87,synthetic demo data
+KPI-01107,EMP0123,MKT,Digital Marketing Specialist,2026-09,174.11,93.92,2.35,6.24,8.16,14.11,7,4.02,synthetic demo data
+KPI-01108,EMP0124,MKT,Digital Marketing Specialist,2026-01,158.73,87.09,3.83,6.41,3.5,18.84,7,4.41,synthetic demo data
+KPI-01109,EMP0124,MKT,Digital Marketing Specialist,2026-02,158.43,84.79,3.0,7.31,9.76,10.4,8,5.05,synthetic demo data
+KPI-01110,EMP0124,MKT,Digital Marketing Specialist,2026-03,154.87,92.58,7.82,6.91,5.71,18.88,6,3.87,synthetic demo data
+KPI-01111,EMP0124,MKT,Digital Marketing Specialist,2026-04,167.3,90.01,8.13,7.63,7.42,13.73,5,2.99,synthetic demo data
+KPI-01112,EMP0124,MKT,Digital Marketing Specialist,2026-05,158.65,90.85,7.42,7.08,4.48,6.47,2,1.26,synthetic demo data
+KPI-01113,EMP0124,MKT,Digital Marketing Specialist,2026-06,163.56,88.4,6.37,7.47,6.66,14.96,6,3.67,synthetic demo data
+KPI-01114,EMP0124,MKT,Digital Marketing Specialist,2026-07,137.22,91.27,6.57,9.2,9.33,7.73,5,3.64,synthetic demo data
+KPI-01115,EMP0124,MKT,Digital Marketing Specialist,2026-08,146.27,97.66,7.5,7.71,7.01,18.73,8,5.47,synthetic demo data
+KPI-01116,EMP0124,MKT,Digital Marketing Specialist,2026-09,167.83,93.97,5.34,8.19,8.0,12.43,5,2.98,synthetic demo data
+KPI-01117,EMP0125,MKT,Content Strategist,2026-01,173.37,94.54,7.43,7.9,8.09,12.02,7,4.04,synthetic demo data
+KPI-01118,EMP0125,MKT,Content Strategist,2026-02,158.25,95.29,5.31,8.1,8.07,20.1,5,3.16,synthetic demo data
+KPI-01119,EMP0125,MKT,Content Strategist,2026-03,171.65,95.12,1.81,9.2,5.67,16.57,5,2.91,synthetic demo data
+KPI-01120,EMP0125,MKT,Content Strategist,2026-04,181.36,88.68,2.02,8.57,7.59,11.01,9,4.96,synthetic demo data
+KPI-01121,EMP0125,MKT,Content Strategist,2026-05,154.27,89.1,3.72,9.34,10.0,21.47,7,4.54,synthetic demo data
+KPI-01122,EMP0125,MKT,Content Strategist,2026-06,150.82,94.05,6.98,9.83,8.93,12.28,7,4.64,synthetic demo data
+KPI-01123,EMP0125,MKT,Content Strategist,2026-07,185.34,87.78,2.81,9.5,7.57,12.31,11,5.94,synthetic demo data
+KPI-01124,EMP0125,MKT,Content Strategist,2026-08,173.68,91.37,2.82,10.0,8.19,22.65,10,5.76,synthetic demo data
+KPI-01125,EMP0125,MKT,Content Strategist,2026-09,165.91,90.92,6.94,10.0,5.36,19.25,7,4.22,synthetic demo data
+KPI-01126,EMP0126,MKT,Content Strategist,2026-01,174.16,92.85,7.25,6.36,4.91,17.58,3,1.72,synthetic demo data
+KPI-01127,EMP0126,MKT,Content Strategist,2026-02,160.3,93.63,2.43,7.36,6.64,15.62,6,3.74,synthetic demo data
+KPI-01128,EMP0126,MKT,Content Strategist,2026-03,172.0,90.75,3.03,8.97,3.42,4.81,6,3.49,synthetic demo data
+KPI-01129,EMP0126,MKT,Content Strategist,2026-04,174.57,91.79,5.98,4.25,4.98,3.02,6,3.44,synthetic demo data
+KPI-01130,EMP0126,MKT,Content Strategist,2026-05,149.46,86.7,5.21,7.77,5.5,12.82,6,4.01,synthetic demo data
+KPI-01131,EMP0126,MKT,Content Strategist,2026-06,160.0,87.34,5.29,7.25,7.11,11.78,2,1.25,synthetic demo data
+KPI-01132,EMP0126,MKT,Content Strategist,2026-07,167.17,91.13,3.63,6.21,4.69,14.09,2,1.2,synthetic demo data
+KPI-01133,EMP0126,MKT,Content Strategist,2026-08,153.84,90.0,6.96,7.76,3.24,15.95,7,4.55,synthetic demo data
+KPI-01134,EMP0126,MKT,Content Strategist,2026-09,152.42,82.39,4.28,7.84,8.17,7.04,8,5.25,synthetic demo data
