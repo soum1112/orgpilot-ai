@@ -1,0 +1,20 @@
+target_id,process_id,case_type,activity,metric,target_value,unit,comparable,target_basis,source_doc,source_section,sop_wording,note
+TGT-001,HR-TAL-001,planning_submission,Submit location/function requirements,stage_elapsed_hours,240,hours,yes,SLA,HR-TAL-001,5 step 2,Late submissions escalated after Day 10,Calendar days assumed
+TGT-002,HR-TAL-001,planning_submission,Consolidate & review with CHRO,stage_elapsed_hours,72,hours,approximate,SLA,HR-TAL-001,5 step 5,Review completed within 3 business days,Business days approximated as 72 calendar hours
+TGT-003,HR-TAL-001,planning_submission,Issue planning calendar & templates,not_time_based,,,no,SLA,HR-TAL-001,5 step 1,100% of locations receive template by Week 1,"Coverage %, not a duration"
+TGT-004,HR-TAL-001,planning_submission,Validate against revenue forecast,not_time_based,,,no,SLA,HR-TAL-001,5 step 3,Variance >5% requires written justification,"Variance rule, not a duration"
+TGT-005,HR-TAL-002,hire,Source & screen candidates,stage_elapsed_hours,360,hours,approximate,timing_window,HR-TAL-002,5 step 2,Days 1-15,Window length derived from cumulative day boundaries
+TGT-006,HR-TAL-002,hire,Interview & offer,stage_elapsed_hours,240,hours,approximate,timing_window,HR-TAL-002,5 step 3,Days 15-25,Window length derived from cumulative day boundaries
+TGT-007,HR-TAL-002,hire,Onboard in HRIS,stage_elapsed_hours,24,hours,approximate,SLA,HR-TAL-002,5 step 4,Record created within 24 hours of joining,SOP clock starts at joining date; log measures from previous step completion
+TGT-008,HR-TAL-002,hire,Induction & role setup,stage_elapsed_hours,168,hours,approximate,timing_window,HR-TAL-002,5 step 5,Week 1,
+TGT-009,HR-TAL-002,exit,Exit processing,stage_elapsed_hours,720,hours,yes,SLA,HR-TAL-002,5 step 8,Full-and-final settlement within 30 days of last working day,Calendar days assumed
+TGT-010,SCM-ECO-001,vendor_onboarding,RPP documentation submission,stage_elapsed_hours,240,hours,approximate,timing_window,SCM-ECO-001,5 step 2,Days 1-10,Window length derived
+TGT-011,SCM-ECO-001,vendor_onboarding,RPP compliance assessment,stage_elapsed_hours,240,hours,approximate,timing_window,SCM-ECO-001,5 step 3,Days 10-20,Window length derived
+TGT-012,SCM-ECO-001,vendor_onboarding,On-site audit,stage_elapsed_hours,360,hours,approximate,timing_window,SCM-ECO-001,5 step 4,Days 20-35,Window length derived
+TGT-013,SCM-ECO-001,vendor_onboarding,Commercial & compliance approval,stage_elapsed_hours,120,hours,approximate,timing_window,SCM-ECO-001,5 step 5,Days 35-40,Window length derived
+TGT-014,SCM-ECO-001,vendor_onboarding,*,case_cycle_hours,960,hours,yes,KPI,SCM-ECO-001,7 KPI: Onboarding cycle time,<=40 days,Identification to vendor master creation
+TGT-015,SCM-ECO-002,partner_onboarding,Candidate identification & screening,stage_elapsed_hours,336,hours,approximate,timing_window,SCM-ECO-002,5 step 2,Weeks 1-2,
+TGT-016,SCM-ECO-002,partner_onboarding,Orientation & training,stage_elapsed_hours,168,hours,approximate,timing_window,SCM-ECO-002,5 step 3,Week 3,
+TGT-017,SCM-ECO-002,partner_onboarding,Credit linkage & initial stock,stage_elapsed_hours,168,hours,approximate,timing_window,SCM-ECO-002,5 step 4,Week 4,
+TGT-018,SCM-ECO-002,partner_onboarding,Partner activation in RDMS,stage_elapsed_hours,120,hours,approximate,SLA,SCM-ECO-002,5 step 5,Record created within 5 business days of stock issuance,Business days approximated as 120 calendar hours
+TGT-019,SCM-ECO-002,order_fulfilment,Order fulfillment & delivery,stage_elapsed_hours,168,hours,yes,SLA,SCM-ECO-002,5 step 7,Delivery within 7 days of order placement,SOP allows seasonal exceptions (monsoon) - not modelled in the log
