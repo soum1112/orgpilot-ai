@@ -1,0 +1,1416 @@
+issue_id,issue_type,case_id,event_id,detail
+ISS-00001,abandoned_case,HRTAL1-00003,,Case stops after 1 completed activities
+ISS-00002,abandoned_case,HRTAL1-00004,,Case stops after 1 completed activities
+ISS-00003,rework_repeated_activity,HRTAL1-00009,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00004,in_progress_at_cutoff,HRTAL1-00013,,"Case still open at extraction date (informational, not a defect)"
+ISS-00005,rework_repeated_activity,HRTAL1-00014,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00006,abandoned_case,HRTAL1-00021,,Case stops after 6 completed activities
+ISS-00007,rework_repeated_activity,HRTAL1-00025,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00008,abandoned_case,HRTAL1-00042,,Case stops after 3 completed activities
+ISS-00009,rework_repeated_activity,HRTAL1-00043,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00010,abandoned_case,HRTAL1-00049,,Case stops after 2 completed activities
+ISS-00011,out_of_order_sequence,HRTAL1-00052,,'ExCo / Board approval' and 'Publish approved budget into HRIS' logged in swapped order
+ISS-00012,abandoned_case,HRTAL1-00068,,Case stops after 5 completed activities
+ISS-00013,out_of_order_sequence,HRTAL1-00075,,'Consolidate & review with CHRO' and 'ExCo / Board approval' logged in swapped order
+ISS-00014,rework_repeated_activity,HRTAL1-00088,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00015,rework_repeated_activity,HRTAL1-00091,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00016,rework_repeated_activity,HRTAL1-00105,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00017,out_of_order_sequence,HRTAL1-00118,,'Consolidate & review with CHRO' and 'ExCo / Board approval' logged in swapped order
+ISS-00018,missing_activity,HRTAL1-00133,,Mandatory/performed activity 'Submit location/function requirements' has no events
+ISS-00019,rework_repeated_activity,HRTAL1-00137,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00020,in_progress_at_cutoff,HRTAL1-00139,,"Case still open at extraction date (informational, not a defect)"
+ISS-00021,rework_repeated_activity,HRTAL1-00141,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00022,rework_repeated_activity,HRTAL1-00143,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00023,out_of_order_sequence,HRTAL1-00156,,'Issue planning calendar & templates' and 'Submit location/function requirements' logged in swapped order
+ISS-00024,out_of_order_sequence,HRTAL1-00166,,'Model diversity & attrition scenarios' and 'Consolidate & review with CHRO' logged in swapped order
+ISS-00025,abandoned_case,HRTAL1-00174,,Case stops after 1 completed activities
+ISS-00026,rework_repeated_activity,HRTAL1-00175,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00027,missing_activity,HRTAL1-00177,,Mandatory/performed activity 'Consolidate & review with CHRO' has no events
+ISS-00028,in_progress_at_cutoff,HRTAL1-00182,,"Case still open at extraction date (informational, not a defect)"
+ISS-00029,missing_activity,HRTAL1-00184,,Mandatory/performed activity 'Validate against revenue forecast' has no events
+ISS-00030,rework_repeated_activity,HRTAL1-00196,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00031,missing_activity,HRTAL1-00200,,Mandatory/performed activity 'Validate against revenue forecast' has no events
+ISS-00032,rework_repeated_activity,HRTAL1-00201,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00033,rework_repeated_activity,HRTAL1-00211,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00034,rework_repeated_activity,HRTAL1-00213,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00035,rework_repeated_activity,HRTAL1-00215,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00036,rework_repeated_activity,HRTAL1-00218,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00037,in_progress_at_cutoff,HRTAL1-00228,,"Case still open at extraction date (informational, not a defect)"
+ISS-00038,rework_repeated_activity,HRTAL1-00229,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00039,rework_repeated_activity,HRTAL1-00240,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00040,rework_repeated_activity,HRTAL1-00241,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00041,missing_activity,HRTAL1-00256,,Mandatory/performed activity 'ExCo / Board approval' has no events
+ISS-00042,out_of_order_sequence,HRTAL1-00260,,'Consolidate & review with CHRO' and 'ExCo / Board approval' logged in swapped order
+ISS-00043,negative_duration,HRTAL1-00273,,'Publish approved budget into HRIS' completed before it started
+ISS-00044,rework_repeated_activity,HRTAL1-00279,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00045,abandoned_case,HRTAL1-00280,,Case stops after 3 completed activities
+ISS-00046,abandoned_case,HRTAL1-00287,,Case stops after 1 completed activities
+ISS-00047,in_progress_at_cutoff,HRTAL1-00290,,"Case still open at extraction date (informational, not a defect)"
+ISS-00048,missing_activity,HRTAL1-00295,,Mandatory/performed activity 'Consolidate & review with CHRO' has no events
+ISS-00049,abandoned_case,HRTAL1-00298,,Case stops after 2 completed activities
+ISS-00050,negative_duration,HRTAL1-00303,,'Validate against revenue forecast' completed before it started
+ISS-00051,rework_repeated_activity,HRTAL1-00306,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00052,rework_repeated_activity,HRTAL1-00315,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00053,in_progress_at_cutoff,HRTAL1-00315,,"Case still open at extraction date (informational, not a defect)"
+ISS-00054,out_of_order_sequence,HRTAL1-00321,,'Model diversity & attrition scenarios' and 'Consolidate & review with CHRO' logged in swapped order
+ISS-00055,rework_repeated_activity,HRTAL1-00327,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00056,abandoned_case,HRTAL1-00330,,Case stops after 4 completed activities
+ISS-00057,rework_repeated_activity,HRTAL1-00334,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00058,rework_repeated_activity,HRTAL1-00337,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00059,in_progress_at_cutoff,HRTAL1-00342,,"Case still open at extraction date (informational, not a defect)"
+ISS-00060,in_progress_at_cutoff,HRTAL1-00354,,"Case still open at extraction date (informational, not a defect)"
+ISS-00061,missing_activity,HRTAL1-00356,,Mandatory/performed activity 'ExCo / Board approval' has no events
+ISS-00062,missing_activity,HRTAL1-00357,,Mandatory/performed activity 'ExCo / Board approval' has no events
+ISS-00063,out_of_order_sequence,HRTAL1-00361,,'Submit location/function requirements' and 'Validate against revenue forecast' logged in swapped order
+ISS-00064,rework_repeated_activity,HRTAL1-00364,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00065,rework_repeated_activity,HRTAL1-00366,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00066,rework_repeated_activity,HRTAL1-00378,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00067,rework_repeated_activity,HRTAL1-00379,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00068,rework_repeated_activity,HRTAL1-00381,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00069,negative_duration,HRTAL1-00420,,'Publish approved budget into HRIS' completed before it started
+ISS-00070,out_of_order_sequence,HRTAL1-00430,,'ExCo / Board approval' and 'Publish approved budget into HRIS' logged in swapped order
+ISS-00071,rework_repeated_activity,HRTAL1-00432,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00072,out_of_order_sequence,HRTAL1-00433,,'Issue planning calendar & templates' and 'Submit location/function requirements' logged in swapped order
+ISS-00073,out_of_order_sequence,HRTAL1-00436,,'Issue planning calendar & templates' and 'Submit location/function requirements' logged in swapped order
+ISS-00074,rework_repeated_activity,HRTAL1-00441,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00075,missing_activity,HRTAL1-00442,,Mandatory/performed activity 'Submit location/function requirements' has no events
+ISS-00076,missing_activity,HRTAL1-00443,,Mandatory/performed activity 'Model diversity & attrition scenarios' has no events
+ISS-00077,rework_repeated_activity,HRTAL1-00448,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00078,rework_repeated_activity,HRTAL1-00449,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00079,abandoned_case,HRTAL1-00450,,Case stops after 5 completed activities
+ISS-00080,rework_repeated_activity,HRTAL1-00452,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00081,out_of_order_sequence,HRTAL1-00459,,'Validate against revenue forecast' and 'Model diversity & attrition scenarios' logged in swapped order
+ISS-00082,abandoned_case,HRTAL1-00460,,Case stops after 4 completed activities
+ISS-00083,out_of_order_sequence,HRTAL1-00465,,'Validate against revenue forecast' and 'Model diversity & attrition scenarios' logged in swapped order
+ISS-00084,in_progress_at_cutoff,HRTAL1-00473,,"Case still open at extraction date (informational, not a defect)"
+ISS-00085,out_of_order_sequence,HRTAL1-00477,,'Consolidate & review with CHRO' and 'ExCo / Board approval' logged in swapped order
+ISS-00086,abandoned_case,HRTAL1-00482,,Case stops after 3 completed activities
+ISS-00087,abandoned_case,HRTAL1-00487,,Case stops after 4 completed activities
+ISS-00088,rework_repeated_activity,HRTAL1-00492,,"'Consolidate & review with CHRO' performed twice (legitimate rework, not an error)"
+ISS-00089,rework_repeated_activity,HRTAL2H-00002,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00090,rework_repeated_activity,HRTAL2H-00008,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00091,rework_repeated_activity,HRTAL2H-00014,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00092,missing_activity,HRTAL2H-00014,,Mandatory/performed activity 'Source & screen candidates' has no events
+ISS-00093,rework_repeated_activity,HRTAL2H-00015,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00094,rework_repeated_activity,HRTAL2H-00017,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00095,rework_repeated_activity,HRTAL2H-00023,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00096,rework_repeated_activity,HRTAL2H-00028,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00097,rework_repeated_activity,HRTAL2H-00031,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00098,rework_repeated_activity,HRTAL2H-00036,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00099,rework_repeated_activity,HRTAL2H-00040,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00100,rework_repeated_activity,HRTAL2H-00042,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00101,abandoned_case,HRTAL2H-00042,,Case stops after 2 completed activities
+ISS-00102,rework_repeated_activity,HRTAL2H-00048,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00103,rework_repeated_activity,HRTAL2H-00053,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00104,rework_repeated_activity,HRTAL2H-00060,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00105,rework_repeated_activity,HRTAL2H-00064,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00106,out_of_order_sequence,HRTAL2H-00070,,'Release requisition' and 'Source & screen candidates' logged in swapped order
+ISS-00107,rework_repeated_activity,HRTAL2H-00072,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00108,rework_repeated_activity,HRTAL2H-00080,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00109,abandoned_case,HRTAL2H-00081,,Case stops after 1 completed activities
+ISS-00110,abandoned_case,HRTAL2H-00084,,Case stops after 1 completed activities
+ISS-00111,in_progress_at_cutoff,HRTAL2H-00088,,"Case still open at extraction date (informational, not a defect)"
+ISS-00112,abandoned_case,HRTAL2H-00092,,Case stops after 1 completed activities
+ISS-00113,rework_repeated_activity,HRTAL2H-00100,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00114,in_progress_at_cutoff,HRTAL2H-00112,,"Case still open at extraction date (informational, not a defect)"
+ISS-00115,abandoned_case,HRTAL2H-00125,,Case stops after 1 completed activities
+ISS-00116,in_progress_at_cutoff,HRTAL2H-00127,,"Case still open at extraction date (informational, not a defect)"
+ISS-00117,missing_activity,HRTAL2H-00128,,Mandatory/performed activity 'Interview & offer' has no events
+ISS-00118,rework_repeated_activity,HRTAL2H-00134,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00119,in_progress_at_cutoff,HRTAL2H-00137,,"Case still open at extraction date (informational, not a defect)"
+ISS-00120,out_of_order_sequence,HRTAL2H-00143,,'Release requisition' and 'Source & screen candidates' logged in swapped order
+ISS-00121,rework_repeated_activity,HRTAL2H-00150,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00122,rework_repeated_activity,HRTAL2H-00153,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00123,rework_repeated_activity,HRTAL2H-00154,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00124,out_of_order_sequence,HRTAL2H-00163,,'Onboard in HRIS' and 'Induction & role setup' logged in swapped order
+ISS-00125,rework_repeated_activity,HRTAL2H-00171,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00126,rework_repeated_activity,HRTAL2H-00171,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00127,abandoned_case,HRTAL2H-00171,,Case stops after 2 completed activities
+ISS-00128,rework_repeated_activity,HRTAL2H-00174,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00129,in_progress_at_cutoff,HRTAL2H-00177,,"Case still open at extraction date (informational, not a defect)"
+ISS-00130,out_of_order_sequence,HRTAL2H-00179,,'Onboard in HRIS' and 'Induction & role setup' logged in swapped order
+ISS-00131,in_progress_at_cutoff,HRTAL2H-00186,,"Case still open at extraction date (informational, not a defect)"
+ISS-00132,in_progress_at_cutoff,HRTAL2H-00189,,"Case still open at extraction date (informational, not a defect)"
+ISS-00133,rework_repeated_activity,HRTAL2H-00209,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00134,rework_repeated_activity,HRTAL2H-00210,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00135,in_progress_at_cutoff,HRTAL2H-00214,,"Case still open at extraction date (informational, not a defect)"
+ISS-00136,rework_repeated_activity,HRTAL2H-00221,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00137,missing_activity,HRTAL2H-00225,,Mandatory/performed activity 'Interview & offer' has no events
+ISS-00138,in_progress_at_cutoff,HRTAL2H-00234,,"Case still open at extraction date (informational, not a defect)"
+ISS-00139,rework_repeated_activity,HRTAL2H-00238,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00140,in_progress_at_cutoff,HRTAL2H-00247,,"Case still open at extraction date (informational, not a defect)"
+ISS-00141,rework_repeated_activity,HRTAL2H-00256,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00142,in_progress_at_cutoff,HRTAL2H-00257,,"Case still open at extraction date (informational, not a defect)"
+ISS-00143,rework_repeated_activity,HRTAL2H-00267,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00144,rework_repeated_activity,HRTAL2H-00275,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00145,out_of_order_sequence,HRTAL2H-00284,,'Interview & offer' and 'Onboard in HRIS' logged in swapped order
+ISS-00146,abandoned_case,HRTAL2H-00301,,Case stops after 3 completed activities
+ISS-00147,in_progress_at_cutoff,HRTAL2H-00303,,"Case still open at extraction date (informational, not a defect)"
+ISS-00148,rework_repeated_activity,HRTAL2H-00308,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00149,missing_activity,HRTAL2H-00313,,Mandatory/performed activity 'Onboard in HRIS' has no events
+ISS-00150,rework_repeated_activity,HRTAL2H-00319,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00151,out_of_order_sequence,HRTAL2H-00325,,'Onboard in HRIS' and 'Induction & role setup' logged in swapped order
+ISS-00152,in_progress_at_cutoff,HRTAL2H-00331,,"Case still open at extraction date (informational, not a defect)"
+ISS-00153,rework_repeated_activity,HRTAL2H-00334,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00154,rework_repeated_activity,HRTAL2H-00340,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00155,rework_repeated_activity,HRTAL2H-00348,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00156,in_progress_at_cutoff,HRTAL2H-00352,,"Case still open at extraction date (informational, not a defect)"
+ISS-00157,out_of_order_sequence,HRTAL2H-00354,,'Release requisition' and 'Source & screen candidates' logged in swapped order
+ISS-00158,in_progress_at_cutoff,HRTAL2H-00360,,"Case still open at extraction date (informational, not a defect)"
+ISS-00159,rework_repeated_activity,HRTAL2H-00368,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00160,rework_repeated_activity,HRTAL2H-00369,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00161,rework_repeated_activity,HRTAL2H-00372,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00162,in_progress_at_cutoff,HRTAL2H-00387,,"Case still open at extraction date (informational, not a defect)"
+ISS-00163,rework_repeated_activity,HRTAL2H-00395,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00164,negative_duration,HRTAL2H-00408,,'Release requisition' completed before it started
+ISS-00165,rework_repeated_activity,HRTAL2H-00410,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00166,missing_activity,HRTAL2H-00413,,Mandatory/performed activity 'Source & screen candidates' has no events
+ISS-00167,abandoned_case,HRTAL2H-00424,,Case stops after 1 completed activities
+ISS-00168,abandoned_case,HRTAL2H-00431,,Case stops after 2 completed activities
+ISS-00169,rework_repeated_activity,HRTAL2H-00432,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00170,out_of_order_sequence,HRTAL2H-00434,,'Release requisition' and 'Source & screen candidates' logged in swapped order
+ISS-00171,rework_repeated_activity,HRTAL2H-00442,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00172,abandoned_case,HRTAL2H-00449,,Case stops after 3 completed activities
+ISS-00173,out_of_order_sequence,HRTAL2H-00458,,'Onboard in HRIS' and 'Induction & role setup' logged in swapped order
+ISS-00174,rework_repeated_activity,HRTAL2H-00462,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00175,rework_repeated_activity,HRTAL2H-00476,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00176,out_of_order_sequence,HRTAL2H-00492,,'Onboard in HRIS' and 'Induction & role setup' logged in swapped order
+ISS-00177,out_of_order_sequence,HRTAL2H-00494,,'Interview & offer' and 'Onboard in HRIS' logged in swapped order
+ISS-00178,rework_repeated_activity,HRTAL2H-00502,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00179,out_of_order_sequence,HRTAL2H-00502,,'Source & screen candidates' and 'Interview & offer' logged in swapped order
+ISS-00180,rework_repeated_activity,HRTAL2H-00507,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00181,rework_repeated_activity,HRTAL2H-00508,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00182,missing_activity,HRTAL2H-00518,,Mandatory/performed activity 'Source & screen candidates' has no events
+ISS-00183,rework_repeated_activity,HRTAL2H-00522,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00184,abandoned_case,HRTAL2H-00523,,Case stops after 1 completed activities
+ISS-00185,out_of_order_sequence,HRTAL2H-00524,,'Source & screen candidates' and 'Interview & offer' logged in swapped order
+ISS-00186,rework_repeated_activity,HRTAL2H-00526,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00187,abandoned_case,HRTAL2H-00526,,Case stops after 4 completed activities
+ISS-00188,rework_repeated_activity,HRTAL2H-00531,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00189,rework_repeated_activity,HRTAL2H-00537,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00190,negative_duration,HRTAL2H-00544,,'Onboard in HRIS' completed before it started
+ISS-00191,out_of_order_sequence,HRTAL2H-00545,,'Interview & offer' and 'Onboard in HRIS' logged in swapped order
+ISS-00192,rework_repeated_activity,HRTAL2H-00549,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00193,abandoned_case,HRTAL2H-00550,,Case stops after 2 completed activities
+ISS-00194,rework_repeated_activity,HRTAL2H-00554,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00195,rework_repeated_activity,HRTAL2H-00555,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00196,abandoned_case,HRTAL2H-00559,,Case stops after 3 completed activities
+ISS-00197,missing_activity,HRTAL2H-00562,,Mandatory/performed activity 'Onboard in HRIS' has no events
+ISS-00198,rework_repeated_activity,HRTAL2H-00568,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00199,rework_repeated_activity,HRTAL2H-00571,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00200,out_of_order_sequence,HRTAL2H-00575,,'Source & screen candidates' and 'Interview & offer' logged in swapped order
+ISS-00201,rework_repeated_activity,HRTAL2H-00580,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00202,rework_repeated_activity,HRTAL2H-00582,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00203,rework_repeated_activity,HRTAL2H-00584,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00204,rework_repeated_activity,HRTAL2H-00592,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00205,negative_duration,HRTAL2H-00593,,'Induction & role setup' completed before it started
+ISS-00206,rework_repeated_activity,HRTAL2H-00595,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00207,rework_repeated_activity,HRTAL2H-00601,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00208,rework_repeated_activity,HRTAL2H-00602,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00209,rework_repeated_activity,HRTAL2H-00607,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00210,negative_duration,HRTAL2H-00618,,'Release requisition' completed before it started
+ISS-00211,negative_duration,HRTAL2H-00624,,'Release requisition' completed before it started
+ISS-00212,rework_repeated_activity,HRTAL2H-00625,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00213,in_progress_at_cutoff,HRTAL2H-00625,,"Case still open at extraction date (informational, not a defect)"
+ISS-00214,out_of_order_sequence,HRTAL2H-00627,,'Interview & offer' and 'Onboard in HRIS' logged in swapped order
+ISS-00215,missing_activity,HRTAL2H-00632,,Mandatory/performed activity 'Onboard in HRIS' has no events
+ISS-00216,out_of_order_sequence,HRTAL2H-00636,,'Interview & offer' and 'Onboard in HRIS' logged in swapped order
+ISS-00217,out_of_order_sequence,HRTAL2H-00645,,'Release requisition' and 'Source & screen candidates' logged in swapped order
+ISS-00218,rework_repeated_activity,HRTAL2H-00647,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00219,in_progress_at_cutoff,HRTAL2H-00648,,"Case still open at extraction date (informational, not a defect)"
+ISS-00220,rework_repeated_activity,HRTAL2H-00652,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00221,abandoned_case,HRTAL2H-00654,,Case stops after 1 completed activities
+ISS-00222,rework_repeated_activity,HRTAL2H-00661,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00223,abandoned_case,HRTAL2H-00668,,Case stops after 2 completed activities
+ISS-00224,rework_repeated_activity,HRTAL2H-00671,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00225,in_progress_at_cutoff,HRTAL2H-00674,,"Case still open at extraction date (informational, not a defect)"
+ISS-00226,out_of_order_sequence,HRTAL2H-00677,,'Release requisition' and 'Source & screen candidates' logged in swapped order
+ISS-00227,rework_repeated_activity,HRTAL2H-00678,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00228,rework_repeated_activity,HRTAL2H-00684,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00229,rework_repeated_activity,HRTAL2H-00685,,"'Interview & offer' performed twice (legitimate rework, not an error)"
+ISS-00230,missing_activity,HRTAL2H-00690,,Mandatory/performed activity 'Onboard in HRIS' has no events
+ISS-00231,rework_repeated_activity,HRTAL2H-00696,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00232,rework_repeated_activity,HRTAL2H-00697,,"'Source & screen candidates' performed twice (legitimate rework, not an error)"
+ISS-00233,out_of_order_sequence,HRTAL2X-00003,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00234,out_of_order_sequence,HRTAL2X-00013,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00235,out_of_order_sequence,HRTAL2X-00014,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00236,out_of_order_sequence,HRTAL2X-00016,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00237,out_of_order_sequence,HRTAL2X-00018,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00238,out_of_order_sequence,HRTAL2X-00035,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00239,out_of_order_sequence,HRTAL2X-00039,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00240,out_of_order_sequence,HRTAL2X-00058,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00241,out_of_order_sequence,HRTAL2X-00064,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00242,out_of_order_sequence,HRTAL2X-00086,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00243,out_of_order_sequence,HRTAL2X-00101,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00244,out_of_order_sequence,HRTAL2X-00123,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00245,out_of_order_sequence,HRTAL2X-00135,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00246,out_of_order_sequence,HRTAL2X-00144,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00247,out_of_order_sequence,HRTAL2X-00160,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00248,out_of_order_sequence,HRTAL2X-00163,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00249,out_of_order_sequence,HRTAL2X-00171,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00250,out_of_order_sequence,HRTAL2X-00181,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00251,in_progress_at_cutoff,HRTAL2X-00187,,"Case still open at extraction date (informational, not a defect)"
+ISS-00252,out_of_order_sequence,HRTAL2X-00188,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00253,out_of_order_sequence,HRTAL2X-00237,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00254,out_of_order_sequence,HRTAL2X-00239,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00255,out_of_order_sequence,HRTAL2X-00247,,'Exit trigger recorded' and 'Exit processing' logged in swapped order
+ISS-00256,rework_repeated_activity,SCMECO1-00001,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00257,out_of_order_sequence,SCMECO1-00008,,'RPP documentation submission' and 'RPP compliance assessment' logged in swapped order
+ISS-00258,rework_repeated_activity,SCMECO1-00009,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00259,rework_repeated_activity,SCMECO1-00015,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00260,rework_repeated_activity,SCMECO1-00037,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00261,out_of_order_sequence,SCMECO1-00037,,'RPP compliance assessment' and 'Commercial & compliance approval' logged in swapped order
+ISS-00262,abandoned_case,SCMECO1-00040,,Case stops after 1 completed activities
+ISS-00263,missing_activity,SCMECO1-00043,,Mandatory/performed activity 'RPP compliance assessment' has no events
+ISS-00264,rework_repeated_activity,SCMECO1-00045,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00265,out_of_order_sequence,SCMECO1-00057,,'RPP compliance assessment' and 'On-site audit' logged in swapped order
+ISS-00266,missing_activity,SCMECO1-00062,,Mandatory/performed activity 'RPP documentation submission' has no events
+ISS-00267,rework_repeated_activity,SCMECO1-00068,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00268,missing_activity,SCMECO1-00070,,Mandatory/performed activity 'On-site audit' has no events
+ISS-00269,in_progress_at_cutoff,SCMECO1-00070,,"Case still open at extraction date (informational, not a defect)"
+ISS-00270,out_of_order_sequence,SCMECO1-00074,,'RPP compliance assessment' and 'Commercial & compliance approval' logged in swapped order
+ISS-00271,rework_repeated_activity,SCMECO1-00075,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00272,rework_repeated_activity,SCMECO1-00080,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00273,out_of_order_sequence,SCMECO1-00085,,'Vendor identification' and 'RPP documentation submission' logged in swapped order
+ISS-00274,rework_repeated_activity,SCMECO1-00088,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00275,abandoned_case,SCMECO1-00094,,Case stops after 2 completed activities
+ISS-00276,rework_repeated_activity,SCMECO1-00097,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00277,in_progress_at_cutoff,SCMECO1-00099,,"Case still open at extraction date (informational, not a defect)"
+ISS-00278,rework_repeated_activity,SCMECO1-00100,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00279,abandoned_case,SCMECO1-00102,,Case stops after 2 completed activities
+ISS-00280,missing_activity,SCMECO1-00116,,Mandatory/performed activity 'RPP compliance assessment' has no events
+ISS-00281,out_of_order_sequence,SCMECO1-00121,,'RPP compliance assessment' and 'Commercial & compliance approval' logged in swapped order
+ISS-00282,abandoned_case,SCMECO1-00122,,Case stops after 3 completed activities
+ISS-00283,rework_repeated_activity,SCMECO1-00124,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00284,missing_activity,SCMECO1-00124,,Mandatory/performed activity 'Commercial & compliance approval' has no events
+ISS-00285,in_progress_at_cutoff,SCMECO1-00124,,"Case still open at extraction date (informational, not a defect)"
+ISS-00286,rework_repeated_activity,SCMECO1-00134,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00287,rework_repeated_activity,SCMECO1-00135,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00288,rework_repeated_activity,SCMECO1-00139,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00289,rework_repeated_activity,SCMECO1-00141,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00290,missing_activity,SCMECO1-00149,,Mandatory/performed activity 'On-site audit' has no events
+ISS-00291,missing_activity,SCMECO1-00162,,Mandatory/performed activity 'Commercial & compliance approval' has no events
+ISS-00292,in_progress_at_cutoff,SCMECO1-00162,,"Case still open at extraction date (informational, not a defect)"
+ISS-00293,negative_duration,SCMECO1-00169,,'On-site audit' completed before it started
+ISS-00294,negative_duration,SCMECO1-00176,,'On-site audit' completed before it started
+ISS-00295,abandoned_case,SCMECO1-00177,,Case stops after 2 completed activities
+ISS-00296,rework_repeated_activity,SCMECO1-00182,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00297,missing_activity,SCMECO1-00182,,Mandatory/performed activity 'RPP compliance assessment' has no events
+ISS-00298,rework_repeated_activity,SCMECO1-00183,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00299,abandoned_case,SCMECO1-00189,,Case stops after 3 completed activities
+ISS-00300,rework_repeated_activity,SCMECO1-00191,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00301,rework_repeated_activity,SCMECO1-00196,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00302,rework_repeated_activity,SCMECO1-00197,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00303,rework_repeated_activity,SCMECO1-00204,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00304,rework_repeated_activity,SCMECO1-00208,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00305,rework_repeated_activity,SCMECO1-00209,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00306,out_of_order_sequence,SCMECO1-00216,,'Commercial & compliance approval' and 'Vendor master creation' logged in swapped order
+ISS-00307,missing_activity,SCMECO1-00221,,Mandatory/performed activity 'On-site audit' has no events
+ISS-00308,in_progress_at_cutoff,SCMECO1-00221,,"Case still open at extraction date (informational, not a defect)"
+ISS-00309,abandoned_case,SCMECO1-00230,,Case stops after 3 completed activities
+ISS-00310,rework_repeated_activity,SCMECO1-00232,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00311,abandoned_case,SCMECO1-00233,,Case stops after 2 completed activities
+ISS-00312,abandoned_case,SCMECO1-00242,,Case stops after 2 completed activities
+ISS-00313,missing_activity,SCMECO1-00246,,Mandatory/performed activity 'RPP compliance assessment' has no events
+ISS-00314,out_of_order_sequence,SCMECO1-00254,,'RPP compliance assessment' and 'Commercial & compliance approval' logged in swapped order
+ISS-00315,out_of_order_sequence,SCMECO1-00270,,'RPP compliance assessment' and 'Commercial & compliance approval' logged in swapped order
+ISS-00316,abandoned_case,SCMECO1-00277,,Case stops after 5 completed activities
+ISS-00317,abandoned_case,SCMECO1-00278,,Case stops after 2 completed activities
+ISS-00318,rework_repeated_activity,SCMECO1-00292,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00319,out_of_order_sequence,SCMECO1-00298,,'Commercial & compliance approval' and 'Vendor master creation' logged in swapped order
+ISS-00320,in_progress_at_cutoff,SCMECO1-00299,,"Case still open at extraction date (informational, not a defect)"
+ISS-00321,abandoned_case,SCMECO1-00308,,Case stops after 2 completed activities
+ISS-00322,rework_repeated_activity,SCMECO1-00310,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00323,in_progress_at_cutoff,SCMECO1-00317,,"Case still open at extraction date (informational, not a defect)"
+ISS-00324,missing_activity,SCMECO1-00325,,Mandatory/performed activity 'Commercial & compliance approval' has no events
+ISS-00325,rework_repeated_activity,SCMECO1-00327,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00326,rework_repeated_activity,SCMECO1-00333,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00327,rework_repeated_activity,SCMECO1-00334,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00328,abandoned_case,SCMECO1-00334,,Case stops after 2 completed activities
+ISS-00329,rework_repeated_activity,SCMECO1-00336,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00330,in_progress_at_cutoff,SCMECO1-00336,,"Case still open at extraction date (informational, not a defect)"
+ISS-00331,in_progress_at_cutoff,SCMECO1-00338,,"Case still open at extraction date (informational, not a defect)"
+ISS-00332,abandoned_case,SCMECO1-00339,,Case stops after 4 completed activities
+ISS-00333,abandoned_case,SCMECO1-00343,,Case stops after 2 completed activities
+ISS-00334,missing_activity,SCMECO1-00346,,Mandatory/performed activity 'RPP compliance assessment' has no events
+ISS-00335,rework_repeated_activity,SCMECO1-00349,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00336,rework_repeated_activity,SCMECO1-00352,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00337,out_of_order_sequence,SCMECO1-00352,,'RPP compliance assessment' and 'On-site audit' logged in swapped order
+ISS-00338,in_progress_at_cutoff,SCMECO1-00363,,"Case still open at extraction date (informational, not a defect)"
+ISS-00339,abandoned_case,SCMECO1-00368,,Case stops after 1 completed activities
+ISS-00340,rework_repeated_activity,SCMECO1-00375,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00341,out_of_order_sequence,SCMECO1-00375,,'Vendor identification' and 'RPP documentation submission' logged in swapped order
+ISS-00342,in_progress_at_cutoff,SCMECO1-00382,,"Case still open at extraction date (informational, not a defect)"
+ISS-00343,rework_repeated_activity,SCMECO1-00388,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00344,abandoned_case,SCMECO1-00395,,Case stops after 1 completed activities
+ISS-00345,rework_repeated_activity,SCMECO1-00397,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00346,rework_repeated_activity,SCMECO1-00402,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00347,abandoned_case,SCMECO1-00407,,Case stops after 5 completed activities
+ISS-00348,rework_repeated_activity,SCMECO1-00409,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00349,rework_repeated_activity,SCMECO1-00413,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00350,rework_repeated_activity,SCMECO1-00418,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00351,rework_repeated_activity,SCMECO1-00422,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00352,rework_repeated_activity,SCMECO1-00423,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00353,abandoned_case,SCMECO1-00438,,Case stops after 1 completed activities
+ISS-00354,rework_repeated_activity,SCMECO1-00443,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00355,abandoned_case,SCMECO1-00445,,Case stops after 3 completed activities
+ISS-00356,in_progress_at_cutoff,SCMECO1-00445,,"Case still open at extraction date (informational, not a defect)"
+ISS-00357,abandoned_case,SCMECO1-00454,,Case stops after 2 completed activities
+ISS-00358,rework_repeated_activity,SCMECO1-00465,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00359,abandoned_case,SCMECO1-00466,,Case stops after 4 completed activities
+ISS-00360,rework_repeated_activity,SCMECO1-00467,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00361,rework_repeated_activity,SCMECO1-00473,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00362,in_progress_at_cutoff,SCMECO1-00475,,"Case still open at extraction date (informational, not a defect)"
+ISS-00363,rework_repeated_activity,SCMECO1-00476,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00364,in_progress_at_cutoff,SCMECO1-00476,,"Case still open at extraction date (informational, not a defect)"
+ISS-00365,in_progress_at_cutoff,SCMECO1-00480,,"Case still open at extraction date (informational, not a defect)"
+ISS-00366,rework_repeated_activity,SCMECO1-00482,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00367,rework_repeated_activity,SCMECO1-00485,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00368,in_progress_at_cutoff,SCMECO1-00486,,"Case still open at extraction date (informational, not a defect)"
+ISS-00369,rework_repeated_activity,SCMECO1-00487,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00370,out_of_order_sequence,SCMECO1-00493,,'RPP documentation submission' and 'RPP compliance assessment' logged in swapped order
+ISS-00371,out_of_order_sequence,SCMECO1-00496,,'Commercial & compliance approval' and 'Vendor master creation' logged in swapped order
+ISS-00372,in_progress_at_cutoff,SCMECO1-00496,,"Case still open at extraction date (informational, not a defect)"
+ISS-00373,rework_repeated_activity,SCMECO1-00501,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00374,rework_repeated_activity,SCMECO1-00502,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00375,rework_repeated_activity,SCMECO1-00512,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00376,rework_repeated_activity,SCMECO1-00515,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00377,rework_repeated_activity,SCMECO1-00533,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00378,in_progress_at_cutoff,SCMECO1-00534,,"Case still open at extraction date (informational, not a defect)"
+ISS-00379,rework_repeated_activity,SCMECO1-00537,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00380,out_of_order_sequence,SCMECO1-00538,,'Commercial & compliance approval' and 'Vendor master creation' logged in swapped order
+ISS-00381,rework_repeated_activity,SCMECO1-00540,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00382,out_of_order_sequence,SCMECO1-00540,,'Commercial & compliance approval' and 'Vendor master creation' logged in swapped order
+ISS-00383,rework_repeated_activity,SCMECO1-00541,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00384,abandoned_case,SCMECO1-00543,,Case stops after 2 completed activities
+ISS-00385,rework_repeated_activity,SCMECO1-00544,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00386,negative_duration,SCMECO1-00556,,'RPP compliance assessment' completed before it started
+ISS-00387,rework_repeated_activity,SCMECO1-00557,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00388,abandoned_case,SCMECO1-00566,,Case stops after 2 completed activities
+ISS-00389,in_progress_at_cutoff,SCMECO1-00572,,"Case still open at extraction date (informational, not a defect)"
+ISS-00390,out_of_order_sequence,SCMECO1-00577,,'Vendor identification' and 'RPP documentation submission' logged in swapped order
+ISS-00391,rework_repeated_activity,SCMECO1-00578,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00392,rework_repeated_activity,SCMECO1-00581,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00393,rework_repeated_activity,SCMECO1-00582,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00394,abandoned_case,SCMECO1-00582,,Case stops after 1 completed activities
+ISS-00395,abandoned_case,SCMECO1-00584,,Case stops after 2 completed activities
+ISS-00396,missing_activity,SCMECO1-00586,,Mandatory/performed activity 'Commercial & compliance approval' has no events
+ISS-00397,rework_repeated_activity,SCMECO1-00589,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00398,rework_repeated_activity,SCMECO1-00593,,"'RPP documentation submission' performed twice (legitimate rework, not an error)"
+ISS-00399,rework_repeated_activity,SCMECO2P-00006,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00400,in_progress_at_cutoff,SCMECO2P-00006,,"Case still open at extraction date (informational, not a defect)"
+ISS-00401,abandoned_case,SCMECO2P-00027,,Case stops after 2 completed activities
+ISS-00402,missing_activity,SCMECO2P-00029,,Mandatory/performed activity 'Orientation & training' has no events
+ISS-00403,rework_repeated_activity,SCMECO2P-00037,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00404,out_of_order_sequence,SCMECO2P-00046,,'Orientation & training' and 'Credit linkage & initial stock' logged in swapped order
+ISS-00405,out_of_order_sequence,SCMECO2P-00047,,'Credit linkage & initial stock' and 'Partner activation in RDMS' logged in swapped order
+ISS-00406,missing_activity,SCMECO2P-00059,,Mandatory/performed activity 'Candidate identification & screening' has no events
+ISS-00407,missing_activity,SCMECO2P-00070,,Mandatory/performed activity 'Orientation & training' has no events
+ISS-00408,out_of_order_sequence,SCMECO2P-00081,,'Orientation & training' and 'Credit linkage & initial stock' logged in swapped order
+ISS-00409,rework_repeated_activity,SCMECO2P-00083,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00410,rework_repeated_activity,SCMECO2P-00084,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00411,rework_repeated_activity,SCMECO2P-00108,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00412,in_progress_at_cutoff,SCMECO2P-00119,,"Case still open at extraction date (informational, not a defect)"
+ISS-00413,out_of_order_sequence,SCMECO2P-00122,,'Credit linkage & initial stock' and 'Partner activation in RDMS' logged in swapped order
+ISS-00414,rework_repeated_activity,SCMECO2P-00124,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00415,rework_repeated_activity,SCMECO2P-00129,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00416,abandoned_case,SCMECO2P-00132,,Case stops after 2 completed activities
+ISS-00417,rework_repeated_activity,SCMECO2P-00137,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00418,out_of_order_sequence,SCMECO2P-00148,,'Candidate identification & screening' and 'Orientation & training' logged in swapped order
+ISS-00419,rework_repeated_activity,SCMECO2P-00158,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00420,abandoned_case,SCMECO2P-00163,,Case stops after 4 completed activities
+ISS-00421,out_of_order_sequence,SCMECO2P-00173,,'Orientation & training' and 'Credit linkage & initial stock' logged in swapped order
+ISS-00422,in_progress_at_cutoff,SCMECO2P-00178,,"Case still open at extraction date (informational, not a defect)"
+ISS-00423,rework_repeated_activity,SCMECO2P-00180,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00424,rework_repeated_activity,SCMECO2P-00187,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00425,missing_activity,SCMECO2P-00187,,Mandatory/performed activity 'Credit linkage & initial stock' has no events
+ISS-00426,rework_repeated_activity,SCMECO2P-00196,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00427,rework_repeated_activity,SCMECO2P-00197,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00428,in_progress_at_cutoff,SCMECO2P-00202,,"Case still open at extraction date (informational, not a defect)"
+ISS-00429,missing_activity,SCMECO2P-00203,,Mandatory/performed activity 'Candidate identification & screening' has no events
+ISS-00430,out_of_order_sequence,SCMECO2P-00207,,'Orientation & training' and 'Credit linkage & initial stock' logged in swapped order
+ISS-00431,out_of_order_sequence,SCMECO2P-00224,,'Credit linkage & initial stock' and 'Partner activation in RDMS' logged in swapped order
+ISS-00432,rework_repeated_activity,SCMECO2P-00230,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00433,rework_repeated_activity,SCMECO2P-00232,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00434,rework_repeated_activity,SCMECO2P-00233,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00435,abandoned_case,SCMECO2P-00236,,Case stops after 1 completed activities
+ISS-00436,abandoned_case,SCMECO2P-00241,,Case stops after 2 completed activities
+ISS-00437,rework_repeated_activity,SCMECO2P-00248,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00438,rework_repeated_activity,SCMECO2P-00251,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00439,out_of_order_sequence,SCMECO2P-00251,,'Coverage gap identification' and 'Candidate identification & screening' logged in swapped order
+ISS-00440,abandoned_case,SCMECO2P-00254,,Case stops after 1 completed activities
+ISS-00441,abandoned_case,SCMECO2P-00258,,Case stops after 2 completed activities
+ISS-00442,abandoned_case,SCMECO2P-00268,,Case stops after 3 completed activities
+ISS-00443,rework_repeated_activity,SCMECO2P-00283,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00444,negative_duration,SCMECO2P-00292,,'Orientation & training' completed before it started
+ISS-00445,in_progress_at_cutoff,SCMECO2P-00301,,"Case still open at extraction date (informational, not a defect)"
+ISS-00446,abandoned_case,SCMECO2P-00302,,Case stops after 2 completed activities
+ISS-00447,rework_repeated_activity,SCMECO2P-00314,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00448,in_progress_at_cutoff,SCMECO2P-00314,,"Case still open at extraction date (informational, not a defect)"
+ISS-00449,rework_repeated_activity,SCMECO2P-00317,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00450,abandoned_case,SCMECO2P-00318,,Case stops after 4 completed activities
+ISS-00451,abandoned_case,SCMECO2P-00334,,Case stops after 3 completed activities
+ISS-00452,abandoned_case,SCMECO2P-00347,,Case stops after 1 completed activities
+ISS-00453,out_of_order_sequence,SCMECO2P-00348,,'Credit linkage & initial stock' and 'Partner activation in RDMS' logged in swapped order
+ISS-00454,rework_repeated_activity,SCMECO2P-00360,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00455,rework_repeated_activity,SCMECO2P-00363,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00456,rework_repeated_activity,SCMECO2P-00367,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00457,abandoned_case,SCMECO2P-00371,,Case stops after 4 completed activities
+ISS-00458,rework_repeated_activity,SCMECO2P-00373,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00459,rework_repeated_activity,SCMECO2P-00379,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00460,abandoned_case,SCMECO2P-00379,,Case stops after 1 completed activities
+ISS-00461,abandoned_case,SCMECO2P-00384,,Case stops after 2 completed activities
+ISS-00462,rework_repeated_activity,SCMECO2P-00387,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00463,rework_repeated_activity,SCMECO2P-00390,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00464,rework_repeated_activity,SCMECO2P-00397,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00465,in_progress_at_cutoff,SCMECO2P-00398,,"Case still open at extraction date (informational, not a defect)"
+ISS-00466,out_of_order_sequence,SCMECO2P-00410,,'Coverage gap identification' and 'Candidate identification & screening' logged in swapped order
+ISS-00467,out_of_order_sequence,SCMECO2P-00411,,'Candidate identification & screening' and 'Orientation & training' logged in swapped order
+ISS-00468,rework_repeated_activity,SCMECO2P-00419,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00469,missing_activity,SCMECO2P-00420,,Mandatory/performed activity 'Candidate identification & screening' has no events
+ISS-00470,rework_repeated_activity,SCMECO2P-00426,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00471,rework_repeated_activity,SCMECO2P-00450,,"'Credit linkage & initial stock' performed twice (legitimate rework, not an error)"
+ISS-00472,out_of_order_sequence,SCMECO2P-00450,,'Credit linkage & initial stock' and 'Credit linkage & initial stock' logged in swapped order
+ISS-00473,out_of_order_sequence,SCMECO2O-00009,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00474,out_of_order_sequence,SCMECO2O-00023,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00475,out_of_order_sequence,SCMECO2O-00026,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00476,out_of_order_sequence,SCMECO2O-00029,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00477,out_of_order_sequence,SCMECO2O-00046,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00478,out_of_order_sequence,SCMECO2O-00057,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00479,out_of_order_sequence,SCMECO2O-00065,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00480,out_of_order_sequence,SCMECO2O-00072,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00481,out_of_order_sequence,SCMECO2O-00087,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00482,out_of_order_sequence,SCMECO2O-00098,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00483,out_of_order_sequence,SCMECO2O-00121,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00484,out_of_order_sequence,SCMECO2O-00140,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00485,in_progress_at_cutoff,SCMECO2O-00150,,"Case still open at extraction date (informational, not a defect)"
+ISS-00486,out_of_order_sequence,SCMECO2O-00156,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00487,out_of_order_sequence,SCMECO2O-00180,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00488,out_of_order_sequence,SCMECO2O-00187,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00489,out_of_order_sequence,SCMECO2O-00197,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00490,out_of_order_sequence,SCMECO2O-00201,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00491,out_of_order_sequence,SCMECO2O-00209,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00492,out_of_order_sequence,SCMECO2O-00234,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00493,negative_duration,SCMECO2O-00254,,'Monthly order placement' completed before it started
+ISS-00494,out_of_order_sequence,SCMECO2O-00268,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00495,out_of_order_sequence,SCMECO2O-00278,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00496,out_of_order_sequence,SCMECO2O-00300,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00497,out_of_order_sequence,SCMECO2O-00301,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00498,out_of_order_sequence,SCMECO2O-00306,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00499,out_of_order_sequence,SCMECO2O-00308,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00500,out_of_order_sequence,SCMECO2O-00324,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00501,out_of_order_sequence,SCMECO2O-00327,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00502,out_of_order_sequence,SCMECO2O-00330,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00503,out_of_order_sequence,SCMECO2O-00348,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00504,out_of_order_sequence,SCMECO2O-00374,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00505,out_of_order_sequence,SCMECO2O-00382,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00506,out_of_order_sequence,SCMECO2O-00385,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00507,out_of_order_sequence,SCMECO2O-00388,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00508,out_of_order_sequence,SCMECO2O-00389,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00509,out_of_order_sequence,SCMECO2O-00394,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00510,out_of_order_sequence,SCMECO2O-00401,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00511,out_of_order_sequence,SCMECO2O-00406,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00512,out_of_order_sequence,SCMECO2O-00411,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00513,out_of_order_sequence,SCMECO2O-00412,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00514,out_of_order_sequence,SCMECO2O-00424,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00515,out_of_order_sequence,SCMECO2O-00425,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00516,out_of_order_sequence,SCMECO2O-00426,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00517,out_of_order_sequence,SCMECO2O-00428,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00518,out_of_order_sequence,SCMECO2O-00433,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00519,out_of_order_sequence,SCMECO2O-00436,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00520,out_of_order_sequence,SCMECO2O-00447,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00521,negative_duration,SCMECO2O-00458,,'Monthly order placement' completed before it started
+ISS-00522,out_of_order_sequence,SCMECO2O-00459,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00523,out_of_order_sequence,SCMECO2O-00470,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00524,out_of_order_sequence,SCMECO2O-00484,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00525,negative_duration,SCMECO2O-00495,,'Order fulfillment & delivery' completed before it started
+ISS-00526,out_of_order_sequence,SCMECO2O-00502,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00527,out_of_order_sequence,SCMECO2O-00505,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00528,out_of_order_sequence,SCMECO2O-00508,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00529,out_of_order_sequence,SCMECO2O-00520,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00530,out_of_order_sequence,SCMECO2O-00526,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00531,out_of_order_sequence,SCMECO2O-00530,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00532,out_of_order_sequence,SCMECO2O-00534,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00533,out_of_order_sequence,SCMECO2O-00540,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00534,out_of_order_sequence,SCMECO2O-00541,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00535,out_of_order_sequence,SCMECO2O-00542,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00536,negative_duration,SCMECO2O-00578,,'Monthly order placement' completed before it started
+ISS-00537,out_of_order_sequence,SCMECO2O-00583,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00538,out_of_order_sequence,SCMECO2O-00632,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00539,out_of_order_sequence,SCMECO2O-00642,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00540,out_of_order_sequence,SCMECO2O-00689,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00541,out_of_order_sequence,SCMECO2O-00694,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00542,out_of_order_sequence,SCMECO2O-00701,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00543,out_of_order_sequence,SCMECO2O-00709,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00544,out_of_order_sequence,SCMECO2O-00721,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00545,out_of_order_sequence,SCMECO2O-00749,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00546,negative_duration,SCMECO2O-00755,,'Monthly order placement' completed before it started
+ISS-00547,out_of_order_sequence,SCMECO2O-00757,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00548,out_of_order_sequence,SCMECO2O-00771,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00549,out_of_order_sequence,SCMECO2O-00773,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00550,out_of_order_sequence,SCMECO2O-00786,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00551,out_of_order_sequence,SCMECO2O-00788,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00552,out_of_order_sequence,SCMECO2O-00790,,'Monthly order placement' and 'Order fulfillment & delivery' logged in swapped order
+ISS-00553,utc_timestamp_format,HRTAL1-00236,EVT-000470,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00554,utc_timestamp_format,HRTAL2H-00511,EVT-018874,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00555,utc_timestamp_format,SCMECO1-00495,EVT-008962,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00556,utc_timestamp_format,SCMECO2O-00729,EVT-028020,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00557,utc_timestamp_format,HRTAL2H-00426,EVT-016427,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00558,utc_timestamp_format,HRTAL1-00329,EVT-010406,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00559,utc_timestamp_format,SCMECO2P-00157,EVT-013395,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00560,utc_timestamp_format,SCMECO2O-00063,EVT-003963,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00561,utc_timestamp_format,SCMECO2P-00046,EVT-027589,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00562,utc_timestamp_format,HRTAL2H-00336,EVT-011695,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00563,utc_timestamp_format,HRTAL2X-00132,EVT-023266,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00564,utc_timestamp_format,SCMECO2O-00329,EVT-020530,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00565,utc_timestamp_format,SCMECO2P-00201,EVT-005255,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00566,utc_timestamp_format,HRTAL1-00479,EVT-006448,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00567,utc_timestamp_format,HRTAL1-00261,EVT-025554,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00568,utc_timestamp_format,HRTAL1-00459,EVT-006642,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00569,utc_timestamp_format,HRTAL1-00088,EVT-017506,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00570,utc_timestamp_format,HRTAL2H-00347,EVT-023675,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00571,utc_timestamp_format,SCMECO2O-00303,EVT-018157,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00572,utc_timestamp_format,HRTAL1-00178,EVT-014020,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00573,utc_timestamp_format,HRTAL2H-00133,EVT-022676,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00574,utc_timestamp_format,SCMECO2P-00427,EVT-005670,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00575,utc_timestamp_format,SCMECO2O-00155,EVT-026937,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00576,utc_timestamp_format,HRTAL1-00056,EVT-026921,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00577,utc_timestamp_format,HRTAL1-00453,EVT-001621,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00578,utc_timestamp_format,HRTAL2X-00004,EVT-023271,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00579,utc_timestamp_format,SCMECO2P-00332,EVT-024265,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00580,utc_timestamp_format,HRTAL2H-00478,EVT-009645,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00581,utc_timestamp_format,SCMECO2P-00064,EVT-002211,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00582,utc_timestamp_format,HRTAL1-00340,EVT-008211,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00583,utc_timestamp_format,SCMECO2P-00326,EVT-014513,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00584,utc_timestamp_format,SCMECO1-00414,EVT-003752,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00585,utc_timestamp_format,HRTAL2H-00359,EVT-013688,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00586,utc_timestamp_format,HRTAL2H-00282,EVT-015771,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00587,utc_timestamp_format,SCMECO2P-00261,EVT-017090,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00588,utc_timestamp_format,HRTAL2H-00562,EVT-008026,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00589,utc_timestamp_format,SCMECO2O-00056,EVT-001025,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00590,utc_timestamp_format,SCMECO2O-00280,EVT-006182,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00591,utc_timestamp_format,HRTAL1-00285,EVT-012326,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00592,utc_timestamp_format,HRTAL2H-00024,EVT-007192,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00593,utc_timestamp_format,SCMECO1-00025,EVT-008275,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00594,utc_timestamp_format,HRTAL2H-00549,EVT-025107,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00595,utc_timestamp_format,SCMECO1-00044,EVT-002556,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00596,utc_timestamp_format,HRTAL1-00073,EVT-001194,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00597,utc_timestamp_format,HRTAL2H-00653,EVT-021544,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00598,utc_timestamp_format,HRTAL2H-00028,EVT-023532,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00599,utc_timestamp_format,SCMECO2O-00431,EVT-016923,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00600,utc_timestamp_format,SCMECO1-00095,EVT-004043,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00601,utc_timestamp_format,HRTAL2H-00360,EVT-028350,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00602,utc_timestamp_format,HRTAL2H-00673,EVT-004111,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00603,utc_timestamp_format,SCMECO1-00540,EVT-026204,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00604,utc_timestamp_format,SCMECO2P-00165,EVT-023083,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00605,utc_timestamp_format,HRTAL2H-00409,EVT-010802,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00606,utc_timestamp_format,SCMECO1-00402,EVT-003639,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00607,utc_timestamp_format,SCMECO2P-00048,EVT-021565,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00608,utc_timestamp_format,HRTAL1-00296,EVT-003277,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00609,utc_timestamp_format,SCMECO1-00408,EVT-027799,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00610,utc_timestamp_format,HRTAL2X-00147,EVT-021236,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00611,utc_timestamp_format,HRTAL1-00489,EVT-004984,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00612,utc_timestamp_format,HRTAL1-00485,EVT-003755,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00613,utc_timestamp_format,HRTAL2H-00108,EVT-000792,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00614,utc_timestamp_format,SCMECO2P-00099,EVT-010468,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00615,utc_timestamp_format,HRTAL2H-00557,EVT-011993,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00616,utc_timestamp_format,HRTAL2H-00575,EVT-007901,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00617,utc_timestamp_format,SCMECO2P-00023,EVT-015581,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00618,utc_timestamp_format,SCMECO2O-00235,EVT-011731,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00619,utc_timestamp_format,HRTAL2H-00274,EVT-013813,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00620,utc_timestamp_format,SCMECO1-00052,EVT-027126,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00621,utc_timestamp_format,SCMECO2P-00373,EVT-009564,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00622,utc_timestamp_format,SCMECO1-00301,EVT-008819,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00623,utc_timestamp_format,HRTAL1-00279,EVT-010464,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00624,utc_timestamp_format,HRTAL2H-00600,EVT-012418,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00625,utc_timestamp_format,SCMECO2O-00202,EVT-009018,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00626,utc_timestamp_format,SCMECO1-00311,EVT-021797,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00627,utc_timestamp_format,HRTAL2H-00271,EVT-015455,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00628,utc_timestamp_format,HRTAL2H-00695,EVT-011066,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00629,utc_timestamp_format,HRTAL2X-00203,EVT-023977,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00630,utc_timestamp_format,SCMECO2O-00117,EVT-011446,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00631,utc_timestamp_format,HRTAL2X-00119,EVT-009466,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00632,utc_timestamp_format,HRTAL2H-00552,EVT-013716,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00633,utc_timestamp_format,SCMECO1-00517,EVT-009220,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00634,utc_timestamp_format,HRTAL2H-00253,EVT-021329,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00635,utc_timestamp_format,SCMECO1-00486,EVT-027639,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00636,utc_timestamp_format,HRTAL2H-00114,EVT-017128,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00637,utc_timestamp_format,SCMECO1-00485,EVT-014066,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00638,utc_timestamp_format,SCMECO2P-00143,EVT-000480,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00639,utc_timestamp_format,SCMECO2O-00202,EVT-009048,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00640,utc_timestamp_format,SCMECO1-00468,EVT-023391,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00641,utc_timestamp_format,SCMECO1-00397,EVT-009759,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00642,utc_timestamp_format,HRTAL1-00332,EVT-013902,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00643,utc_timestamp_format,HRTAL2H-00064,EVT-001404,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00644,utc_timestamp_format,SCMECO1-00100,EVT-019200,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00645,utc_timestamp_format,HRTAL2H-00681,EVT-003984,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00646,utc_timestamp_format,HRTAL2H-00163,EVT-008272,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00647,utc_timestamp_format,HRTAL1-00101,EVT-016137,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00648,utc_timestamp_format,HRTAL1-00019,EVT-004696,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00649,utc_timestamp_format,SCMECO1-00457,EVT-027846,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00650,utc_timestamp_format,HRTAL1-00067,EVT-028058,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00651,utc_timestamp_format,SCMECO1-00479,EVT-001692,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00652,utc_timestamp_format,HRTAL2H-00616,EVT-024277,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00653,utc_timestamp_format,HRTAL2H-00573,EVT-005093,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00654,utc_timestamp_format,HRTAL1-00007,EVT-025945,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00655,utc_timestamp_format,SCMECO1-00263,EVT-006686,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00656,utc_timestamp_format,SCMECO2P-00418,EVT-016361,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00657,utc_timestamp_format,SCMECO1-00028,EVT-001063,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00658,utc_timestamp_format,HRTAL2H-00363,EVT-026845,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00659,utc_timestamp_format,HRTAL2H-00600,EVT-012301,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00660,utc_timestamp_format,SCMECO2P-00087,EVT-023786,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00661,utc_timestamp_format,SCMECO1-00318,EVT-027181,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00662,utc_timestamp_format,SCMECO2P-00232,EVT-018804,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00663,utc_timestamp_format,HRTAL1-00483,EVT-009792,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00664,utc_timestamp_format,HRTAL1-00162,EVT-016789,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00665,utc_timestamp_format,SCMECO1-00348,EVT-008929,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00666,utc_timestamp_format,SCMECO2P-00099,EVT-009602,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00667,utc_timestamp_format,SCMECO1-00583,EVT-021766,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00668,utc_timestamp_format,SCMECO2P-00097,EVT-022572,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00669,utc_timestamp_format,HRTAL2H-00034,EVT-005233,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00670,utc_timestamp_format,HRTAL2H-00435,EVT-027647,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00671,utc_timestamp_format,SCMECO2P-00144,EVT-007580,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00672,utc_timestamp_format,HRTAL2H-00446,EVT-015718,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00673,utc_timestamp_format,HRTAL1-00327,EVT-018661,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00674,utc_timestamp_format,HRTAL2H-00613,EVT-006187,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00675,utc_timestamp_format,HRTAL2H-00094,EVT-007489,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00676,utc_timestamp_format,HRTAL2H-00061,EVT-000068,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00677,utc_timestamp_format,SCMECO1-00058,EVT-016583,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00678,utc_timestamp_format,HRTAL2H-00168,EVT-000395,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00679,utc_timestamp_format,SCMECO2O-00666,EVT-023849,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00680,utc_timestamp_format,HRTAL1-00447,EVT-028586,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00681,utc_timestamp_format,HRTAL2H-00575,EVT-007862,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00682,utc_timestamp_format,HRTAL2X-00221,EVT-004716,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00683,utc_timestamp_format,HRTAL2H-00249,EVT-004478,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00684,utc_timestamp_format,SCMECO1-00051,EVT-026297,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00685,utc_timestamp_format,SCMECO1-00332,EVT-020172,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00686,utc_timestamp_format,SCMECO1-00289,EVT-014235,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00687,utc_timestamp_format,HRTAL1-00498,EVT-021556,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00688,utc_timestamp_format,HRTAL1-00389,EVT-024082,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00689,utc_timestamp_format,SCMECO2P-00136,EVT-026309,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00690,utc_timestamp_format,SCMECO1-00003,EVT-013567,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00691,utc_timestamp_format,HRTAL1-00211,EVT-015024,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00692,utc_timestamp_format,HRTAL2H-00336,EVT-011058,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00693,utc_timestamp_format,SCMECO2O-00159,EVT-010605,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00694,utc_timestamp_format,SCMECO2O-00322,EVT-014074,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00695,utc_timestamp_format,SCMECO2P-00442,EVT-006355,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00696,utc_timestamp_format,SCMECO2P-00367,EVT-026144,Valid instant written in UTC (Z) instead of IST +05:30
+ISS-00697,missing_timestamp,SCMECO2O-00170,EVT-017027,Timestamp blank
+ISS-00698,missing_timestamp,SCMECO1-00271,EVT-018945,Timestamp blank
+ISS-00699,missing_timestamp,SCMECO2P-00153,EVT-009537,Timestamp blank
+ISS-00700,missing_timestamp,HRTAL2H-00693,EVT-027102,Timestamp blank
+ISS-00701,missing_timestamp,HRTAL1-00175,EVT-007474,Timestamp blank
+ISS-00702,missing_timestamp,HRTAL2H-00332,EVT-002962,Timestamp blank
+ISS-00703,missing_timestamp,SCMECO2P-00066,EVT-019768,Timestamp blank
+ISS-00704,missing_timestamp,SCMECO1-00167,EVT-022883,Timestamp blank
+ISS-00705,missing_timestamp,HRTAL1-00289,EVT-006965,Timestamp blank
+ISS-00706,missing_timestamp,HRTAL2H-00698,EVT-027305,Timestamp blank
+ISS-00707,missing_timestamp,HRTAL2H-00417,EVT-013481,Timestamp blank
+ISS-00708,missing_timestamp,SCMECO2P-00050,EVT-004362,Timestamp blank
+ISS-00709,missing_timestamp,SCMECO2O-00642,EVT-024737,Timestamp blank
+ISS-00710,missing_timestamp,HRTAL1-00117,EVT-007685,Timestamp blank
+ISS-00711,missing_timestamp,HRTAL2H-00619,EVT-013077,Timestamp blank
+ISS-00712,missing_timestamp,SCMECO2P-00184,EVT-024407,Timestamp blank
+ISS-00713,missing_timestamp,SCMECO2O-00746,EVT-009436,Timestamp blank
+ISS-00714,missing_timestamp,HRTAL1-00008,EVT-017495,Timestamp blank
+ISS-00715,missing_timestamp,HRTAL1-00033,EVT-021018,Timestamp blank
+ISS-00716,missing_timestamp,SCMECO1-00210,EVT-008686,Timestamp blank
+ISS-00717,missing_timestamp,SCMECO1-00185,EVT-025470,Timestamp blank
+ISS-00718,missing_timestamp,HRTAL1-00070,EVT-021061,Timestamp blank
+ISS-00719,missing_timestamp,SCMECO2P-00356,EVT-010475,Timestamp blank
+ISS-00720,missing_timestamp,HRTAL2H-00252,EVT-016868,Timestamp blank
+ISS-00721,missing_timestamp,HRTAL1-00252,EVT-004959,Timestamp blank
+ISS-00722,missing_timestamp,SCMECO2O-00544,EVT-019099,Timestamp blank
+ISS-00723,missing_timestamp,HRTAL2H-00100,EVT-017140,Timestamp blank
+ISS-00724,missing_timestamp,HRTAL2H-00062,EVT-008887,Timestamp blank
+ISS-00725,missing_timestamp,SCMECO1-00394,EVT-023342,Timestamp blank
+ISS-00726,missing_timestamp,SCMECO2P-00035,EVT-025818,Timestamp blank
+ISS-00727,missing_timestamp,HRTAL2H-00136,EVT-005992,Timestamp blank
+ISS-00728,missing_timestamp,SCMECO2P-00181,EVT-018111,Timestamp blank
+ISS-00729,missing_timestamp,HRTAL2X-00135,EVT-002161,Timestamp blank
+ISS-00730,missing_timestamp,SCMECO1-00377,EVT-005480,Timestamp blank
+ISS-00731,missing_timestamp,SCMECO1-00017,EVT-018602,Timestamp blank
+ISS-00732,missing_timestamp,SCMECO2O-00471,EVT-013516,Timestamp blank
+ISS-00733,missing_timestamp,HRTAL1-00500,EVT-021662,Timestamp blank
+ISS-00734,missing_timestamp,SCMECO2P-00437,EVT-025466,Timestamp blank
+ISS-00735,missing_timestamp,SCMECO2P-00240,EVT-007002,Timestamp blank
+ISS-00736,missing_timestamp,HRTAL2H-00528,EVT-007265,Timestamp blank
+ISS-00737,missing_timestamp,HRTAL2H-00308,EVT-014130,Timestamp blank
+ISS-00738,missing_timestamp,HRTAL2H-00493,EVT-019964,Timestamp blank
+ISS-00739,missing_timestamp,HRTAL1-00307,EVT-022455,Timestamp blank
+ISS-00740,missing_timestamp,SCMECO1-00519,EVT-022404,Timestamp blank
+ISS-00741,missing_timestamp,SCMECO1-00600,EVT-021333,Timestamp blank
+ISS-00742,missing_timestamp,SCMECO1-00234,EVT-004911,Timestamp blank
+ISS-00743,missing_timestamp,SCMECO2P-00085,EVT-024666,Timestamp blank
+ISS-00744,missing_timestamp,HRTAL2H-00368,EVT-008085,Timestamp blank
+ISS-00745,missing_timestamp,HRTAL2H-00299,EVT-004325,Timestamp blank
+ISS-00746,missing_timestamp,SCMECO1-00348,EVT-008967,Timestamp blank
+ISS-00747,missing_timestamp,SCMECO2O-00542,EVT-017466,Timestamp blank
+ISS-00748,missing_timestamp,SCMECO1-00588,EVT-012830,Timestamp blank
+ISS-00749,missing_timestamp,SCMECO2O-00593,EVT-004885,Timestamp blank
+ISS-00750,missing_timestamp,HRTAL1-00367,EVT-026244,Timestamp blank
+ISS-00751,missing_timestamp,SCMECO2O-00031,EVT-020950,Timestamp blank
+ISS-00752,missing_timestamp,SCMECO1-00096,EVT-026008,Timestamp blank
+ISS-00753,missing_timestamp,SCMECO1-00403,EVT-024216,Timestamp blank
+ISS-00754,missing_timestamp,HRTAL2H-00213,EVT-018349,Timestamp blank
+ISS-00755,missing_timestamp,SCMECO2O-00224,EVT-001706,Timestamp blank
+ISS-00756,missing_timestamp,SCMECO2P-00388,EVT-023968,Timestamp blank
+ISS-00757,missing_timestamp,SCMECO1-00328,EVT-023820,Timestamp blank
+ISS-00758,missing_timestamp,SCMECO1-00208,EVT-004236,Timestamp blank
+ISS-00759,missing_timestamp,SCMECO2P-00390,EVT-025209,Timestamp blank
+ISS-00760,missing_timestamp,HRTAL2H-00637,EVT-006656,Timestamp blank
+ISS-00761,missing_timestamp,HRTAL1-00317,EVT-006576,Timestamp blank
+ISS-00762,missing_timestamp,SCMECO1-00027,EVT-016545,Timestamp blank
+ISS-00763,missing_timestamp,SCMECO1-00011,EVT-011164,Timestamp blank
+ISS-00764,missing_timestamp,SCMECO2P-00299,EVT-009484,Timestamp blank
+ISS-00765,missing_timestamp,HRTAL1-00021,EVT-017136,Timestamp blank
+ISS-00766,missing_timestamp,SCMECO2P-00296,EVT-025733,Timestamp blank
+ISS-00767,missing_timestamp,SCMECO1-00058,EVT-016266,Timestamp blank
+ISS-00768,missing_timestamp,SCMECO1-00031,EVT-014760,Timestamp blank
+ISS-00769,missing_timestamp,SCMECO1-00071,EVT-021691,Timestamp blank
+ISS-00770,missing_timestamp,SCMECO2P-00426,EVT-022180,Timestamp blank
+ISS-00771,missing_timestamp,HRTAL1-00180,EVT-015025,Timestamp blank
+ISS-00772,missing_timestamp,SCMECO2O-00697,EVT-020823,Timestamp blank
+ISS-00773,missing_timestamp,HRTAL2H-00281,EVT-028674,Timestamp blank
+ISS-00774,missing_timestamp,HRTAL1-00011,EVT-006120,Timestamp blank
+ISS-00775,missing_timestamp,SCMECO2P-00172,EVT-011878,Timestamp blank
+ISS-00776,missing_timestamp,SCMECO1-00042,EVT-007008,Timestamp blank
+ISS-00777,missing_timestamp,HRTAL2X-00182,EVT-012160,Timestamp blank
+ISS-00778,missing_timestamp,SCMECO2P-00409,EVT-004507,Timestamp blank
+ISS-00779,missing_timestamp,SCMECO1-00449,EVT-025876,Timestamp blank
+ISS-00780,missing_timestamp,SCMECO2P-00344,EVT-023963,Timestamp blank
+ISS-00781,missing_timestamp,SCMECO1-00130,EVT-000725,Timestamp blank
+ISS-00782,missing_timestamp,SCMECO1-00577,EVT-024921,Timestamp blank
+ISS-00783,missing_timestamp,HRTAL2H-00670,EVT-001670,Timestamp blank
+ISS-00784,missing_timestamp,HRTAL2H-00045,EVT-006673,Timestamp blank
+ISS-00785,missing_timestamp,HRTAL1-00150,EVT-006440,Timestamp blank
+ISS-00786,missing_timestamp,HRTAL2H-00437,EVT-009772,Timestamp blank
+ISS-00787,missing_timestamp,SCMECO2P-00079,EVT-001534,Timestamp blank
+ISS-00788,missing_timestamp,HRTAL2H-00455,EVT-018290,Timestamp blank
+ISS-00789,missing_timestamp,SCMECO1-00231,EVT-006286,Timestamp blank
+ISS-00790,missing_timestamp,SCMECO1-00392,EVT-027890,Timestamp blank
+ISS-00791,missing_timestamp,HRTAL2H-00126,EVT-028039,Timestamp blank
+ISS-00792,missing_timestamp,HRTAL2H-00101,EVT-014401,Timestamp blank
+ISS-00793,missing_timestamp,SCMECO1-00154,EVT-027277,Timestamp blank
+ISS-00794,missing_timestamp,SCMECO2P-00363,EVT-013441,Timestamp blank
+ISS-00795,missing_timestamp,HRTAL2X-00092,EVT-013210,Timestamp blank
+ISS-00796,missing_timestamp,SCMECO2O-00080,EVT-010295,Timestamp blank
+ISS-00797,missing_timestamp,SCMECO2P-00203,EVT-005015,Timestamp blank
+ISS-00798,missing_timestamp,SCMECO2P-00170,EVT-024454,Timestamp blank
+ISS-00799,missing_timestamp,SCMECO1-00419,EVT-017115,Timestamp blank
+ISS-00800,missing_timestamp,HRTAL1-00339,EVT-025399,Timestamp blank
+ISS-00801,missing_timestamp,SCMECO2P-00182,EVT-000138,Timestamp blank
+ISS-00802,missing_timestamp,SCMECO2O-00484,EVT-011362,Timestamp blank
+ISS-00803,missing_timestamp,HRTAL2H-00333,EVT-020293,Timestamp blank
+ISS-00804,missing_timestamp,SCMECO2P-00257,EVT-012471,Timestamp blank
+ISS-00805,missing_timestamp,SCMECO2O-00570,EVT-026141,Timestamp blank
+ISS-00806,missing_timestamp,HRTAL1-00081,EVT-000771,Timestamp blank
+ISS-00807,missing_timestamp,SCMECO2O-00586,EVT-005540,Timestamp blank
+ISS-00808,missing_timestamp,SCMECO1-00012,EVT-012446,Timestamp blank
+ISS-00809,missing_timestamp,HRTAL2H-00545,EVT-011178,Timestamp blank
+ISS-00810,missing_timestamp,HRTAL2X-00056,EVT-021666,Timestamp blank
+ISS-00811,missing_timestamp,HRTAL1-00107,EVT-004403,Timestamp blank
+ISS-00812,missing_timestamp,SCMECO1-00504,EVT-001784,Timestamp blank
+ISS-00813,missing_timestamp,HRTAL2H-00457,EVT-015049,Timestamp blank
+ISS-00814,missing_timestamp,SCMECO2P-00338,EVT-018220,Timestamp blank
+ISS-00815,missing_timestamp,HRTAL1-00072,EVT-023722,Timestamp blank
+ISS-00816,missing_timestamp,HRTAL1-00383,EVT-008982,Timestamp blank
+ISS-00817,missing_timestamp,SCMECO1-00473,EVT-018750,Timestamp blank
+ISS-00818,missing_timestamp,SCMECO2O-00515,EVT-012035,Timestamp blank
+ISS-00819,missing_timestamp,SCMECO1-00197,EVT-013550,Timestamp blank
+ISS-00820,missing_timestamp,HRTAL2H-00185,EVT-024604,Timestamp blank
+ISS-00821,missing_timestamp,SCMECO1-00093,EVT-011885,Timestamp blank
+ISS-00822,missing_timestamp,HRTAL2H-00124,EVT-020911,Timestamp blank
+ISS-00823,missing_timestamp,SCMECO2O-00138,EVT-013338,Timestamp blank
+ISS-00824,missing_timestamp,SCMECO2O-00091,EVT-025944,Timestamp blank
+ISS-00825,missing_timestamp,SCMECO2O-00317,EVT-028130,Timestamp blank
+ISS-00826,missing_timestamp,SCMECO1-00262,EVT-015121,Timestamp blank
+ISS-00827,missing_timestamp,SCMECO1-00447,EVT-002153,Timestamp blank
+ISS-00828,missing_timestamp,SCMECO2O-00089,EVT-013965,Timestamp blank
+ISS-00829,missing_timestamp,SCMECO1-00596,EVT-015149,Timestamp blank
+ISS-00830,missing_timestamp,SCMECO2P-00420,EVT-009747,Timestamp blank
+ISS-00831,missing_timestamp,SCMECO2P-00284,EVT-011015,Timestamp blank
+ISS-00832,missing_timestamp,HRTAL1-00059,EVT-010973,Timestamp blank
+ISS-00833,missing_timestamp,SCMECO2P-00298,EVT-006994,Timestamp blank
+ISS-00834,missing_timestamp,HRTAL1-00291,EVT-025083,Timestamp blank
+ISS-00835,missing_timestamp,SCMECO1-00588,EVT-011713,Timestamp blank
+ISS-00836,missing_timestamp,HRTAL1-00142,EVT-019012,Timestamp blank
+ISS-00837,missing_timestamp,SCMECO1-00297,EVT-007842,Timestamp blank
+ISS-00838,missing_timestamp,SCMECO1-00089,EVT-028727,Timestamp blank
+ISS-00839,missing_timestamp,SCMECO1-00260,EVT-021143,Timestamp blank
+ISS-00840,missing_timestamp,HRTAL1-00297,EVT-001627,Timestamp blank
+ISS-00841,missing_timestamp,HRTAL2H-00162,EVT-028040,Timestamp blank
+ISS-00842,missing_timestamp,HRTAL1-00472,EVT-005892,Timestamp blank
+ISS-00843,missing_timestamp,HRTAL2H-00532,EVT-025120,Timestamp blank
+ISS-00844,missing_timestamp,HRTAL1-00363,EVT-003445,Timestamp blank
+ISS-00845,missing_timestamp,HRTAL1-00131,EVT-026965,Timestamp blank
+ISS-00846,missing_timestamp,SCMECO2P-00326,EVT-014177,Timestamp blank
+ISS-00847,missing_timestamp,HRTAL2H-00563,EVT-001674,Timestamp blank
+ISS-00848,missing_timestamp,HRTAL2H-00426,EVT-016956,Timestamp blank
+ISS-00849,missing_timestamp,HRTAL2H-00625,EVT-028769,Timestamp blank
+ISS-00850,missing_timestamp,HRTAL2H-00699,EVT-021835,Timestamp blank
+ISS-00851,missing_timestamp,HRTAL2H-00036,EVT-000287,Timestamp blank
+ISS-00852,missing_timestamp,SCMECO1-00532,EVT-025001,Timestamp blank
+ISS-00853,missing_timestamp,HRTAL2H-00348,EVT-024905,Timestamp blank
+ISS-00854,missing_timestamp,HRTAL2H-00038,EVT-004146,Timestamp blank
+ISS-00855,missing_timestamp,HRTAL2H-00003,EVT-001500,Timestamp blank
+ISS-00856,missing_timestamp,HRTAL1-00175,EVT-007790,Timestamp blank
+ISS-00857,missing_timestamp,SCMECO2O-00669,EVT-018785,Timestamp blank
+ISS-00858,missing_timestamp,SCMECO2P-00166,EVT-001781,Timestamp blank
+ISS-00859,missing_timestamp,HRTAL1-00129,EVT-018650,Timestamp blank
+ISS-00860,missing_timestamp,HRTAL1-00470,EVT-008992,Timestamp blank
+ISS-00861,missing_timestamp,HRTAL1-00034,EVT-026032,Timestamp blank
+ISS-00862,missing_timestamp,SCMECO2P-00374,EVT-005037,Timestamp blank
+ISS-00863,missing_timestamp,SCMECO1-00209,EVT-012992,Timestamp blank
+ISS-00864,missing_timestamp,HRTAL2H-00556,EVT-026628,Timestamp blank
+ISS-00865,missing_timestamp,SCMECO2P-00068,EVT-009807,Timestamp blank
+ISS-00866,missing_timestamp,SCMECO2O-00311,EVT-020514,Timestamp blank
+ISS-00867,missing_timestamp,SCMECO2O-00497,EVT-024360,Timestamp blank
+ISS-00868,missing_timestamp,SCMECO1-00297,EVT-006859,Timestamp blank
+ISS-00869,missing_timestamp,HRTAL2H-00544,EVT-025872,Timestamp blank
+ISS-00870,missing_timestamp,SCMECO1-00181,EVT-005586,Timestamp blank
+ISS-00871,missing_timestamp,SCMECO2P-00289,EVT-019266,Timestamp blank
+ISS-00872,missing_timestamp,SCMECO2P-00335,EVT-007121,Timestamp blank
+ISS-00873,missing_timestamp,SCMECO2P-00309,EVT-012845,Timestamp blank
+ISS-00874,missing_timestamp,SCMECO1-00525,EVT-012336,Timestamp blank
+ISS-00875,missing_timestamp,HRTAL2H-00404,EVT-027700,Timestamp blank
+ISS-00876,missing_timestamp,HRTAL2H-00503,EVT-018688,Timestamp blank
+ISS-00877,missing_timestamp,HRTAL1-00373,EVT-014265,Timestamp blank
+ISS-00878,missing_timestamp,HRTAL1-00499,EVT-016503,Timestamp blank
+ISS-00879,missing_timestamp,SCMECO1-00564,EVT-011025,Timestamp blank
+ISS-00880,missing_timestamp,SCMECO2P-00094,EVT-020036,Timestamp blank
+ISS-00881,missing_timestamp,HRTAL2H-00168,EVT-000306,Timestamp blank
+ISS-00882,missing_timestamp,HRTAL2H-00678,EVT-018526,Timestamp blank
+ISS-00883,missing_timestamp,HRTAL2H-00234,EVT-028509,Timestamp blank
+ISS-00884,missing_timestamp,HRTAL2H-00525,EVT-026887,Timestamp blank
+ISS-00885,missing_timestamp,HRTAL1-00153,EVT-026846,Timestamp blank
+ISS-00886,missing_timestamp,HRTAL2X-00229,EVT-022932,Timestamp blank
+ISS-00887,missing_timestamp,HRTAL1-00422,EVT-024281,Timestamp blank
+ISS-00888,missing_timestamp,HRTAL2H-00064,EVT-000987,Timestamp blank
+ISS-00889,missing_timestamp,HRTAL1-00433,EVT-017329,Timestamp blank
+ISS-00890,missing_timestamp,SCMECO2P-00101,EVT-024447,Timestamp blank
+ISS-00891,missing_timestamp,SCMECO2O-00573,EVT-021250,Timestamp blank
+ISS-00892,missing_timestamp,HRTAL1-00076,EVT-000039,Timestamp blank
+ISS-00893,missing_timestamp,SCMECO1-00533,EVT-022191,Timestamp blank
+ISS-00894,missing_timestamp,HRTAL2H-00287,EVT-004715,Timestamp blank
+ISS-00895,missing_timestamp,SCMECO2O-00679,EVT-020828,Timestamp blank
+ISS-00896,missing_timestamp,HRTAL2X-00222,EVT-027159,Timestamp blank
+ISS-00897,missing_timestamp,HRTAL1-00016,EVT-015126,Timestamp blank
+ISS-00898,invalid_timestamp,HRTAL2H-00543,EVT-018434,Timestamp not parseable
+ISS-00899,invalid_timestamp,SCMECO2O-00005,EVT-022094,Timestamp not parseable
+ISS-00900,invalid_timestamp,HRTAL2H-00578,EVT-019607,Timestamp not parseable
+ISS-00901,invalid_timestamp,SCMECO2O-00167,EVT-018904,Timestamp not parseable
+ISS-00902,invalid_timestamp,HRTAL2H-00650,EVT-022592,Timestamp not parseable
+ISS-00903,invalid_timestamp,SCMECO2O-00184,EVT-005052,Timestamp not parseable
+ISS-00904,invalid_timestamp,HRTAL1-00380,EVT-025329,Timestamp not parseable
+ISS-00905,invalid_timestamp,HRTAL1-00133,EVT-015703,Timestamp not parseable
+ISS-00906,invalid_timestamp,HRTAL1-00038,EVT-007792,Timestamp not parseable
+ISS-00907,invalid_timestamp,HRTAL1-00367,EVT-026391,Timestamp not parseable
+ISS-00908,invalid_timestamp,SCMECO1-00481,EVT-009387,Timestamp not parseable
+ISS-00909,invalid_timestamp,SCMECO2O-00491,EVT-018062,Timestamp not parseable
+ISS-00910,invalid_timestamp,SCMECO2P-00240,EVT-006226,Timestamp not parseable
+ISS-00911,invalid_timestamp,SCMECO2P-00218,EVT-017546,Timestamp not parseable
+ISS-00912,invalid_timestamp,HRTAL2H-00226,EVT-011920,Timestamp not parseable
+ISS-00913,invalid_timestamp,SCMECO2O-00527,EVT-005655,Timestamp not parseable
+ISS-00914,invalid_timestamp,SCMECO1-00550,EVT-000694,Timestamp not parseable
+ISS-00915,invalid_timestamp,SCMECO1-00195,EVT-002180,Timestamp not parseable
+ISS-00916,invalid_timestamp,SCMECO2P-00034,EVT-008587,Timestamp not parseable
+ISS-00917,invalid_timestamp,SCMECO1-00309,EVT-022939,Timestamp not parseable
+ISS-00918,invalid_timestamp,SCMECO1-00493,EVT-017576,Timestamp not parseable
+ISS-00919,invalid_timestamp,SCMECO2P-00351,EVT-007701,Timestamp not parseable
+ISS-00920,invalid_timestamp,HRTAL2H-00131,EVT-012049,Timestamp not parseable
+ISS-00921,invalid_timestamp,SCMECO1-00148,EVT-000371,Timestamp not parseable
+ISS-00922,invalid_timestamp,HRTAL1-00316,EVT-028364,Timestamp not parseable
+ISS-00923,invalid_timestamp,SCMECO2O-00535,EVT-020258,Timestamp not parseable
+ISS-00924,invalid_timestamp,SCMECO1-00301,EVT-008688,Timestamp not parseable
+ISS-00925,invalid_timestamp,SCMECO1-00371,EVT-005143,Timestamp not parseable
+ISS-00926,invalid_timestamp,SCMECO1-00201,EVT-002689,Timestamp not parseable
+ISS-00927,invalid_timestamp,HRTAL1-00214,EVT-001132,Timestamp not parseable
+ISS-00928,invalid_timestamp,HRTAL2H-00503,EVT-019010,Timestamp not parseable
+ISS-00929,invalid_timestamp,HRTAL2H-00526,EVT-024431,Timestamp not parseable
+ISS-00930,invalid_timestamp,SCMECO2O-00266,EVT-003756,Timestamp not parseable
+ISS-00931,invalid_timestamp,HRTAL2X-00119,EVT-009379,Timestamp not parseable
+ISS-00932,invalid_timestamp,HRTAL1-00290,EVT-028754,Timestamp not parseable
+ISS-00933,invalid_timestamp,HRTAL2H-00338,EVT-000009,Timestamp not parseable
+ISS-00934,invalid_timestamp,SCMECO2P-00141,EVT-003023,Timestamp not parseable
+ISS-00935,invalid_timestamp,SCMECO2P-00296,EVT-026012,Timestamp not parseable
+ISS-00936,invalid_timestamp,SCMECO2O-00017,EVT-000361,Timestamp not parseable
+ISS-00937,invalid_timestamp,HRTAL1-00294,EVT-015960,Timestamp not parseable
+ISS-00938,invalid_timestamp,SCMECO2P-00316,EVT-011136,Timestamp not parseable
+ISS-00939,invalid_timestamp,HRTAL2H-00611,EVT-009159,Timestamp not parseable
+ISS-00940,invalid_timestamp,HRTAL1-00273,EVT-027612,Timestamp not parseable
+ISS-00941,invalid_timestamp,HRTAL2H-00169,EVT-000895,Timestamp not parseable
+ISS-00942,invalid_timestamp,SCMECO2O-00562,EVT-004472,Timestamp not parseable
+ISS-00943,invalid_timestamp,HRTAL2H-00645,EVT-001370,Timestamp not parseable
+ISS-00944,invalid_timestamp,HRTAL1-00352,EVT-024758,Timestamp not parseable
+ISS-00945,invalid_timestamp,SCMECO1-00214,EVT-004564,Timestamp not parseable
+ISS-00946,invalid_timestamp,HRTAL2H-00214,EVT-028452,Timestamp not parseable
+ISS-00947,invalid_timestamp,SCMECO2O-00425,EVT-018583,Timestamp not parseable
+ISS-00948,invalid_timestamp,HRTAL1-00265,EVT-025026,Timestamp not parseable
+ISS-00949,invalid_timestamp,HRTAL1-00038,EVT-007784,Timestamp not parseable
+ISS-00950,invalid_timestamp,HRTAL2H-00590,EVT-007261,Timestamp not parseable
+ISS-00951,invalid_timestamp,HRTAL2X-00010,EVT-009874,Timestamp not parseable
+ISS-00952,invalid_timestamp,SCMECO2O-00569,EVT-023912,Timestamp not parseable
+ISS-00953,invalid_timestamp,HRTAL2H-00592,EVT-006442,Timestamp not parseable
+ISS-00954,invalid_timestamp,SCMECO1-00508,EVT-012256,Timestamp not parseable
+ISS-00955,invalid_timestamp,SCMECO1-00025,EVT-007754,Timestamp not parseable
+ISS-00956,invalid_timestamp,HRTAL2H-00679,EVT-027304,Timestamp not parseable
+ISS-00957,invalid_timestamp,SCMECO1-00112,EVT-022029,Timestamp not parseable
+ISS-00958,invalid_timestamp,HRTAL2H-00561,EVT-000247,Timestamp not parseable
+ISS-00959,invalid_timestamp,SCMECO2O-00002,EVT-025990,Timestamp not parseable
+ISS-00960,invalid_timestamp,SCMECO2P-00150,EVT-006351,Timestamp not parseable
+ISS-00961,invalid_timestamp,HRTAL2H-00315,EVT-015246,Timestamp not parseable
+ISS-00962,invalid_timestamp,SCMECO2P-00429,EVT-019318,Timestamp not parseable
+ISS-00963,invalid_timestamp,HRTAL1-00126,EVT-005638,Timestamp not parseable
+ISS-00964,invalid_timestamp,SCMECO2O-00046,EVT-026315,Timestamp not parseable
+ISS-00965,invalid_timestamp,HRTAL2X-00068,EVT-016685,Timestamp not parseable
+ISS-00966,invalid_timestamp,HRTAL2X-00032,EVT-014036,Timestamp not parseable
+ISS-00967,invalid_timestamp,HRTAL1-00093,EVT-007025,Timestamp not parseable
+ISS-00968,invalid_timestamp,SCMECO1-00294,EVT-009761,Timestamp not parseable
+ISS-00969,invalid_timestamp,SCMECO1-00174,EVT-015909,Timestamp not parseable
+ISS-00970,invalid_timestamp,SCMECO1-00087,EVT-020134,Timestamp not parseable
+ISS-00971,invalid_timestamp,SCMECO1-00291,EVT-007616,Timestamp not parseable
+ISS-00972,invalid_timestamp,HRTAL2H-00385,EVT-022355,Timestamp not parseable
+ISS-00973,invalid_timestamp,SCMECO1-00591,EVT-014601,Timestamp not parseable
+ISS-00974,invalid_timestamp,HRTAL2X-00228,EVT-003364,Timestamp not parseable
+ISS-00975,invalid_timestamp,SCMECO2P-00213,EVT-022376,Timestamp not parseable
+ISS-00976,invalid_timestamp,SCMECO2P-00031,EVT-013494,Timestamp not parseable
+ISS-00977,invalid_timestamp,HRTAL2H-00345,EVT-010018,Timestamp not parseable
+ISS-00978,invalid_timestamp,SCMECO2P-00422,EVT-002031,Timestamp not parseable
+ISS-00979,invalid_timestamp,HRTAL2H-00640,EVT-022065,Timestamp not parseable
+ISS-00980,invalid_timestamp,SCMECO1-00524,EVT-028290,Timestamp not parseable
+ISS-00981,invalid_timestamp,HRTAL1-00263,EVT-008691,Timestamp not parseable
+ISS-00982,invalid_timestamp,HRTAL2H-00492,EVT-014846,Timestamp not parseable
+ISS-00983,invalid_timestamp,HRTAL1-00036,EVT-020725,Timestamp not parseable
+ISS-00984,duplicate_event,SCMECO1-00574,EVT-028810,Exact duplicate of EVT-019553
+ISS-00985,duplicate_event,HRTAL1-00325,EVT-028811,Exact duplicate of EVT-028240
+ISS-00986,duplicate_event,HRTAL2H-00584,EVT-028812,Exact duplicate of EVT-014512
+ISS-00987,duplicate_event,SCMECO1-00479,EVT-028813,Exact duplicate of EVT-001606
+ISS-00988,duplicate_event,HRTAL1-00071,EVT-028814,Exact duplicate of EVT-011634
+ISS-00989,duplicate_event,SCMECO2O-00552,EVT-028815,Exact duplicate of EVT-006489
+ISS-00990,duplicate_event,SCMECO1-00405,EVT-028816,Exact duplicate of EVT-000092
+ISS-00991,duplicate_event,HRTAL1-00121,EVT-028817,Exact duplicate of EVT-005689
+ISS-00992,duplicate_event,SCMECO2O-00023,EVT-028818,Exact duplicate of EVT-026311
+ISS-00993,duplicate_event,SCMECO2P-00190,EVT-028819,Exact duplicate of EVT-008217
+ISS-00994,duplicate_event,HRTAL2H-00411,EVT-028820,Exact duplicate of EVT-021868
+ISS-00995,duplicate_event,SCMECO2O-00481,EVT-028821,Exact duplicate of EVT-028261
+ISS-00996,duplicate_event,SCMECO1-00065,EVT-028822,Exact duplicate of EVT-015950
+ISS-00997,duplicate_event,SCMECO2O-00665,EVT-028823,Exact duplicate of EVT-017804
+ISS-00998,duplicate_event,HRTAL1-00064,EVT-028824,Exact duplicate of EVT-013812
+ISS-00999,duplicate_event,HRTAL2X-00241,EVT-028825,Exact duplicate of EVT-015796
+ISS-01000,duplicate_event,HRTAL1-00140,EVT-028826,Exact duplicate of EVT-005318
+ISS-01001,duplicate_event,HRTAL1-00229,EVT-028827,Exact duplicate of EVT-022987
+ISS-01002,duplicate_event,HRTAL2H-00008,EVT-028828,Exact duplicate of EVT-021160
+ISS-01003,duplicate_event,HRTAL2H-00198,EVT-028829,Exact duplicate of EVT-000121
+ISS-01004,duplicate_event,HRTAL2H-00318,EVT-028830,Exact duplicate of EVT-018996
+ISS-01005,duplicate_event,HRTAL2H-00119,EVT-028831,Exact duplicate of EVT-007670
+ISS-01006,duplicate_event,SCMECO2P-00099,EVT-028832,Exact duplicate of EVT-010306
+ISS-01007,duplicate_event,SCMECO2P-00241,EVT-028833,Exact duplicate of EVT-020250
+ISS-01008,duplicate_event,SCMECO1-00190,EVT-028834,Exact duplicate of EVT-023386
+ISS-01009,duplicate_event,HRTAL2H-00557,EVT-028835,Exact duplicate of EVT-012527
+ISS-01010,duplicate_event,HRTAL2H-00361,EVT-028836,Exact duplicate of EVT-009672
+ISS-01011,duplicate_event,SCMECO2O-00477,EVT-028837,Exact duplicate of EVT-014995
+ISS-01012,duplicate_event,HRTAL2H-00408,EVT-028838,Exact duplicate of EVT-016703
+ISS-01013,duplicate_event,HRTAL2H-00565,EVT-028839,Exact duplicate of EVT-019258
+ISS-01014,duplicate_event,HRTAL2H-00685,EVT-028840,Exact duplicate of EVT-001614
+ISS-01015,duplicate_event,SCMECO2P-00239,EVT-028841,Exact duplicate of EVT-007716
+ISS-01016,duplicate_event,HRTAL2H-00309,EVT-028842,Exact duplicate of EVT-018142
+ISS-01017,duplicate_event,SCMECO1-00078,EVT-028843,Exact duplicate of EVT-020522
+ISS-01018,duplicate_event,HRTAL2H-00018,EVT-028844,Exact duplicate of EVT-014750
+ISS-01019,duplicate_event,HRTAL2X-00069,EVT-028845,Exact duplicate of EVT-016390
+ISS-01020,duplicate_event,SCMECO1-00172,EVT-028846,Exact duplicate of EVT-020453
+ISS-01021,duplicate_event,HRTAL1-00359,EVT-028847,Exact duplicate of EVT-026703
+ISS-01022,duplicate_event,HRTAL1-00456,EVT-028848,Exact duplicate of EVT-008551
+ISS-01023,duplicate_event,SCMECO1-00394,EVT-028849,Exact duplicate of EVT-024215
+ISS-01024,duplicate_event,SCMECO1-00315,EVT-028850,Exact duplicate of EVT-004138
+ISS-01025,duplicate_event,SCMECO2O-00041,EVT-028851,Exact duplicate of EVT-007586
+ISS-01026,duplicate_event,SCMECO2O-00652,EVT-028852,Exact duplicate of EVT-008584
+ISS-01027,duplicate_event,HRTAL1-00116,EVT-028853,Exact duplicate of EVT-010184
+ISS-01028,duplicate_event,SCMECO2P-00380,EVT-028854,Exact duplicate of EVT-019442
+ISS-01029,duplicate_event,HRTAL2H-00334,EVT-028855,Exact duplicate of EVT-017486
+ISS-01030,duplicate_event,HRTAL2H-00185,EVT-028856,Exact duplicate of EVT-024648
+ISS-01031,duplicate_event,SCMECO1-00161,EVT-028857,Exact duplicate of EVT-008477
+ISS-01032,duplicate_event,SCMECO2O-00793,EVT-028858,Exact duplicate of EVT-003495
+ISS-01033,duplicate_event,SCMECO1-00193,EVT-028859,Exact duplicate of EVT-002581
+ISS-01034,duplicate_event,SCMECO2P-00148,EVT-028860,Exact duplicate of EVT-027428
+ISS-01035,duplicate_event,SCMECO2P-00055,EVT-028861,Exact duplicate of EVT-006723
+ISS-01036,duplicate_event,HRTAL2H-00593,EVT-028862,Exact duplicate of EVT-006318
+ISS-01037,duplicate_event,HRTAL1-00323,EVT-028863,Exact duplicate of EVT-012953
+ISS-01038,duplicate_event,SCMECO2P-00133,EVT-028864,Exact duplicate of EVT-011604
+ISS-01039,duplicate_event,SCMECO1-00048,EVT-028865,Exact duplicate of EVT-021917
+ISS-01040,duplicate_event,HRTAL1-00375,EVT-028866,Exact duplicate of EVT-005929
+ISS-01041,duplicate_event,HRTAL1-00319,EVT-028867,Exact duplicate of EVT-001503
+ISS-01042,duplicate_event,HRTAL1-00244,EVT-028868,Exact duplicate of EVT-025151
+ISS-01043,duplicate_event,SCMECO2O-00294,EVT-028869,Exact duplicate of EVT-022147
+ISS-01044,duplicate_event,HRTAL2H-00328,EVT-028870,Exact duplicate of EVT-003988
+ISS-01045,duplicate_event,HRTAL1-00210,EVT-028871,Exact duplicate of EVT-025488
+ISS-01046,duplicate_event,SCMECO1-00392,EVT-028872,Exact duplicate of EVT-027438
+ISS-01047,duplicate_event,SCMECO2P-00234,EVT-028873,Exact duplicate of EVT-014683
+ISS-01048,duplicate_event,HRTAL2H-00391,EVT-028874,Exact duplicate of EVT-009341
+ISS-01049,duplicate_event,SCMECO2P-00242,EVT-028875,Exact duplicate of EVT-019397
+ISS-01050,duplicate_event,SCMECO2P-00152,EVT-028876,Exact duplicate of EVT-017865
+ISS-01051,duplicate_event,SCMECO2O-00597,EVT-028877,Exact duplicate of EVT-026264
+ISS-01052,duplicate_event,HRTAL1-00110,EVT-028878,Exact duplicate of EVT-002362
+ISS-01053,duplicate_event,HRTAL2H-00019,EVT-028879,Exact duplicate of EVT-015763
+ISS-01054,duplicate_event,SCMECO2O-00188,EVT-028880,Exact duplicate of EVT-005127
+ISS-01055,duplicate_event,SCMECO2P-00099,EVT-028881,Exact duplicate of EVT-009549
+ISS-01056,duplicate_event,HRTAL2H-00652,EVT-028882,Exact duplicate of EVT-018767
+ISS-01057,duplicate_event,HRTAL1-00294,EVT-028883,Exact duplicate of EVT-016351
+ISS-01058,duplicate_event,HRTAL2H-00277,EVT-028884,Exact duplicate of EVT-006285
+ISS-01059,duplicate_event,SCMECO2O-00192,EVT-028885,Exact duplicate of EVT-015107
+ISS-01060,duplicate_event,HRTAL1-00166,EVT-028886,Exact duplicate of EVT-016436
+ISS-01061,duplicate_event,HRTAL1-00091,EVT-028887,Exact duplicate of EVT-005877
+ISS-01062,duplicate_event,HRTAL2H-00366,EVT-028888,Exact duplicate of EVT-009948
+ISS-01063,duplicate_event,SCMECO2O-00738,EVT-028889,Exact duplicate of EVT-009097
+ISS-01064,duplicate_event,SCMECO1-00288,EVT-028890,Exact duplicate of EVT-004366
+ISS-01065,duplicate_event,SCMECO1-00202,EVT-028891,Exact duplicate of EVT-006974
+ISS-01066,duplicate_event,SCMECO2P-00117,EVT-028892,Exact duplicate of EVT-027474
+ISS-01067,duplicate_event,SCMECO2O-00271,EVT-028893,Exact duplicate of EVT-014725
+ISS-01068,duplicate_event,SCMECO2O-00354,EVT-028894,Exact duplicate of EVT-011150
+ISS-01069,duplicate_event,SCMECO2P-00408,EVT-028895,Exact duplicate of EVT-025778
+ISS-01070,duplicate_event,SCMECO2O-00636,EVT-028896,Exact duplicate of EVT-015445
+ISS-01071,duplicate_event,SCMECO2P-00449,EVT-028897,Exact duplicate of EVT-025602
+ISS-01072,duplicate_event,HRTAL2H-00289,EVT-028898,Exact duplicate of EVT-004108
+ISS-01073,duplicate_event,SCMECO1-00485,EVT-028899,Exact duplicate of EVT-013551
+ISS-01074,duplicate_event,SCMECO2P-00437,EVT-028900,Exact duplicate of EVT-024928
+ISS-01075,duplicate_event,SCMECO2P-00414,EVT-028901,Exact duplicate of EVT-001219
+ISS-01076,duplicate_event,SCMECO2P-00183,EVT-028902,Exact duplicate of EVT-000661
+ISS-01077,duplicate_event,HRTAL1-00031,EVT-028903,Exact duplicate of EVT-010523
+ISS-01078,duplicate_event,SCMECO2O-00567,EVT-028904,Exact duplicate of EVT-026031
+ISS-01079,duplicate_event,SCMECO1-00503,EVT-028905,Exact duplicate of EVT-012388
+ISS-01080,duplicate_event,SCMECO1-00249,EVT-028906,Exact duplicate of EVT-011238
+ISS-01081,duplicate_event,HRTAL1-00142,EVT-028907,Exact duplicate of EVT-018517
+ISS-01082,duplicate_event,SCMECO1-00529,EVT-028908,Exact duplicate of EVT-010641
+ISS-01083,duplicate_event,SCMECO2P-00073,EVT-028909,Exact duplicate of EVT-016130
+ISS-01084,duplicate_event,SCMECO2O-00709,EVT-028910,Exact duplicate of EVT-003346
+ISS-01085,duplicate_event,SCMECO2O-00583,EVT-028911,Exact duplicate of EVT-015298
+ISS-01086,duplicate_event,HRTAL2H-00040,EVT-028912,Exact duplicate of EVT-024565
+ISS-01087,duplicate_event,SCMECO1-00307,EVT-028913,Exact duplicate of EVT-024916
+ISS-01088,duplicate_event,SCMECO1-00043,EVT-028914,Exact duplicate of EVT-003118
+ISS-01089,duplicate_event,HRTAL1-00304,EVT-028915,Exact duplicate of EVT-027894
+ISS-01090,duplicate_event,SCMECO2O-00454,EVT-028916,Exact duplicate of EVT-011922
+ISS-01091,duplicate_event,HRTAL1-00496,EVT-028917,Exact duplicate of EVT-000155
+ISS-01092,duplicate_event,HRTAL1-00308,EVT-028918,Exact duplicate of EVT-026593
+ISS-01093,duplicate_event,SCMECO1-00238,EVT-028919,Exact duplicate of EVT-002480
+ISS-01094,duplicate_event,SCMECO1-00199,EVT-028920,Exact duplicate of EVT-016331
+ISS-01095,duplicate_event,SCMECO2P-00116,EVT-028921,Exact duplicate of EVT-012614
+ISS-01096,duplicate_event,HRTAL1-00160,EVT-028922,Exact duplicate of EVT-010716
+ISS-01097,duplicate_event,SCMECO1-00557,EVT-028923,Exact duplicate of EVT-003010
+ISS-01098,duplicate_event,SCMECO2P-00123,EVT-028924,Exact duplicate of EVT-013385
+ISS-01099,duplicate_event,HRTAL1-00095,EVT-028925,Exact duplicate of EVT-017770
+ISS-01100,duplicate_event,SCMECO2P-00378,EVT-028926,Exact duplicate of EVT-008718
+ISS-01101,duplicate_event,HRTAL1-00012,EVT-028927,Exact duplicate of EVT-018183
+ISS-01102,duplicate_event,SCMECO2O-00742,EVT-028928,Exact duplicate of EVT-008019
+ISS-01103,duplicate_event,SCMECO2O-00199,EVT-028929,Exact duplicate of EVT-022158
+ISS-01104,duplicate_event,SCMECO1-00113,EVT-028930,Exact duplicate of EVT-021025
+ISS-01105,duplicate_event,HRTAL2H-00187,EVT-028931,Exact duplicate of EVT-011690
+ISS-01106,duplicate_event,HRTAL1-00017,EVT-028932,Exact duplicate of EVT-020363
+ISS-01107,duplicate_event,HRTAL2H-00292,EVT-028933,Exact duplicate of EVT-000733
+ISS-01108,duplicate_event,HRTAL2X-00132,EVT-028934,Exact duplicate of EVT-021736
+ISS-01109,duplicate_event,HRTAL2H-00645,EVT-028935,Exact duplicate of EVT-000887
+ISS-01110,duplicate_event,HRTAL2H-00170,EVT-028936,Exact duplicate of EVT-012555
+ISS-01111,duplicate_event,SCMECO1-00404,EVT-028937,Exact duplicate of EVT-008286
+ISS-01112,duplicate_event,HRTAL2H-00242,EVT-028938,Exact duplicate of EVT-004008
+ISS-01113,duplicate_event,HRTAL1-00498,EVT-028939,Exact duplicate of EVT-021775
+ISS-01114,duplicate_event,HRTAL2X-00033,EVT-028940,Exact duplicate of EVT-027481
+ISS-01115,duplicate_event,HRTAL2H-00485,EVT-028941,Exact duplicate of EVT-019216
+ISS-01116,duplicate_event,SCMECO1-00459,EVT-028942,Exact duplicate of EVT-003604
+ISS-01117,duplicate_event,SCMECO1-00027,EVT-028943,Exact duplicate of EVT-016447
+ISS-01118,duplicate_event,SCMECO2O-00189,EVT-028944,Exact duplicate of EVT-015511
+ISS-01119,duplicate_event,HRTAL2H-00271,EVT-028945,Exact duplicate of EVT-015587
+ISS-01120,duplicate_event,SCMECO1-00015,EVT-028946,Exact duplicate of EVT-022306
+ISS-01121,duplicate_event,HRTAL1-00408,EVT-028947,Exact duplicate of EVT-013246
+ISS-01122,duplicate_event,HRTAL2X-00230,EVT-028948,Exact duplicate of EVT-007176
+ISS-01123,duplicate_event,HRTAL1-00388,EVT-028949,Exact duplicate of EVT-020109
+ISS-01124,duplicate_event,SCMECO2P-00157,EVT-028950,Exact duplicate of EVT-013275
+ISS-01125,duplicate_event,HRTAL1-00076,EVT-028951,Exact duplicate of EVT-000194
+ISS-01126,duplicate_event,HRTAL2H-00263,EVT-028952,Exact duplicate of EVT-016026
+ISS-01127,duplicate_event,HRTAL2H-00029,EVT-028953,Exact duplicate of EVT-005204
+ISS-01128,duplicate_event,SCMECO1-00211,EVT-028954,Exact duplicate of EVT-025144
+ISS-01129,duplicate_event,SCMECO1-00160,EVT-028955,Exact duplicate of EVT-022836
+ISS-01130,duplicate_event,HRTAL1-00199,EVT-028956,Exact duplicate of EVT-008103
+ISS-01131,duplicate_event,HRTAL1-00181,EVT-028957,Exact duplicate of EVT-002585
+ISS-01132,duplicate_event,HRTAL2H-00309,EVT-028958,Exact duplicate of EVT-018173
+ISS-01133,duplicate_event,SCMECO1-00201,EVT-028959,Exact duplicate of EVT-003503
+ISS-01134,duplicate_event,HRTAL2X-00019,EVT-028960,Exact duplicate of EVT-024330
+ISS-01135,duplicate_event,HRTAL1-00024,EVT-028961,Exact duplicate of EVT-006405
+ISS-01136,duplicate_event,SCMECO2O-00338,EVT-028962,Exact duplicate of EVT-000145
+ISS-01137,duplicate_event,SCMECO1-00216,EVT-028963,Exact duplicate of EVT-002739
+ISS-01138,duplicate_event,SCMECO1-00011,EVT-028964,Exact duplicate of EVT-010700
+ISS-01139,duplicate_event,SCMECO2P-00024,EVT-028965,Exact duplicate of EVT-009895
+ISS-01140,duplicate_event,HRTAL2H-00158,EVT-028966,Exact duplicate of EVT-026623
+ISS-01141,duplicate_event,HRTAL1-00356,EVT-028967,Exact duplicate of EVT-011585
+ISS-01142,duplicate_event,HRTAL2H-00030,EVT-028968,Exact duplicate of EVT-016006
+ISS-01143,duplicate_event,HRTAL1-00276,EVT-028969,Exact duplicate of EVT-004252
+ISS-01144,duplicate_event,HRTAL2H-00560,EVT-028970,Exact duplicate of EVT-024804
+ISS-01145,duplicate_event,SCMECO2P-00150,EVT-028971,Exact duplicate of EVT-005535
+ISS-01146,duplicate_event,HRTAL1-00254,EVT-028972,Exact duplicate of EVT-015868
+ISS-01147,duplicate_event,HRTAL2H-00111,EVT-028973,Exact duplicate of EVT-010763
+ISS-01148,duplicate_event,SCMECO2O-00135,EVT-028974,Exact duplicate of EVT-002047
+ISS-01149,duplicate_event,SCMECO2P-00442,EVT-028975,Exact duplicate of EVT-005952
+ISS-01150,duplicate_event,HRTAL2H-00239,EVT-028976,Exact duplicate of EVT-021519
+ISS-01151,duplicate_event,SCMECO1-00423,EVT-028977,Exact duplicate of EVT-014346
+ISS-01152,duplicate_event,SCMECO2P-00111,EVT-028978,Exact duplicate of EVT-005851
+ISS-01153,duplicate_event,HRTAL1-00434,EVT-028979,Exact duplicate of EVT-015508
+ISS-01154,duplicate_event,SCMECO1-00360,EVT-028980,Exact duplicate of EVT-004802
+ISS-01155,duplicate_event,HRTAL2H-00092,EVT-028981,Exact duplicate of EVT-001998
+ISS-01156,duplicate_event,SCMECO2O-00646,EVT-028982,Exact duplicate of EVT-023619
+ISS-01157,duplicate_event,HRTAL1-00307,EVT-028983,Exact duplicate of EVT-022114
+ISS-01158,duplicate_event,SCMECO1-00137,EVT-028984,Exact duplicate of EVT-021894
+ISS-01159,duplicate_event,HRTAL1-00291,EVT-028985,Exact duplicate of EVT-025255
+ISS-01160,duplicate_event,SCMECO1-00301,EVT-028986,Exact duplicate of EVT-008622
+ISS-01161,duplicate_event,HRTAL2H-00680,EVT-028987,Exact duplicate of EVT-008813
+ISS-01162,duplicate_event,HRTAL1-00335,EVT-028988,Exact duplicate of EVT-027005
+ISS-01163,duplicate_event,HRTAL2H-00103,EVT-028989,Exact duplicate of EVT-002737
+ISS-01164,duplicate_event,SCMECO2O-00395,EVT-028990,Exact duplicate of EVT-017816
+ISS-01165,duplicate_event,SCMECO2P-00435,EVT-028991,Exact duplicate of EVT-022362
+ISS-01166,duplicate_event,SCMECO1-00550,EVT-028992,Exact duplicate of EVT-001165
+ISS-01167,duplicate_event,HRTAL1-00454,EVT-028993,Exact duplicate of EVT-018891
+ISS-01168,duplicate_event,HRTAL2H-00256,EVT-028994,Exact duplicate of EVT-008799
+ISS-01169,duplicate_event,SCMECO2P-00128,EVT-028995,Exact duplicate of EVT-023415
+ISS-01170,duplicate_event,HRTAL1-00085,EVT-028996,Exact duplicate of EVT-008189
+ISS-01171,duplicate_event,SCMECO2P-00362,EVT-028997,Exact duplicate of EVT-006243
+ISS-01172,duplicate_event,HRTAL1-00284,EVT-028998,Exact duplicate of EVT-023162
+ISS-01173,duplicate_event,SCMECO2O-00394,EVT-028999,Exact duplicate of EVT-024339
+ISS-01174,duplicate_event,SCMECO1-00327,EVT-029000,Exact duplicate of EVT-004061
+ISS-01175,duplicate_event,HRTAL1-00346,EVT-029001,Exact duplicate of EVT-025192
+ISS-01176,duplicate_event,HRTAL1-00282,EVT-029002,Exact duplicate of EVT-006879
+ISS-01177,duplicate_event,HRTAL2H-00592,EVT-029003,Exact duplicate of EVT-006350
+ISS-01178,duplicate_event,SCMECO1-00080,EVT-029004,Exact duplicate of EVT-027926
+ISS-01179,duplicate_event,SCMECO2P-00210,EVT-029005,Exact duplicate of EVT-006794
+ISS-01180,duplicate_event,HRTAL1-00432,EVT-029006,Exact duplicate of EVT-008842
+ISS-01181,duplicate_event,SCMECO2O-00319,EVT-029007,Exact duplicate of EVT-002784
+ISS-01182,duplicate_event,SCMECO1-00210,EVT-029008,Exact duplicate of EVT-008966
+ISS-01183,duplicate_event,HRTAL1-00085,EVT-029009,Exact duplicate of EVT-008645
+ISS-01184,duplicate_event,HRTAL2X-00180,EVT-029010,Exact duplicate of EVT-008270
+ISS-01185,duplicate_event,SCMECO2P-00315,EVT-029011,Exact duplicate of EVT-007556
+ISS-01186,duplicate_event,HRTAL2H-00420,EVT-029012,Exact duplicate of EVT-012269
+ISS-01187,duplicate_event,SCMECO1-00366,EVT-029013,Exact duplicate of EVT-004868
+ISS-01188,duplicate_event,HRTAL2H-00462,EVT-029014,Exact duplicate of EVT-026924
+ISS-01189,duplicate_event,SCMECO2P-00404,EVT-029015,Exact duplicate of EVT-017213
+ISS-01190,duplicate_event,SCMECO1-00544,EVT-029016,Exact duplicate of EVT-020785
+ISS-01191,duplicate_event,HRTAL1-00244,EVT-029017,Exact duplicate of EVT-024689
+ISS-01192,duplicate_event,HRTAL1-00182,EVT-029018,Exact duplicate of EVT-028541
+ISS-01193,duplicate_event,SCMECO1-00098,EVT-029019,Exact duplicate of EVT-026776
+ISS-01194,duplicate_event,SCMECO1-00118,EVT-029020,Exact duplicate of EVT-006838
+ISS-01195,duplicate_event,HRTAL2H-00286,EVT-029021,Exact duplicate of EVT-000776
+ISS-01196,duplicate_event,SCMECO1-00405,EVT-029022,Exact duplicate of EVT-000036
+ISS-01197,duplicate_event,HRTAL1-00499,EVT-029023,Exact duplicate of EVT-016116
+ISS-01198,duplicate_event,HRTAL1-00286,EVT-029024,Exact duplicate of EVT-017939
+ISS-01199,duplicate_event,HRTAL1-00393,EVT-029025,Exact duplicate of EVT-013229
+ISS-01200,duplicate_event,HRTAL1-00223,EVT-029026,Exact duplicate of EVT-002941
+ISS-01201,duplicate_event,SCMECO2P-00273,EVT-029027,Exact duplicate of EVT-023899
+ISS-01202,duplicate_event,SCMECO2P-00399,EVT-029028,Exact duplicate of EVT-018277
+ISS-01203,duplicate_event,SCMECO1-00589,EVT-029029,Exact duplicate of EVT-013476
+ISS-01204,duplicate_event,SCMECO2P-00004,EVT-029030,Exact duplicate of EVT-019705
+ISS-01205,duplicate_event,SCMECO1-00498,EVT-029031,Exact duplicate of EVT-014164
+ISS-01206,duplicate_event,SCMECO2P-00108,EVT-029032,Exact duplicate of EVT-027086
+ISS-01207,duplicate_event,SCMECO1-00073,EVT-029033,Exact duplicate of EVT-010053
+ISS-01208,duplicate_event,HRTAL2X-00190,EVT-029034,Exact duplicate of EVT-010808
+ISS-01209,duplicate_event,SCMECO2P-00206,EVT-029035,Exact duplicate of EVT-010327
+ISS-01210,duplicate_event,HRTAL1-00389,EVT-029036,Exact duplicate of EVT-024110
+ISS-01211,duplicate_event,SCMECO1-00006,EVT-029037,Exact duplicate of EVT-003167
+ISS-01212,duplicate_event,SCMECO1-00391,EVT-029038,Exact duplicate of EVT-022556
+ISS-01213,duplicate_event,SCMECO2O-00407,EVT-029039,Exact duplicate of EVT-008187
+ISS-01214,duplicate_event,SCMECO1-00228,EVT-029040,Exact duplicate of EVT-010407
+ISS-01215,duplicate_event,HRTAL2H-00612,EVT-029041,Exact duplicate of EVT-003486
+ISS-01216,duplicate_event,SCMECO1-00286,EVT-029042,Exact duplicate of EVT-000242
+ISS-01217,duplicate_event,SCMECO2P-00032,EVT-029043,Exact duplicate of EVT-002021
+ISS-01218,duplicate_event,HRTAL1-00319,EVT-029044,Exact duplicate of EVT-001776
+ISS-01219,duplicate_event,SCMECO2O-00545,EVT-029045,Exact duplicate of EVT-017497
+ISS-01220,duplicate_event,SCMECO1-00441,EVT-029046,Exact duplicate of EVT-019418
+ISS-01221,duplicate_event,SCMECO2P-00101,EVT-029047,Exact duplicate of EVT-024105
+ISS-01222,duplicate_event,SCMECO2P-00369,EVT-029048,Exact duplicate of EVT-009704
+ISS-01223,duplicate_event,HRTAL1-00223,EVT-029049,Exact duplicate of EVT-002665
+ISS-01224,duplicate_event,HRTAL2H-00461,EVT-029050,Exact duplicate of EVT-003329
+ISS-01225,duplicate_event,SCMECO1-00502,EVT-029051,Exact duplicate of EVT-012135
+ISS-01226,duplicate_event,SCMECO1-00344,EVT-029052,Exact duplicate of EVT-003472
+ISS-01227,duplicate_event,HRTAL2H-00532,EVT-029053,Exact duplicate of EVT-025444
+ISS-01228,duplicate_event,HRTAL2H-00428,EVT-029054,Exact duplicate of EVT-015942
+ISS-01229,duplicate_event,HRTAL1-00429,EVT-029055,Exact duplicate of EVT-020800
+ISS-01230,duplicate_event,SCMECO2O-00011,EVT-029056,Exact duplicate of EVT-012074
+ISS-01231,duplicate_event,SCMECO2O-00557,EVT-029057,Exact duplicate of EVT-001105
+ISS-01232,duplicate_event,SCMECO2P-00388,EVT-029058,Exact duplicate of EVT-023791
+ISS-01233,duplicate_event,SCMECO1-00025,EVT-029059,Exact duplicate of EVT-007659
+ISS-01234,duplicate_event,SCMECO2P-00121,EVT-029060,Exact duplicate of EVT-000736
+ISS-01235,duplicate_event,SCMECO1-00575,EVT-029061,Exact duplicate of EVT-013292
+ISS-01236,duplicate_event,HRTAL1-00497,EVT-029062,Exact duplicate of EVT-003598
+ISS-01237,duplicate_event,HRTAL2H-00236,EVT-029063,Exact duplicate of EVT-017718
+ISS-01238,duplicate_event,HRTAL1-00052,EVT-029064,Exact duplicate of EVT-014994
+ISS-01239,duplicate_event,HRTAL2H-00535,EVT-029065,Exact duplicate of EVT-000384
+ISS-01240,duplicate_event,SCMECO1-00579,EVT-029066,Exact duplicate of EVT-014084
+ISS-01241,duplicate_event,HRTAL2H-00049,EVT-029067,Exact duplicate of EVT-021923
+ISS-01242,duplicate_event,HRTAL2X-00113,EVT-029068,Exact duplicate of EVT-020895
+ISS-01243,duplicate_event,HRTAL1-00347,EVT-029069,Exact duplicate of EVT-002908
+ISS-01244,duplicate_event,SCMECO1-00520,EVT-029070,Exact duplicate of EVT-005796
+ISS-01245,duplicate_event,SCMECO2P-00158,EVT-029071,Exact duplicate of EVT-007917
+ISS-01246,duplicate_event,HRTAL2H-00348,EVT-029072,Exact duplicate of EVT-025619
+ISS-01247,duplicate_event,HRTAL2H-00441,EVT-029073,Exact duplicate of EVT-004572
+ISS-01248,duplicate_event,SCMECO2O-00621,EVT-029074,Exact duplicate of EVT-014216
+ISS-01249,duplicate_event,SCMECO1-00404,EVT-029075,Exact duplicate of EVT-007795
+ISS-01250,duplicate_event,SCMECO2P-00261,EVT-029076,Exact duplicate of EVT-016758
+ISS-01251,duplicate_event,HRTAL1-00294,EVT-029077,Exact duplicate of EVT-016209
+ISS-01252,duplicate_event,HRTAL1-00344,EVT-029078,Exact duplicate of EVT-006040
+ISS-01253,duplicate_event,HRTAL1-00076,EVT-029079,Exact duplicate of EVT-000334
+ISS-01254,duplicate_event,HRTAL1-00171,EVT-029080,Exact duplicate of EVT-016961
+ISS-01255,duplicate_event,HRTAL2H-00144,EVT-029081,Exact duplicate of EVT-001890
+ISS-01256,duplicate_event,HRTAL2H-00425,EVT-029082,Exact duplicate of EVT-017586
+ISS-01257,duplicate_event,SCMECO2P-00166,EVT-029083,Exact duplicate of EVT-002573
+ISS-01258,duplicate_event,HRTAL1-00114,EVT-029084,Exact duplicate of EVT-009055
+ISS-01259,duplicate_event,HRTAL2H-00056,EVT-029085,Exact duplicate of EVT-009149
+ISS-01260,duplicate_event,HRTAL1-00138,EVT-029086,Exact duplicate of EVT-019687
+ISS-01261,duplicate_event,SCMECO2O-00317,EVT-029087,Exact duplicate of EVT-028311
+ISS-01262,duplicate_event,SCMECO2P-00442,EVT-029088,Exact duplicate of EVT-006486
+ISS-01263,duplicate_event,SCMECO1-00591,EVT-029089,Exact duplicate of EVT-014165
+ISS-01264,duplicate_event,SCMECO1-00593,EVT-029090,Exact duplicate of EVT-012150
+ISS-01265,duplicate_event,SCMECO1-00024,EVT-029091,Exact duplicate of EVT-015707
+ISS-01266,duplicate_event,HRTAL2H-00147,EVT-029092,Exact duplicate of EVT-017749
+ISS-01267,duplicate_event,SCMECO2P-00408,EVT-029093,Exact duplicate of EVT-025534
+ISS-01268,duplicate_event,SCMECO2P-00334,EVT-029094,Exact duplicate of EVT-005370
+ISS-01269,duplicate_event,SCMECO1-00017,EVT-029095,Exact duplicate of EVT-017117
+ISS-01270,duplicate_event,HRTAL1-00309,EVT-029096,Exact duplicate of EVT-027371
+ISS-01271,duplicate_event,SCMECO1-00538,EVT-029097,Exact duplicate of EVT-010594
+ISS-01272,duplicate_event,HRTAL2H-00117,EVT-029098,Exact duplicate of EVT-013004
+ISS-01273,duplicate_event,HRTAL2H-00196,EVT-029099,Exact duplicate of EVT-006166
+ISS-01274,duplicate_event,HRTAL1-00397,EVT-029100,Exact duplicate of EVT-026839
+ISS-01275,duplicate_event,SCMECO2P-00330,EVT-029101,Exact duplicate of EVT-003049
+ISS-01276,duplicate_event,SCMECO2O-00510,EVT-029102,Exact duplicate of EVT-014450
+ISS-01277,duplicate_event,SCMECO1-00161,EVT-029103,Exact duplicate of EVT-009104
+ISS-01278,duplicate_event,SCMECO2O-00366,EVT-029104,Exact duplicate of EVT-013299
+ISS-01279,duplicate_event,HRTAL1-00002,EVT-029105,Exact duplicate of EVT-015226
+ISS-01280,duplicate_event,HRTAL1-00131,EVT-029106,Exact duplicate of EVT-027274
+ISS-01281,duplicate_event,SCMECO2P-00081,EVT-029107,Exact duplicate of EVT-016802
+ISS-01282,duplicate_event,SCMECO1-00373,EVT-029108,Exact duplicate of EVT-020133
+ISS-01283,duplicate_event,HRTAL2H-00414,EVT-029109,Exact duplicate of EVT-000503
+ISS-01284,duplicate_event,HRTAL1-00073,EVT-029110,Exact duplicate of EVT-001525
+ISS-01285,duplicate_event,SCMECO1-00151,EVT-029111,Exact duplicate of EVT-008394
+ISS-01286,duplicate_event,HRTAL1-00345,EVT-029112,Exact duplicate of EVT-019338
+ISS-01287,duplicate_event,HRTAL2H-00200,EVT-029113,Exact duplicate of EVT-022992
+ISS-01288,duplicate_event,SCMECO2P-00281,EVT-029114,Exact duplicate of EVT-021130
+ISS-01289,duplicate_event,SCMECO2O-00055,EVT-029115,Exact duplicate of EVT-025538
+ISS-01290,duplicate_event,HRTAL1-00144,EVT-029116,Exact duplicate of EVT-023976
+ISS-01291,duplicate_event,HRTAL1-00139,EVT-029117,Exact duplicate of EVT-028720
+ISS-01292,duplicate_event,HRTAL1-00458,EVT-029118,Exact duplicate of EVT-021185
+ISS-01293,duplicate_event,HRTAL2H-00160,EVT-029119,Exact duplicate of EVT-000056
+ISS-01294,duplicate_event,SCMECO1-00357,EVT-029120,Exact duplicate of EVT-008893
+ISS-01295,duplicate_event,HRTAL1-00169,EVT-029121,Exact duplicate of EVT-023848
+ISS-01296,duplicate_event,SCMECO1-00093,EVT-029122,Exact duplicate of EVT-012382
+ISS-01297,duplicate_event,HRTAL1-00023,EVT-029123,Exact duplicate of EVT-012620
+ISS-01298,duplicate_event,HRTAL1-00063,EVT-029124,Exact duplicate of EVT-014892
+ISS-01299,duplicate_event,SCMECO2O-00638,EVT-029125,Exact duplicate of EVT-016283
+ISS-01300,duplicate_event,SCMECO2P-00110,EVT-029126,Exact duplicate of EVT-005474
+ISS-01301,duplicate_event,SCMECO1-00412,EVT-029127,Exact duplicate of EVT-018601
+ISS-01302,duplicate_event,HRTAL2H-00455,EVT-029128,Exact duplicate of EVT-018270
+ISS-01303,duplicate_event,HRTAL2H-00400,EVT-029129,Exact duplicate of EVT-013491
+ISS-01304,duplicate_event,SCMECO1-00050,EVT-029130,Exact duplicate of EVT-019720
+ISS-01305,duplicate_event,SCMECO1-00001,EVT-029131,Exact duplicate of EVT-004973
+ISS-01306,duplicate_event,SCMECO2P-00040,EVT-029132,Exact duplicate of EVT-001727
+ISS-01307,duplicate_event,HRTAL2H-00162,EVT-029133,Exact duplicate of EVT-028682
+ISS-01308,duplicate_event,HRTAL1-00398,EVT-029134,Exact duplicate of EVT-025280
+ISS-01309,duplicate_event,SCMECO1-00084,EVT-029135,Exact duplicate of EVT-016784
+ISS-01310,duplicate_event,SCMECO1-00521,EVT-029136,Exact duplicate of EVT-018731
+ISS-01311,duplicate_event,SCMECO2O-00489,EVT-029137,Exact duplicate of EVT-026380
+ISS-01312,duplicate_event,SCMECO1-00033,EVT-029138,Exact duplicate of EVT-022979
+ISS-01313,duplicate_event,SCMECO1-00011,EVT-029139,Exact duplicate of EVT-011347
+ISS-01314,duplicate_event,SCMECO2P-00428,EVT-029140,Exact duplicate of EVT-011232
+ISS-01315,duplicate_event,HRTAL2H-00443,EVT-029141,Exact duplicate of EVT-019389
+ISS-01316,duplicate_event,SCMECO2O-00654,EVT-029142,Exact duplicate of EVT-017181
+ISS-01317,duplicate_event,SCMECO2O-00316,EVT-029143,Exact duplicate of EVT-028136
+ISS-01318,duplicate_event,SCMECO2P-00234,EVT-029144,Exact duplicate of EVT-014375
+ISS-01319,duplicate_event,SCMECO1-00146,EVT-029145,Exact duplicate of EVT-002859
+ISS-01320,duplicate_event,SCMECO2P-00276,EVT-029146,Exact duplicate of EVT-019146
+ISS-01321,duplicate_event,HRTAL1-00122,EVT-029147,Exact duplicate of EVT-017283
+ISS-01322,duplicate_event,HRTAL1-00409,EVT-029148,Exact duplicate of EVT-025898
+ISS-01323,duplicate_event,HRTAL1-00071,EVT-029149,Exact duplicate of EVT-012211
+ISS-01324,duplicate_event,SCMECO1-00064,EVT-029150,Exact duplicate of EVT-018308
+ISS-01325,duplicate_event,SCMECO1-00055,EVT-029151,Exact duplicate of EVT-016859
+ISS-01326,duplicate_event,SCMECO2O-00404,EVT-029152,Exact duplicate of EVT-010541
+ISS-01327,duplicate_event,HRTAL1-00084,EVT-029153,Exact duplicate of EVT-012228
+ISS-01328,duplicate_event,HRTAL2H-00132,EVT-029154,Exact duplicate of EVT-021196
+ISS-01329,duplicate_event,SCMECO1-00183,EVT-029155,Exact duplicate of EVT-001023
+ISS-01330,duplicate_event,HRTAL1-00254,EVT-029156,Exact duplicate of EVT-015991
+ISS-01331,duplicate_event,HRTAL1-00118,EVT-029157,Exact duplicate of EVT-018802
+ISS-01332,duplicate_event,HRTAL1-00020,EVT-029158,Exact duplicate of EVT-014759
+ISS-01333,duplicate_event,SCMECO1-00375,EVT-029159,Exact duplicate of EVT-005459
+ISS-01334,duplicate_event,HRTAL1-00331,EVT-029160,Exact duplicate of EVT-027841
+ISS-01335,duplicate_event,HRTAL2H-00277,EVT-029161,Exact duplicate of EVT-006455
+ISS-01336,duplicate_event,SCMECO1-00227,EVT-029162,Exact duplicate of EVT-016113
+ISS-01337,duplicate_event,SCMECO2O-00078,EVT-029163,Exact duplicate of EVT-009049
+ISS-01338,duplicate_event,HRTAL2H-00114,EVT-029164,Exact duplicate of EVT-017058
+ISS-01339,duplicate_event,HRTAL1-00068,EVT-029165,Exact duplicate of EVT-009879
+ISS-01340,duplicate_event,HRTAL1-00091,EVT-029166,Exact duplicate of EVT-005430
+ISS-01341,duplicate_event,HRTAL2H-00501,EVT-029167,Exact duplicate of EVT-001982
+ISS-01342,duplicate_event,HRTAL2X-00224,EVT-029168,Exact duplicate of EVT-018238
+ISS-01343,duplicate_event,HRTAL1-00035,EVT-029169,Exact duplicate of EVT-010512
+ISS-01344,duplicate_event,SCMECO2P-00398,EVT-029170,Exact duplicate of EVT-028444
+ISS-01345,duplicate_event,SCMECO1-00062,EVT-029171,Exact duplicate of EVT-016217
+ISS-01346,duplicate_event,SCMECO2P-00166,EVT-029172,Exact duplicate of EVT-002634
+ISS-01347,duplicate_event,HRTAL1-00323,EVT-029173,Exact duplicate of EVT-012569
+ISS-01348,duplicate_event,HRTAL2X-00042,EVT-029174,Exact duplicate of EVT-008696
+ISS-01349,duplicate_event,SCMECO1-00332,EVT-029175,Exact duplicate of EVT-020569
+ISS-01350,duplicate_event,HRTAL1-00064,EVT-029176,Exact duplicate of EVT-013668
+ISS-01351,duplicate_event,HRTAL1-00381,EVT-029177,Exact duplicate of EVT-021068
+ISS-01352,duplicate_event,HRTAL2H-00540,EVT-029178,Exact duplicate of EVT-008245
+ISS-01353,duplicate_event,HRTAL2H-00521,EVT-029179,Exact duplicate of EVT-028382
+ISS-01354,duplicate_event,SCMECO2O-00607,EVT-029180,Exact duplicate of EVT-000276
+ISS-01355,duplicate_event,SCMECO1-00245,EVT-029181,Exact duplicate of EVT-014251
+ISS-01356,duplicate_event,SCMECO2O-00728,EVT-029182,Exact duplicate of EVT-013951
+ISS-01357,duplicate_event,HRTAL2H-00198,EVT-029183,Exact duplicate of EVT-000275
+ISS-01358,duplicate_event,SCMECO2O-00741,EVT-029184,Exact duplicate of EVT-024682
+ISS-01359,duplicate_event,SCMECO2P-00221,EVT-029185,Exact duplicate of EVT-014804
+ISS-01360,duplicate_event,SCMECO2O-00428,EVT-029186,Exact duplicate of EVT-004694
+ISS-01361,duplicate_event,HRTAL2H-00323,EVT-029187,Exact duplicate of EVT-025934
+ISS-01362,duplicate_event,HRTAL1-00402,EVT-029188,Exact duplicate of EVT-010001
+ISS-01363,duplicate_event,SCMECO1-00356,EVT-029189,Exact duplicate of EVT-020163
+ISS-01364,duplicate_event,HRTAL2H-00363,EVT-029190,Exact duplicate of EVT-026224
+ISS-01365,duplicate_event,HRTAL2X-00029,EVT-029191,Exact duplicate of EVT-001612
+ISS-01366,duplicate_event,HRTAL1-00366,EVT-029192,Exact duplicate of EVT-007033
+ISS-01367,duplicate_event,HRTAL1-00367,EVT-029193,Exact duplicate of EVT-026227
+ISS-01368,duplicate_event,SCMECO1-00236,EVT-029194,Exact duplicate of EVT-023339
+ISS-01369,duplicate_event,SCMECO2P-00099,EVT-029195,Exact duplicate of EVT-010544
+ISS-01370,duplicate_event,HRTAL2H-00477,EVT-029196,Exact duplicate of EVT-028131
+ISS-01371,duplicate_event,HRTAL1-00371,EVT-029197,Exact duplicate of EVT-018922
+ISS-01372,duplicate_event,SCMECO2P-00148,EVT-029198,Exact duplicate of EVT-027641
+ISS-01373,duplicate_event,SCMECO1-00276,EVT-029199,Exact duplicate of EVT-011120
+ISS-01374,duplicate_event,HRTAL2H-00272,EVT-029200,Exact duplicate of EVT-016778
+ISS-01375,duplicate_event,HRTAL1-00449,EVT-029201,Exact duplicate of EVT-025589
+ISS-01376,duplicate_event,HRTAL2H-00082,EVT-029202,Exact duplicate of EVT-001177
+ISS-01377,duplicate_event,SCMECO2P-00039,EVT-029203,Exact duplicate of EVT-011029
+ISS-01378,duplicate_event,SCMECO1-00359,EVT-029204,Exact duplicate of EVT-017371
+ISS-01379,duplicate_event,SCMECO1-00058,EVT-029205,Exact duplicate of EVT-017143
+ISS-01380,duplicate_event,HRTAL2H-00199,EVT-029206,Exact duplicate of EVT-004235
+ISS-01381,duplicate_event,HRTAL1-00251,EVT-029207,Exact duplicate of EVT-008195
+ISS-01382,duplicate_event,HRTAL1-00492,EVT-029208,Exact duplicate of EVT-007486
+ISS-01383,duplicate_event,SCMECO1-00183,EVT-029209,Exact duplicate of EVT-002278
+ISS-01384,duplicate_event,SCMECO1-00012,EVT-029210,Exact duplicate of EVT-011162
+ISS-01385,duplicate_event,SCMECO1-00340,EVT-029211,Exact duplicate of EVT-014294
+ISS-01386,duplicate_event,SCMECO1-00016,EVT-029212,Exact duplicate of EVT-008547
+ISS-01387,duplicate_event,SCMECO2P-00090,EVT-029213,Exact duplicate of EVT-006143
+ISS-01388,duplicate_event,SCMECO2P-00196,EVT-029214,Exact duplicate of EVT-016175
+ISS-01389,duplicate_event,SCMECO2P-00032,EVT-029215,Exact duplicate of EVT-002032
+ISS-01390,duplicate_event,HRTAL2X-00184,EVT-029216,Exact duplicate of EVT-022302
+ISS-01391,duplicate_event,SCMECO2P-00038,EVT-029217,Exact duplicate of EVT-005466
+ISS-01392,duplicate_event,HRTAL1-00334,EVT-029218,Exact duplicate of EVT-020111
+ISS-01393,duplicate_event,HRTAL1-00188,EVT-029219,Exact duplicate of EVT-010638
+ISS-01394,duplicate_event,SCMECO1-00520,EVT-029220,Exact duplicate of EVT-005774
+ISS-01395,duplicate_event,SCMECO2P-00242,EVT-029221,Exact duplicate of EVT-019759
+ISS-01396,duplicate_event,SCMECO2O-00162,EVT-029222,Exact duplicate of EVT-006335
+ISS-01397,duplicate_event,HRTAL1-00103,EVT-029223,Exact duplicate of EVT-023397
+ISS-01398,duplicate_event,HRTAL2H-00666,EVT-029224,Exact duplicate of EVT-005555
+ISS-01399,duplicate_event,SCMECO2P-00109,EVT-029225,Exact duplicate of EVT-017132
+ISS-01400,duplicate_event,HRTAL1-00405,EVT-029226,Exact duplicate of EVT-014222
+ISS-01401,duplicate_event,SCMECO1-00579,EVT-029227,Exact duplicate of EVT-014170
+ISS-01402,duplicate_event,HRTAL1-00311,EVT-029228,Exact duplicate of EVT-007429
+ISS-01403,duplicate_event,SCMECO1-00165,EVT-029229,Exact duplicate of EVT-020396
+ISS-01404,duplicate_event,SCMECO2P-00098,EVT-029230,Exact duplicate of EVT-011552
+ISS-01405,duplicate_event,HRTAL1-00039,EVT-029231,Exact duplicate of EVT-024578
+ISS-01406,duplicate_event,HRTAL1-00104,EVT-029232,Exact duplicate of EVT-008105
+ISS-01407,duplicate_event,SCMECO1-00059,EVT-029233,Exact duplicate of EVT-012395
+ISS-01408,duplicate_event,HRTAL1-00495,EVT-029234,Exact duplicate of EVT-009969
+ISS-01409,duplicate_event,HRTAL2H-00254,EVT-029235,Exact duplicate of EVT-019610
+ISS-01410,duplicate_event,SCMECO1-00326,EVT-029236,Exact duplicate of EVT-025690
+ISS-01411,duplicate_event,HRTAL1-00264,EVT-029237,Exact duplicate of EVT-023314
+ISS-01412,duplicate_event,HRTAL2H-00173,EVT-029238,Exact duplicate of EVT-014602
+ISS-01413,duplicate_event,SCMECO2P-00191,EVT-029239,Exact duplicate of EVT-013158
+ISS-01414,duplicate_event,SCMECO2O-00043,EVT-029240,Exact duplicate of EVT-018438
+ISS-01415,duplicate_event,HRTAL1-00145,EVT-029241,Exact duplicate of EVT-008732
